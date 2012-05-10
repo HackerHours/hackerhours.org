@@ -7,10 +7,6 @@
         background: #EDEDED;
         text-align: center;
       }
-      a {
-        text-decoration: none;
-        color: black;
-      }
       h1 {
         margin: 2em 0 0.2em;
         font-size: 5em;
@@ -20,6 +16,10 @@
         margin-bottom: 2em;
         font-family: 'Muli', sans-serif;
         font-size: 1.4em;
+      }
+      a.meetupLink {
+        text-decoration: none;
+        color: black;
       }
       #meetupDate {
         position: relative;
@@ -44,6 +44,13 @@
       }
       #meetupDate:hover #dateStr {
         opacity: 1;
+      }
+      #footer {
+        position: absolute;
+        bottom: 0.5em;
+        font-family: 'Merriweather', serif;
+        font-size: 0.8em;
+        color: gray;
       }
     </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
@@ -93,5 +100,6 @@
         Next meetup: <span id="meetupDate"><span id='dateMs'></span><span id='dateStr'></span></span>
       </p>
     </a>
+    <a id="footer" href="https://github.com/afeld/hackerhours.org">Fork me</a>
   </body>
 </html>
