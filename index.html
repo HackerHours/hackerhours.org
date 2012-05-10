@@ -16,17 +16,34 @@
         font-size: 5em;
         font-family: 'Merriweather', serif;
       }
-      h2 {
+      p {
+        margin-bottom: 2em;
         font-family: 'Muli', sans-serif;
+        font-size: 1.4em;
+      }
+      #meetupDate {
+        position: relative;
+      }
+      #dateMs,
+      #dateStr {
+        -webkit-transition: opacity 0.4s linear;
+        -moz-transition: opacity 0.4s linear;
+        -o-transition: opacity 0.4s linear;
+        -ms-transition: opacity 0.4s linear;
+        transition: opacity 0.4s linear;
       }
       #dateStr {
-        display: none;
+        position: absolute;
+        left: 0;
+        width: 18em;
+        text-align: left;
+        opacity: 0;
       }
       #meetupDate:hover #dateMs {
-        display: none;
+        opacity: 0;
       }
       #meetupDate:hover #dateStr {
-        display: inline;
+        opacity: 1;
       }
     </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
@@ -56,9 +73,11 @@
     <script src="http://jsonp.jit.su/?url=https%3A%2F%2Fapi.meetup.com%2F2%2Fevents%3Fkey%3D3c2a67534a193f12c46115f7b112e1e%26sign%3Dtrue%26group_urlname%3Dnyhacker%26page%3D3&jsonp=meetupCallback"></script>
   </head>
   <body>
-    <a class="meetupLink">
+    <a class="meetupLink" href="http://meetup.com/nyhacker">
       <h1 id="title">Hacker Hours</h1>
-      <h2>Free office hours for programming help</h2>
+      <p>
+        Free office hours for programming help
+      </p>
       <p>
         Next meetup: <span id="meetupDate"><span id='dateMs'></span><span id='dateStr'></span></span>
       </p>
