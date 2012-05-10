@@ -1,8 +1,52 @@
 <html>
   <head>
     <title>Hacker Hours</title>
+    <link href='http://fonts.googleapis.com/css?family=Muli:300|Merriweather:400' rel='stylesheet' type='text/css'>
+    <style>
+      html {
+        background: #EDEDED;
+        text-align: center;
+      }
+      a {
+        text-decoration: none;
+        color: black;
+      }
+      h1 {
+        margin: 2em 0 0.2em;
+        font-size: 5em;
+        font-family: 'Merriweather', serif;
+      }
+      h2 {
+        font-family: 'Muli', sans-serif;
+      }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script>
+      function meetupCallback(data){
+        // the document may or may not be ready
+        $(function(){
+          var results = data.results;
+          for (var i = 0; i < results.length; i++){
+            var result = results[i];
+            if (result.name.match(/hacker hours/i)){
+              var time = new Date(result.time);
+              $('#meetupDate').text(time.toDateString());
+              $('.meetupLink').attr('href', result.event_url);
+              return;
+            }
+          }
+        });
+      };
+    </script>
+    <script src="http://jsonp.jit.su/?url=https%3A%2F%2Fapi.meetup.com%2F2%2Fevents%3Fkey%3D3c2a67534a193f12c46115f7b112e1e%26sign%3Dtrue%26group_urlname%3Dnyhacker%26page%3D3&jsonp=meetupCallback"></script>
   </head>
   <body>
-    Welcome to Hacker Hours!
+    <a class="meetupLink">
+      <h1 id="title">Hacker Hours</h1>
+      <h2>Free office hours for programming help</h2>
+      <p>
+        Next meetup: <span id='meetupDate'></span>
+      </p>
+    </a>
   </body>
 </html>
