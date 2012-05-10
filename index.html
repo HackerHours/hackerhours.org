@@ -19,8 +19,18 @@
       h2 {
         font-family: 'Muli', sans-serif;
       }
+      #dateStr {
+        display: none;
+      }
+      #meetupDate:hover #dateMs {
+        display: none;
+      }
+      #meetupDate:hover #dateStr {
+        display: inline;
+      }
     </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="scripts/moment.min.js"></script>
     <script>
       function meetupCallback(data){
         // the document may or may not be ready
@@ -29,9 +39,14 @@
           for (var i = 0; i < results.length; i++){
             var result = results[i];
             if (result.name.match(/hacker hours/i)){
-              var time = new Date(result.time);
-              $('#meetupDate').text(time.toDateString());
               $('.meetupLink').attr('href', result.event_url);
+
+              var dateStr = moment(parseInt(result.time)).format('ddd, MMMM Do YYYY, h:mm a'),
+                $meetupDate = $('#meetupDate');
+
+              $meetupDate.find('#dateMs').text(result.time);
+              $meetupDate.find('#dateStr').text(dateStr);
+              
               return;
             }
           }
@@ -45,7 +60,7 @@
       <h1 id="title">Hacker Hours</h1>
       <h2>Free office hours for programming help</h2>
       <p>
-        Next meetup: <span id='meetupDate'></span>
+        Next meetup: <span id="meetupDate"><span id='dateMs'></span><span id='dateStr'></span></span>
       </p>
     </a>
   </body>
