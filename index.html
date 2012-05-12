@@ -56,12 +56,13 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script src="scripts/moment.min.js"></script>
     <script>
-      function meetupCallback(data){
+      $.get('http://jsonp.jit.su/?url=https%3A%2F%2Fapi.meetup.com%2F2%2Fevents%3Fkey%3D3c2a67534a193f12c46115f7b112e1e%26sign%3Dtrue%26group_urlname%3Dnyhacker%26page%3D3', function(data){
         // the document may or may not be ready
         $(function(){
           var results = data.results;
           for (var i = 0; i < results.length; i++){
             var result = results[i];
+            // find the soonest upcoming event
             if (result.name.match(/hacker hours/i)){
               $('.meetupLink').attr('href', result.event_url);
 
@@ -75,9 +76,8 @@
             }
           }
         });
-      };
+      });
     </script>
-    <script src="http://jsonp.jit.su/?url=https%3A%2F%2Fapi.meetup.com%2F2%2Fevents%3Fkey%3D3c2a67534a193f12c46115f7b112e1e%26sign%3Dtrue%26group_urlname%3Dnyhacker%26page%3D3&jsonp=meetupCallback"></script>
     <script type="text/javascript">
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-19048260-6']);
@@ -97,7 +97,7 @@
         Free office hours for programming help
       </p>
       <p>
-        Next meetup: <span id="meetupDate"><span id='dateMs'></span><span id='dateStr'></span></span>
+        Next meetup: <span id="meetupDate"><span id='dateMs'>loading...</span><span id='dateStr'>loading...</span></span>
       </p>
     </a>
     <a id="footer" href="https://github.com/afeld/hackerhours.org">Fork me</a>
