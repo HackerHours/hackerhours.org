@@ -1,0 +1,53 @@
+html {
+  background: #EDEDED;
+  text-align: center;
+}
+h1 {
+  margin: 2em 0 0.2em;
+  font-size: 5em;
+  font-family: 'Merriweather', serif;
+}
+p {
+  margin-bottom: 2em;
+  font-family: 'Muli', sans-serif;
+  font-size: 1.4em;
+}
+a.meetupLink {
+  text-decoration: none;
+  color: black;
+}
+#meetupDate {
+  position: relative;
+}
+#dateMs,
+#dateStr {
+  -webkit-transition: opacity 0.4s linear;
+  -moz-transition: opacity 0.4s linear;
+  -o-transition: opacity 0.4s linear;
+  -ms-transition: opacity 0.4s linear;
+  transition: opacity 0.4s linear;
+}
+#dateStr {
+  position: absolute;
+  left: 0;
+  width: 18em;
+  text-align: left;
+  opacity: 0;
+}
+#meetupDate:hover #dateMs {
+  opacity: 0;
+}
+#meetupDate:hover #dateStr {
+  opacity: 1;
+}
+#footer {
+  position: absolute;
+  bottom: 0.5em;
+  width: 100%;
+  font-family: 'Merriweather', serif;
+  font-size: 0.8em;
+}
+#footer,
+#footer a {
+  color: gray;
+}

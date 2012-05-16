@@ -2,7 +2,7 @@
   var start = Date.now(),
     shuffler;
 
-  $.get('http://jsonp.jit.su/?url=https%3A%2F%2Fapi.meetup.com%2F2%2Fevents%3Fkey%3D3c2a67534a193f12c46115f7b112e1e%26sign%3Dtrue%26group_urlname%3Dnyhacker%26page%3D3', function(data){
+  $.get('http://jsonp.jit.su/?url=' + encodeURIComponent('https://api.meetup.com/2/events?key=3c2a67534a193f12c46115f7b112e1e&sign=true&group_urlname=nyhacker&page=3'), function(data){
     var results = data.results;
     for (var i = 0; i < results.length; i++){
       var result = results[i];
