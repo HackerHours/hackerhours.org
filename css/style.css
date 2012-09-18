@@ -43,7 +43,7 @@ a.meetupLink {
 #footer {
   position: absolute;
   bottom: 0.5em;
-  width: 100%;
+  width: 99%; /* hack to avoid horizontal scroll bar */
   font-family: 'Merriweather', serif;
   font-size: 0.8em;
 }
