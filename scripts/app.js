@@ -2,7 +2,7 @@
   var start = Date.now(),
     shuffler;
 
-  $.getJSON('http://jsonp.jit.su/?url=' + encodeURIComponent('https://api.meetup.com/2/events?key=3c2a67534a193f12c46115f7b112e1e&sign=true&group_urlname=hackerhours&page=1'), function(data){
+  $.getJSON('http://api.meetup.com/2/events?key=3c2a67534a193f12c46115f7b112e1e&sign=true&group_urlname=hackerhours&page=1&callback=?', function(data){
     var result = data.results[0];
 
     // the document may or may not be ready
