@@ -1,4 +1,7 @@
+/*jshint browser:true, jquery:true */
+/*global moment */
 (function(){
+  'use strict';
   var start = Date.now(),
     shuffler;
 
@@ -42,4 +45,4 @@
       $date.text(currentTime.join(''));
     }, 5);
   });
-})();
+}());
