@@ -1,7 +1,11 @@
+<!DOCTYPE html>
 <html>
   <head>
+    <meta charset="UTF-8">
     <title>Hacker Hours</title>
-    <link href="http://fonts.googleapis.com/css?family=Muli:300|Merriweather:400" rel="stylesheet" type="text/css">
+    <!-- don't assume 960px wide on iOS -->
+    <meta name="viewport" content="width=device-width" />
+    <link href="http://fonts.googleapis.com/css?family=Muli:300|Merriweather" rel="stylesheet" type="text/css">
     <link href="css/style.css" rel="stylesheet" type="text/css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" type="text/javascript"></script>
     <script src="scripts/moment.min.js" type="text/javascript"></script>
@@ -28,16 +32,18 @@
         Next meetup: <span id="meetupDate"><span id='dateMs'></span><span id='dateStr'></span></span>
       </p>
     </a>
-    <div id="footer">
-      <a href="https://twitter.com/aidanfeldman">@aidanfeldman</a>
-      &#126;
-      <a href="http://thenextweb.com/dd/2012/05/14/hacker-hours-the-awesome-grassroots-meetup-that-teaches-new-yorkers-to-code">Writeup on TNW</a>
-      &#126;
-      <a href="http://afeld.me/nerdery/7132">Original blog post</a>
-      &#126;
-      <a href="mailto:hackerhoursnyc@gmail.com">Contact</a>
-      &#126;
-      <a href="https://github.com/afeld/hackerhours.org">Fork this site</a>
+    <div id="footerWrap">
+      <div id="footerInner">
+        <a href="https://twitter.com/aidanfeldman">@aidanfeldman</a>
+        &#126;
+        <a href="http://thenextweb.com/dd/2012/05/14/hacker-hours-the-awesome-grassroots-meetup-that-teaches-new-yorkers-to-code">Writeup on TNW</a>
+        &#126;
+        <a href="http://afeld.me/nerdery/7132">Original blog post</a>
+        &#126;
+        <a href="mailto:hackerhoursnyc@gmail.com">Contact</a>
+        &#126;
+        <a href="https://github.com/afeld/hackerhours.org">Fork this site</a>
+      </div>
     </div>
   </body>
 </html>
