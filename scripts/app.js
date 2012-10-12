@@ -2,34 +2,27 @@
   var start = Date.now(),
     shuffler;
 
-  $.get('http://jsonp.jit.su/?url=' + encodeURIComponent('https://api.meetup.com/2/events?key=3c2a67534a193f12c46115f7b112e1e&sign=true&group_urlname=nyhacker&page=3'), function(data){
-    var results = data.results;
-    for (var i = 0; i < results.length; i++){
-      var result = results[i];
-      // find the first match
-      if (result.name.match(/hacker hours/i)){
-        // the document may or may not be ready
-        $(function(){
-          $('.meetupLink').attr('href', result.event_url);
+  $.getJSON('http://jsonp.jit.su/?url=' + encodeURIComponent('https://api.meetup.com/2/events?key=3c2a67534a193f12c46115f7b112e1e&sign=true&group_urlname=hackerhours&page=1'), function(data){
+    var result = data.results[0];
 
-          // ensure they've seen the animation for a minimum amount of time
-          var elapsed = Date.now() - start,
-            wait = 1500 - elapsed;
+    // the document may or may not be ready
+    $(function(){
+      $('.meetupLink').attr('href', result.event_url);
 
-          if (wait < 0) wait = 0;
-          setTimeout(function(){
-            var dateStr = moment(parseInt(result.time, 10)).format('ddd, MMMM Do YYYY, h:mm a'),
-              $meetupDate = $('#meetupDate');
+      // ensure they've seen the animation for a minimum amount of time
+      var elapsed = Date.now() - start,
+        wait = 1500 - elapsed;
 
-            clearInterval(shuffler);
-            $meetupDate.find('#dateMs').text(result.time);
-            $meetupDate.find('#dateStr').text(dateStr);
-          }, wait);
-        });
+      if (wait < 0) wait = 0;
+      setTimeout(function(){
+        var dateStr = moment(parseInt(result.time, 10)).format('ddd, MMMM Do YYYY, h:mm a'),
+          $meetupDate = $('#meetupDate');
 
-        return;
-      }
-    }
+        clearInterval(shuffler);
+        $meetupDate.find('#dateMs').text(result.time);
+        $meetupDate.find('#dateStr').text(dateStr);
+      }, wait);
+    });
   });
 
   $(function(){
