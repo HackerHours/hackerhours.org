@@ -10,8 +10,6 @@
 
     // the document may or may not be ready
     $(function(){
-      $('.meetupLink').attr('href', result.event_url);
-
       // ensure they've seen the animation for a minimum amount of time
       var elapsed = Date.now() - start,
         wait = 1500 - elapsed;
