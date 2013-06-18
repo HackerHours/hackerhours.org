@@ -1,4 +1,4 @@
-Feel free to add your information below the line - please keep in alphabetical order by last name.  All fields are optional.  Example:
+Feel free to add your information below the line - please keep in alphabetical order by last name.  **All fields are optional.**  Example:
 
 ---------------
 
