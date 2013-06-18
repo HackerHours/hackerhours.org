@@ -3,7 +3,7 @@ Feel free to add your information below the line - please keep in alphabetical o
 ---------------
 
 ### Aidan Feldman
-* **Expertise:** Ruby, JavaScript
+* **Expertise:** Ruby, Rails, JavaScript, Backbone.js, MongoDB
 * **Rate:** $1Gajillion/hr
 * **Location:** Ft Greene, Brooklyn
 * **Github:** [@afeld](https://github.com/afeld)
