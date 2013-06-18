@@ -31,3 +31,14 @@ Feel free to add your information below the line - please keep in alphabetical o
 * [Meetup profile](http://www.meetup.com/hackerhours/members/53714932/) <-- allows... you get the point
 
 ----------------
+
+### Will Bradley
+* **Expertise:** {Backend: "Ruby/Rails, PHP", Frontend: "HTML, Javascript/JQuery, CSS", Desktop: "C#, .Net, Java", OS: "Ubuntu/Centos, Windows Server"}
+* **Rate:** $75/hr
+* **Location:** Brooklyn
+* **Github:** [@zyphlar](https://github.com/zyphlar)
+* **Twitter:** [@willbradley](https://twitter.com/willbradley)
+* **Email:** will@zyphon.com
+* [Meetup profile](http://www.meetup.com/hackerhours/members/10922264/)
+
+----------------
