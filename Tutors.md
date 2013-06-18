@@ -1,6 +1,6 @@
 Feel free to add your information below the line - please keep in alphabetical order by last name.  All fields are optional.  Example:
 
-* **Aidan Feldman**
+* [Aidan Feldman](https://github.com/afeld)
     * **Expertise:** Ruby, JavaScript
     * **Rate:** $1Gajillion/hr
     * **Location**: Ft Greene, Brooklyn
