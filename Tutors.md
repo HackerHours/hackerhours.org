@@ -5,6 +5,6 @@ Feel free to add your information below the line - please keep in alphabetical o
     * **Rate:** $1Gajillion/hr
     * **Location**: Ft Greene, Brooklyn
     * **Email:** contact@me.com
-    * [Meetup profile](http://www.meetup.com/hackerhours/members/8818215/)
+    * [Meetup profile](http://www.meetup.com/hackerhours/members/8818215/) <-- allows people to contact you without getting your email address
 
 ----------------
