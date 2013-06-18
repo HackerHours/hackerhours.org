@@ -19,3 +19,15 @@ Feel free to add your information below the line - please keep in alphabetical o
 * **Location**: UES, Manhattan
 * **Email:** contact@me.com
 * [Meetup profile](http://www.meetup.com/hackerhours/members/7191372/) <-- allows people to contact you without getting your email address
+
+---------------
+
+### Eli Moreta-Feliz
+* **Expertise:** JavaScript, PHP, WordPress, MySQL, SASS
+* **Rate:** $1Bajillion/hr
+* **Location:** Park Slope, Brooklyn
+* **Twitter:** [@misdreavus79](https://twitter.com/misdreavus79)
+* **Email:** NewFairyType@Pokemon.com
+* [Meetup profile](http://www.meetup.com/hackerhours/members/53714932/) <-- allows... you get the point
+
+----------------
