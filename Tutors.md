@@ -18,8 +18,7 @@ Feel free to add your information below the line - please keep in alphabetical o
 * **Expertise:** Python, JavaScript, SQL
 * **Rate:** 10/10
 * **Location**: UES, Manhattan
-* **Email:** contact@me.com
-* [Meetup profile](http://www.meetup.com/hackerhours/members/7191372/) <-- allows people to contact you without getting your email address
+* [Meetup profile](http://www.meetup.com/hackerhours/members/7191372/)
 
 ### Eli Moreta-Feliz
 * **Expertise:** JavaScript, PHP, WordPress, MySQL, SASS
@@ -27,7 +26,7 @@ Feel free to add your information below the line - please keep in alphabetical o
 * **Location:** Park Slope, Brooklyn
 * **Twitter:** [@misdreavus79](https://twitter.com/misdreavus79)
 * **Email:** NewFairyType@Pokemon.com
-* [Meetup profile](http://www.meetup.com/hackerhours/members/53714932/) <-- allows... you get the point
+* [Meetup profile](http://www.meetup.com/hackerhours/members/53714932/)
 
 ### Will Bradley
 * **Expertise:** {Backend: "Ruby/Rails, PHP", Frontend: "HTML, Javascript/JQuery, CSS", Desktop: "C#, .Net, Java", OS: "Ubuntu/Centos, Windows Server"}
