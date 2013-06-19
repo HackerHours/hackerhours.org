@@ -8,6 +8,7 @@ Feel free to add your information below the line - please keep in alphabetical o
 * **Location:** Ft Greene, Brooklyn
 * **Github:** [@afeld](https://github.com/afeld)
 * **Twitter:** [@aidanfeldman](https://twitter.com/aidanfeldman)
+* **Website:** http://api.afeld.me
 * **Email:** contact@me.com
 * [Meetup profile](http://www.meetup.com/hackerhours/members/8818215/) <-- allows people to contact you without getting your email address
 
@@ -20,8 +21,6 @@ Feel free to add your information below the line - please keep in alphabetical o
 * **Email:** contact@me.com
 * [Meetup profile](http://www.meetup.com/hackerhours/members/7191372/) <-- allows people to contact you without getting your email address
 
----------------
-
 ### Eli Moreta-Feliz
 * **Expertise:** JavaScript, PHP, WordPress, MySQL, SASS
 * **Rate:** $1Bajillion/hr
@@ -29,8 +28,6 @@ Feel free to add your information below the line - please keep in alphabetical o
 * **Twitter:** [@misdreavus79](https://twitter.com/misdreavus79)
 * **Email:** NewFairyType@Pokemon.com
 * [Meetup profile](http://www.meetup.com/hackerhours/members/53714932/) <-- allows... you get the point
-
-----------------
 
 ### Will Bradley
 * **Expertise:** {Backend: "Ruby/Rails, PHP", Frontend: "HTML, Javascript/JQuery, CSS", Desktop: "C#, .Net, Java", OS: "Ubuntu/Centos, Windows Server"}
@@ -40,5 +37,3 @@ Feel free to add your information below the line - please keep in alphabetical o
 * **Twitter:** [@willbradley](https://twitter.com/willbradley)
 * **Email:** will@zyphon.com
 * [Meetup profile](http://www.meetup.com/hackerhours/members/10922264/)
-
-----------------
