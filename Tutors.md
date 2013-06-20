@@ -36,3 +36,12 @@ Feel free to add your information below the line - please keep in alphabetical o
 * **Twitter:** [@willbradley](https://twitter.com/willbradley)
 * **Email:** will@zyphon.com
 * [Meetup profile](http://www.meetup.com/hackerhours/members/10922264/)
+
+### David Wang
+* **Expertise:** Python, Javascript, Backbone, Rails, HTML, CSS, Reddit, Tennis, Hckrnews, Life, Cats
+* **Rate:** min($1*10^99989999988999 per 1*10^-99999998999999ms, "A reasonable amount")
+* **Location:** Ft Greene/Brooklyn Heights/Downtown Brooklyn. Can do lower manhattan too
+* **Github:** [@DavidWang12](https://github.com/davidwang12)
+* **Twitter:** [@DavidJWang12](https://twitter.com/davidjwang12)
+* **Email:** jlwangbu@gmail.com
+* [Meetup profile](http://www.meetup.com/hackerhours/members/93707082/)
