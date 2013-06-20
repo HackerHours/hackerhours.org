@@ -39,7 +39,7 @@ Feel free to add your information below the line - please keep in alphabetical o
 
 ### David Wang
 * **Expertise:** Python, Javascript, Backbone, Rails, HTML, CSS, Reddit, Tennis, Hckrnews, Life, Cats
-* **Rate:** min($1*10^99989999988999 per 1*10^-99999998999999ms, "A reasonable amount")
+* **Rate:** min($1*10^99989999988999 per 1*10^-99999998999999ms, "ask me!")
 * **Location:** Ft Greene/Brooklyn Heights/Downtown Brooklyn. Can do lower manhattan too
 * **Github:** [@DavidWang12](https://github.com/davidwang12)
 * **Twitter:** [@DavidJWang12](https://twitter.com/davidjwang12)
