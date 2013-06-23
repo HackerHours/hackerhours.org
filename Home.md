@@ -1,4 +1,4 @@
-Welcome to the hackerhours.org wiki!
+Welcome to the [Hacker Hours](http://hackerhours.org/) wiki!
 
 ## Pages
 
