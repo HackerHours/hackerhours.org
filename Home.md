@@ -17,8 +17,11 @@ Welcome to the [Hacker Hours](http://hackerhours.org/) wiki!
 
 ## Technology-Specific Office Hours
 
-* [Ember NYC](http://www.meetup.com/EmberJS-NYC/) (Ember.js)
-* [The New York Python Meetup Group](http://www.meetup.com/nycpython/) (Python)
+* NYC
+    * [Ember NYC](http://www.meetup.com/EmberJS-NYC/)
+    * [NYC iOS Office Hours](http://www.meetup.com/NYC-iOS-Office-Hours/)
+    * [The New York Python Meetup Group](http://www.meetup.com/nycpython/)
+* others?
 
 ## Resources
 
