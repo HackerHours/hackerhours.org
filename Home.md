@@ -9,7 +9,7 @@ Welcome to the [Hacker Hours](http://hackerhours.org/) wiki!
 * http://thenextweb.com/dd/2012/05/14/hacker-hours-the-awesome-grassroots-meetup-that-teaches-new-yorkers-to-code/
 * http://blog.flatironschool.com/post/53767514908/dont-miss-out-nyc-ruby-rails-community
 
-## Technology-specific Office Hours
+## Technology-Specific Office Hours
 
 * [Ember NYC](http://www.meetup.com/EmberJS-NYC/) (Ember.js)
 * [The New York Python Meetup Group](http://www.meetup.com/nycpython/) (Python)
