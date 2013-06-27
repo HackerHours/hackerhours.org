@@ -4,6 +4,11 @@ Welcome to the [Hacker Hours](http://hackerhours.org/) wiki!
 
 * [[Tutors]]
 
+## Contact
+
+* hackerhoursnyc@gmail.com
+* [@hackerhours](https://twitter.com/hackerhours) on Twitter
+
 ## Write-Ups
 
 * http://afeld.me/nerdery/7132 (original blog post)
