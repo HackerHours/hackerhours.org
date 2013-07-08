@@ -17,6 +17,8 @@ Welcome to the [Hacker Hours](http://hackerhours.org/) wiki!
 
 ## Technology-Specific Office Hours
 
+* anywhere
+    * [Rails Hotline](http://rails.pockethotline.com/)
 * NYC
     * [Ember NYC](http://www.meetup.com/EmberJS-NYC/)
     * [NYC iOS Office Hours](http://www.meetup.com/NYC-iOS-Office-Hours/)
