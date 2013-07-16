@@ -23,6 +23,15 @@ Feel free to add your information below the line - please keep in **alphabetical
 * **Email:** will@zyphon.com
 * [Meetup profile](http://www.meetup.com/hackerhours/members/10922264/)
 
+### Michael Carroll
+* **Expertise:** Ruby, Rails, JavaScript/Coffeescript, Postgres, Foundation
+* **Rate:** 1 cup of tea/hour
+* **Location:** Park Slope, Brooklyn
+* **Github:** [@mikecarroll](https://github.com/mikecarroll)
+* **Twitter:** [@_mcarroll_](https://twitter.com/_mcarroll_)
+* **Email:** michael@carroll.io
+* [Meetup profile](http://www.meetup.com/hackerhours/members/7520254/)
+
 ### Kevin Curtin
 * **Expertise:** Ruby, Rails
 * **Rate:** $1.5Gajillion/hr
