@@ -1,8 +1,8 @@
 *Free, in-person groups only, please.*
 
 * anywhere
-    * [CoderDojo](http://coderdojo.com/) (free programming classes for kids)
-    * [RailsBridge](http://workshops.railsbridge.org/)
+    * [CoderDojo](http://coderdojo.com/) (programming classes for kids)
+    * [RailsBridge](http://workshops.railsbridge.org/) (workshops for women)
 * NYC
     * [Code Crew](http://www.meetup.com/codecrewny/)
     * [Ember NYC](http://www.meetup.com/EmberJS-NYC/)
