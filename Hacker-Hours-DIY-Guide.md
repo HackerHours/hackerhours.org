@@ -16,6 +16,10 @@ It's important to have a canonical source of information regarding the time and 
 
 ## Format
 
+### Topics
+
+While Hacker Hours NYC is programming-language-agnostic, [other related groups](https://github.com/afeld/hackerhours.org/wiki#other-office-hours) are language- or framework-specific.  Totally up to you.
+
 ### Frequency
 
 Hacker Hours NYC run twice per week, but don't feel like you need to make a long-term commitment up front.  The very first Hacker Hours had *one* attendee (who showed up at the very end), but it doubled every time after that.  Plan to do three or so to gauge interest, and go from there.
