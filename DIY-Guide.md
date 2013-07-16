@@ -28,6 +28,8 @@ It's important to have a canonical source of information regarding the time and 
 
 While Hacker Hours NYC is programming-language-agnostic, [other related groups](https://github.com/afeld/hackerhours.org/wiki/DIY-Guide) are language- or framework-specific.  Totally up to you.
 
+When it began, Hacker Hours NYC was almost entirely absolute beginners. Over time, the group has gained more regulars and a wider variety of skill levels, and now many attendees simply come to have a space to work and hang out with other coders. Your community and your outreach will determine the demographic and vibe.
+
 The default format is where mentors make themselves available for however-many hours at a time to bounce around and answer questions - the beauty here is zero planning and zero formality.  Possible alterations include
 
 * an opening where everyone introduces themselves and what they're working on
@@ -70,10 +72,6 @@ Hacker Hours NYC began in the eight-seat conference room at [Jux](https://jux.co
 ### Cost
 
 One of the beauties of Hacker Hours is that the cost (can be) next to nothing.  [Twilio](http://www.twilio.com/) sponsors Hacker Hours in paying for the domain and the Meetup fee, but that's really it.  Providing food, drinks or snacks is an option, but not necessary.
-
-### Skill Levels
-
-When it began, Hacker Hours NYC was almost entirely absolute beginners.  Over time, the group has gained more regulars and a wider variety of skill levels, and now many attendees simply come to have a space to work and hang out with other coders.  Your community and your outreach will determine the demographic and vibe.
 
 ## Scaling
 
