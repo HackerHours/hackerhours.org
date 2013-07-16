@@ -1,4 +1,4 @@
-Feel free to add your information below the line - please keep in alphabetical order by last name.  **All fields are optional.**  Example:
+Feel free to add your information below the line - please **keep in alphabetical order by last name**.  **All fields are optional.**  Example:
 
 ---------------
 
@@ -14,11 +14,14 @@ Feel free to add your information below the line - please keep in alphabetical o
 
 ----------------
 
-### [Christopher Liu](https://github.com/christopherliu)
-* **Expertise:** Python, JavaScript, SQL
-* **Rate:** 10/10
-* **Location**: UES, Manhattan
-* [Meetup profile](http://www.meetup.com/hackerhours/members/7191372/)
+### Will Bradley
+* **Expertise:** {Backend: "Ruby/Rails, PHP", Frontend: "HTML, Javascript/JQuery, CSS", Desktop: "C#, .Net, Java", OS: "Ubuntu/Centos, Windows Server"}
+* **Rate:** $75/hr
+* **Location:** Brooklyn
+* **Github:** [@zyphlar](https://github.com/zyphlar)
+* **Twitter:** [@willbradley](https://twitter.com/willbradley)
+* **Email:** will@zyphon.com
+* [Meetup profile](http://www.meetup.com/hackerhours/members/10922264/)
 
 ### Eli Moreta-Feliz
 * **Expertise:** JavaScript, PHP, WordPress, MySQL, SASS
@@ -28,14 +31,11 @@ Feel free to add your information below the line - please keep in alphabetical o
 * **Email:** NewFairyType@Pokemon.com
 * [Meetup profile](http://www.meetup.com/hackerhours/members/53714932/)
 
-### Will Bradley
-* **Expertise:** {Backend: "Ruby/Rails, PHP", Frontend: "HTML, Javascript/JQuery, CSS", Desktop: "C#, .Net, Java", OS: "Ubuntu/Centos, Windows Server"}
-* **Rate:** $75/hr
-* **Location:** Brooklyn
-* **Github:** [@zyphlar](https://github.com/zyphlar)
-* **Twitter:** [@willbradley](https://twitter.com/willbradley)
-* **Email:** will@zyphon.com
-* [Meetup profile](http://www.meetup.com/hackerhours/members/10922264/)
+### [Christopher Liu](https://github.com/christopherliu)
+* **Expertise:** Python, JavaScript, SQL
+* **Rate:** 10/10
+* **Location**: UES, Manhattan
+* [Meetup profile](http://www.meetup.com/hackerhours/members/7191372/)
 
 ### David Wang
 * **Expertise:** Python, Javascript, Backbone, Rails, HTML, CSS, Reddit, Tennis, Hckrnews, Life, Cats
