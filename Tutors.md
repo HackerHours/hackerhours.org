@@ -23,6 +23,15 @@ Feel free to add your information below the line - please keep in **alphabetical
 * **Email:** will@zyphon.com
 * [Meetup profile](http://www.meetup.com/hackerhours/members/10922264/)
 
+### Kevin Curtin
+* **Expertise:** Ruby, Rails
+* **Rate:** $1.5Gajillion/hr
+* **Location:** South Park Slope (Brooklyn) or Skype
+* **Github:** [@kcurtin](https://github.com/kcurtin)
+* **Twitter:** [@kcurtin](https://twitter.com/kcurtin)
+* **Website:** http://kjcurtin.com
+* **Email:** kevincurtin88@gmail.com
+
 ### Eli Moreta-Feliz
 * **Expertise:** JavaScript, PHP, WordPress, MySQL, SASS
 * **Rate:** $1Bajillion/hr
