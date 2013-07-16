@@ -1,11 +1,14 @@
 **WORK IN PROGRESS**
+
 -----------
 
 ## Intro
 
-*So, you want to start your own Hacker Hours!*  
+*So, you want to start your own Hacker Hours!*  This is very exciting.
 
-You should also read the [Write-Ups](https://github.com/afeld/hackerhours.org/wiki#write-ups) to get some backstory about where Hacker Hours came from and some additional perspectives.
+![happy dog](http://photovide.com/wp-content/uploads/2012/08/Happy-Animals-06.jpg)
+
+Read the [Write-Ups](https://github.com/afeld/hackerhours.org/wiki#write-ups) to get some backstory about what Hacker Hours are and where they came from, from various perspectives.
 
 This guide will address "organizers" and "mentors" in order to clarify responsibilities, though one person can certainly serve both roles.  "Organizers" are people who schedule the event and are generally in charge of coordination.  "Mentors" are individuals with greater-than-zero programming experience who are willing to answer coding questions.  These titles aren't official or formal - just to help for purposes of this guide.
 
@@ -15,9 +18,43 @@ It's important to have a canonical source of information regarding the time and 
 
 ## Format
 
+### Frequency
+
+Hacker Hours NYC run twice per week, but don't feel like you need to make a long-term commitment up front.  The very first Hacker Hours had *one* attendee (who showed up at the very end), but it doubled every time after that.  Plan to do three or so to gauge interest, and go from there.
+
+### Location
+
+Hacker Hours NYC began in the eight-seat conference room at [Jux](https://jux.com/gallery/1239211), which had to move to [a coffee shop](http://www.vineapple.com/) after it consistently brought in over twenty people per session.  It then outgrew the coffee shop, and moved to a [coworking space](http://www.alleynyc.com/) (though another session started in a different office).  The breakdown:
+
+* office
+    * PROS
+        * guaranteed availability (if it's yours)
+        * intimate, since everyone is there for Hacker Hours
+        * full control over noise, environment, etc.
+    * CONS
+        * limited size/seating
+        * organizer needs to let people in and kick people out
+* coffee shop
+    * PROS
+        * casual atmosphere
+        * attendees can come early or leave late
+        * food+drink available
+    * CONS
+        * need to be careful not to be too loud
+        * limited seating/outlets
+        * sometimes closed for events
+* coworking space
+    * PROS
+        * lots of space
+        * plenty of desks+chairs+outlets
+    * CONS
+        * other events take priority
+
+[YMMV](http://www.urbandictionary.com/define.php?term=YMMV).  Important location qualities are good wifi, seating, power, atmosphere, and consistent availability (so you don't have to scramble for a new place every time).
+
 ## Skill Levels
 
-When it began, Hacker Hours NYC was almost entirely absolute beginners.  Over time, the group has gained more regulars and a wider variety of skill levels, and now many attendees simply come to have a space to work and hang out with other coders.
+When it began, Hacker Hours NYC was almost entirely absolute beginners.  Over time, the group has gained more regulars and a wider variety of skill levels, and now many attendees simply come to have a space to work and hang out with other coders.  Your community and your outreach will determine the demographic and vibe.
 
 ## Scaling
 
@@ -25,9 +62,9 @@ As your attendance grows, mentors may have a hard time keeping up with all the q
 
 ### Segregate
 
-You may have multiple people attending who are working with the same technology, or even have similar questions.  You can try surveying the group (via RSVP, introductions at the beginning of the session, or a whiteboard) about what individuals are working on, and then have designated seating areas for different topics.
+You may have multiple people attending who are working with the same technology, or even have similar questions.  You can try surveying the group (via RSVP, introductions at the beginning of the session, or a whiteboard) about what individuals are working on, and then have designated seating areas for different topics.  On the other hand, it's nice to have some cross-pollenation.
 
-### Roping People In
+### Rope People In
 
 Experienced programmers are surprisingly willing to help newcomers, so reach out to friends or other members of your community to become mentors.
 
@@ -35,28 +72,16 @@ While it's great to have mentors that are experienced coders, these people may n
 
 ### Resources
 
-Depending on the homogeneity of the group, you are may get a lot of repeat questions.  Keep a list of resources that you can refer people to.  Feel free to add to [the General Resources section of this wiki](https://github.com/afeld/hackerhours.org/wiki#resources), or create a Page for a list that's more specifically relevant to your group.
-
-## The Space
-
-Entrepreneurs
-
-## Common Questions
-
-Segregate
-
-Skill Levels
-
-## Free Help (or, Know When to Say "No")
+Depending on the homogeneity of the group, you are may get a lot of repeat questions.  Keep a list of resources that you can refer people to, particularly setup instructions and getting started tutorials/books.  Feel free to add to [the General Resources section of this wiki](https://github.com/afeld/hackerhours.org/wiki#resources), or create a Page for a list that's more specifically relevant to your group.
 
 ## Tips for Organizers
 
-* You will inevitably approaching your group (in-person or through email) trying to recruit.  Decide on a policy for how to handle these (TODO https://github.com/afeld/hackerhours.org/issues/7).
+* Inevitably, people will approach your group (in-person or through email) trying to recruit.  Decide on a policy for how to handle these (TODO https://github.com/afeld/hackerhours.org/issues/7).
 
 ## Tips for Mentors
 
 * You aren't there to validate or critique business ideas. You are of course welcome to do so, but only if asked.
-* Most attendees are very grateful for your time, but there will always be exceptions who are overly demanding.  Don't be afraid to tell someone to wait their turn, or that there are others that you need to attend to, or that they should post the question on Stack Overflow (and you can respond there at a later time, or not), etc.
+* Most attendees are very grateful for your time, but there will always be exceptions who are overly demanding.  Don't be afraid to tell someone to wait their turn, or that there are others that you need to attend to, or that they should post the question on Stack Overflow (and you can respond there at a later time, or not), etc.  *Know When to Say "No"*.
 
 ## Conclusion
 
