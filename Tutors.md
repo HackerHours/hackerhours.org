@@ -40,7 +40,7 @@ Feel free to add your information below the line - please keep in **alphabetical
 ### Kfir Shay
 * **Expertise:** Ruby, Rails, JavaScript, Python, SQL, Postgres
 * **Rate:** N/A
-* **Location:** Flatiron
+* **Location:** Flatiron (Manhattan)
 * **Github:** [@kingink](https://github.com/kingink)
 * **Twitter:** [@kfir](https://twitter.com/kfir)
 * **Email:** kfir.shay@gmail.com
