@@ -1,10 +1,5 @@
 Welcome to the [Hacker Hours](http://hackerhours.org/) wiki!
 
-## Pages
-
-* [[DIY Guide]]
-* [[Tutors]]
-
 ## Contact
 
 * hackerhoursnyc@gmail.com
