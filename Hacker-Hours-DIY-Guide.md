@@ -1,7 +1,3 @@
-**WORK IN PROGRESS**
-
------------
-
 ## Intro
 
 *So, you want to start your own Hacker Hours!*  This is very exciting.
