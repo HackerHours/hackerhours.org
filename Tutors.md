@@ -37,6 +37,15 @@ Feel free to add your information below the line - please keep in **alphabetical
 * **Location**: UES, Manhattan
 * [Meetup profile](http://www.meetup.com/hackerhours/members/7191372/)
 
+### Kfir Shay
+* **Expertise:** Ruby, Rails, JavaScript, Python, SQL, Postgres
+* **Rate:** N/A
+* **Location:** Flatiron
+* **Github:** [@kingink](https://github.com/kingink)
+* **Twitter:** [@kfir](https://twitter.com/kfir)
+* **Email:** kfir.shay@gmail.com
+* [Meetup profile](http://www.meetup.com/hackerhours/members/2818945/)
+
 ### David Wang
 * **Expertise:** Python, Javascript, Backbone, Rails, HTML, CSS, Reddit, Tennis, Hckrnews, Life, Cats
 * **Rate:** min($1*10^99989999988999 per 1*10^-99999998999999ms, "ask me!")
