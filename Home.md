@@ -2,6 +2,7 @@ Welcome to the [Hacker Hours](http://hackerhours.org/) wiki!
 
 ## Pages
 
+* [[Hacker Hours DIY Guide]]
 * [[Tutors]]
 
 ## Contact
