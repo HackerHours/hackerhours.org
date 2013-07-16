@@ -74,7 +74,7 @@ Depending on the homogeneity of the group, you are may get a lot of repeat quest
 
 ## Tips for Organizers
 
-* Inevitably, people will approach your group (in-person or through email) trying to recruit.  Decide on a policy for how to handle these (TODO https://github.com/afeld/hackerhours.org/issues/7).
+* Inevitably, people will approach your group (in-person or through email) trying to recruit.  Decide on a policy for how to handle these (TODO link to [existing ones](https://github.com/afeld/hackerhours.org/issues/7)).
 
 ## Tips for Mentors
 
