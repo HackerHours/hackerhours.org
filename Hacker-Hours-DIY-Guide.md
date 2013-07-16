@@ -1,6 +1,8 @@
 ## Intro
 
-*So, you want to start your own Hacker Hours!*  This is very exciting.
+***So, you want to start your own Hacker Hours!***
+
+This is very exciting.
 
 ![happy dog](http://photovide.com/wp-content/uploads/2012/08/Happy-Animals-06.jpg)
 
