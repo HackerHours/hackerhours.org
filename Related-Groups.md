@@ -1,5 +1,8 @@
+*Free, in-person groups only, please.*
+
 * anywhere
-    * [Rails Hotline](http://rails.pockethotline.com/)
+    * [CoderDojo](http://coderdojo.com/) (free programming classes for kids)
+    * [RailsBridge](http://workshops.railsbridge.org/)
 * NYC
     * [Code Crew](http://www.meetup.com/codecrewny/)
     * [Ember NYC](http://www.meetup.com/EmberJS-NYC/)
