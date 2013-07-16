@@ -26,7 +26,7 @@ It's important to have a canonical source of information regarding the time and 
 
 ### Topics
 
-While Hacker Hours NYC is programming-language-agnostic, [other related groups](https://github.com/afeld/hackerhours.org/wiki#other-office-hours) are language- or framework-specific.  Totally up to you.
+While Hacker Hours NYC is programming-language-agnostic, [other related groups](https://github.com/afeld/hackerhours.org/wiki/DIY-Guide) are language- or framework-specific.  Totally up to you.
 
 The default format is where mentors make themselves available for however-many hours at a time to bounce around and answer questions - the beauty here is zero planning and zero formality.  Possible alterations include
 
