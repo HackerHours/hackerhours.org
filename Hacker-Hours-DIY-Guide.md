@@ -6,7 +6,14 @@ This is very exciting.
 
 ![happy dog](http://photovide.com/wp-content/uploads/2012/08/Happy-Animals-06.jpg)
 
-Read the [Write-Ups](https://github.com/afeld/hackerhours.org/wiki#write-ups) to get some backstory about what Hacker Hours are and where they came from, from various perspectives.
+In short, Hacker Hours are
+
+* "free office hours for programming help"
+* open to anyone, regardless of age or skill level
+
+Meeting the above requirements are the only things we ask to call your group "Hacker Hours".  We won't sue you or anything, but just ask in good faith.
+
+Read the [Write-Ups](https://github.com/afeld/hackerhours.org/wiki#write-ups) to get some backstory.
 
 This guide will address "organizers" and "mentors" in order to clarify responsibilities, though one person can certainly serve both roles.  "Organizers" are people who schedule the event and are generally in charge of coordination.  "Mentors" are individuals with greater-than-zero programming experience who are willing to answer coding questions.  These titles aren't official or formal - just to help for purposes of this guide.
 
@@ -87,4 +94,4 @@ Depending on the homogeneity of the group, you are may get a lot of repeat quest
 
 ## Conclusion
 
-You are awesome.  If you need anything, please [get in touch](hackerhoursnyc@gmail.com).
+You are awesome.  If you need anything (e.g help with promotion), please [get in touch](hackerhoursnyc@gmail.com).
