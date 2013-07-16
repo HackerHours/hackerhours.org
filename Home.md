@@ -1,10 +1,5 @@
 Welcome to the [Hacker Hours](http://hackerhours.org/) wiki!
 
-## Contact
-
-* hackerhoursnyc@gmail.com
-* [@hackerhours](https://twitter.com/hackerhours) on Twitter
-
 ## Write-Ups
 
 * http://afeld.me/nerdery/7132 (original blog post)
@@ -17,3 +12,8 @@ Welcome to the [Hacker Hours](http://hackerhours.org/) wiki!
 * [Good APIs for Mashups](https://gist.github.com/afeld/4952991)
 * [Code.org's In-Person Coding Schools](http://aws.code.org/search)
 * [Teach Yourself to Code](http://teachyourselftocode.com/) (list of coding resources by topic)
+
+## Contact
+
+* hackerhoursnyc@gmail.com
+* [@hackerhours](https://twitter.com/hackerhours) on Twitter

@@ -67,7 +67,7 @@ Hacker Hours NYC began in the eight-seat conference room at [Jux](https://jux.co
 
 [YMMV](http://www.urbandictionary.com/define.php?term=YMMV).  Important location qualities are good wifi, seating, power, atmosphere, and consistent availability (so you don't have to scramble for a new place every time).
 
-## Skill Levels
+### Skill Levels
 
 When it began, Hacker Hours NYC was almost entirely absolute beginners.  Over time, the group has gained more regulars and a wider variety of skill levels, and now many attendees simply come to have a space to work and hang out with other coders.  Your community and your outreach will determine the demographic and vibe.
 
@@ -100,4 +100,4 @@ Depending on the homogeneity of the group, you are may get a lot of repeat quest
 
 ## Conclusion
 
-You are awesome.  If you need anything (e.g help with promotion), please [get in touch](hackerhoursnyc@gmail.com).
+You are awesome.  If you need anything (e.g help with promotion), please [get in touch](https://github.com/afeld/hackerhours.org/wiki#contact).
