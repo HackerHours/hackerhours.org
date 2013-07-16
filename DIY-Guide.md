@@ -10,6 +10,7 @@ In short, Hacker Hours are
 
 * "free office hours for programming help"
 * open to anyone, regardless of age or skill level
+* not a class, and not a lecture
 
 Meeting the above requirements are the only things we ask to call your group "Hacker Hours".  We won't sue you or anything, but just ask in good faith.
 
