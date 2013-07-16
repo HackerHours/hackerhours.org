@@ -22,9 +22,9 @@ This guide will address "organizers" and "mentors" in order to clarify responsib
 
 It's important to have a canonical source of information regarding the time and location, which will also be the place you refer potential attendees.  (Hacker Hours NYC was listed across two Meetup groups for a while, and all updates needed to be managed in two places in sync.)  [Meetup](http://www.meetup.com/) serves this purpose well, though a [Public Google Calendar](https://support.google.com/calendar/answer/37083?hl=en) or a [Facebook Group Event](https://www.facebook.com/help/185716894811068/) could also be fine.  It's great to have a mailing list for discussion between events, but it's best to have a designated calendar in addition.
 
-## Format
+## Logistics
 
-### Topics
+### Format
 
 While Hacker Hours NYC is programming-language-agnostic, [other related groups](https://github.com/afeld/hackerhours.org/wiki/DIY-Guide) are language- or framework-specific.  Totally up to you.
 
@@ -66,6 +66,10 @@ Hacker Hours NYC began in the eight-seat conference room at [Jux](https://jux.co
         * other events take priority
 
 [YMMV](http://www.urbandictionary.com/define.php?term=YMMV).  Important location qualities are good wifi, seating, power, atmosphere, and consistent availability (so you don't have to scramble for a new place every time).
+
+### Cost
+
+One of the beauties of Hacker Hours is that the cost (can be) next to nothing.  [Twilio](http://www.twilio.com/) sponsors Hacker Hours in paying for the domain and the Meetup fee, but that's really it.  Providing food, drinks or snacks is an option, but not necessary.
 
 ### Skill Levels
 
