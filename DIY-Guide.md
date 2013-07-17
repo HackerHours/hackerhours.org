@@ -87,7 +87,7 @@ While it's great to have mentors that are experienced coders, these people may n
 
 ### Resources
 
-Depending on the homogeneity of the group, you are may get a lot of repeat questions.  Keep a list of resources that you can refer people to, particularly setup instructions and getting started tutorials/books.  Feel free to add to [the General Resources section of this wiki](https://github.com/afeld/hackerhours.org/wiki#resources), or create a Page for a list that's more specifically relevant to your group.
+Depending on the homogeneity of the group, you are may get a lot of repeat questions.  Keep a list of resources that you can refer people to, particularly setup instructions and getting started tutorials/books.  Feel free to add to [the General Resources section of this wiki](https://github.com/afeld/hackerhours.org/wiki/Resources), or create a Page for a list that's more specifically relevant to your group.
 
 ## Tips for Organizers
 
