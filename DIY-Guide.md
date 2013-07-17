@@ -12,7 +12,7 @@ In short, Hacker Hours are
 
 Meeting the above requirements are the only things we ask to call your group "Hacker Hours".  We won't sue you or anything, but just ask in good faith.
 
-Read the [Write-Ups](https://github.com/afeld/hackerhours.org/wiki#write-ups) to get some backstory.
+Read the [Write-Ups](https://github.com/afeld/hackerhours.org/wiki/Write-Ups) to get some backstory.
 
 This guide will address "organizers" and "mentors" in order to clarify responsibilities, though one person can certainly serve both roles.  "Organizers" are people who schedule the event and are generally in charge of coordination.  "Mentors" are individuals with greater-than-zero programming experience who are willing to answer coding questions.  These titles aren't official or formal - just to help for purposes of this guide.
 
