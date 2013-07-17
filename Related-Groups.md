@@ -14,6 +14,7 @@
 * [NYC Codecademy Group](http://www.meetup.com/NYC-Codecademy-Group/)
 * [NYC iOS Office Hours](http://www.meetup.com/NYC-iOS-Office-Hours/)
 * [New York MongoDB User Group](http://www.meetup.com/New-York-MongoDB-User-Group/)
+* [Scala Hacker Hours](http://www.meetup.com/Scala-Hacker-Hours/)
 * [The New York Python Meetup Group](http://www.meetup.com/nycpython/)
 
 ## Others?
