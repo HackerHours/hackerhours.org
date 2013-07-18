@@ -49,7 +49,7 @@ Feel free to add your information below the line - please keep in **alphabetical
 * **Email:** NewFairyType@Pokemon.com
 * [Meetup profile](http://www.meetup.com/hackerhours/members/53714932/)
 
-### [Blake Johnson](consistentactions.com)
+### [Blake Johnson](www.consistentactions.com)
 * **Expertise:** Ruby, Rails, JavaScript (not an expert), SQL, Unix, Deployment
 * **Rate:** $100/hr
 * **Location:** I teach at the Flatiron School or live in Carroll Gardens
