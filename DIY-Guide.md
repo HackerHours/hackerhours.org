@@ -98,6 +98,10 @@ Depending on the homogeneity of the group, you are may get a lot of repeat quest
 * You aren't there to validate or critique business ideas. You are of course welcome to do so, but only if asked.
 * Most attendees are very grateful for your time, but there will always be exceptions who are overly demanding.  Don't be afraid to tell someone to wait their turn, or that there are others that you need to attend to, or that they should post the question on Stack Overflow (and you can respond there at a later time, or not), etc.  *Know When to Say "No"*.
 
+## See Also
+
+* Mozilla Webmaker [Event Guides](https://webmaker.org/event-guides)
+
 ## Conclusion
 
 You are awesome.  If you need anything (e.g help with promotion), please [get in touch](https://github.com/afeld/hackerhours.org/wiki#contact).

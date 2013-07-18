@@ -8,4 +8,5 @@
     * [Scaling](https://github.com/afeld/hackerhours.org/wiki/DIY-Guide#scaling)
     * [Tips for Organizers](https://github.com/afeld/hackerhours.org/wiki/DIY-Guide#tips-for-organizers)
     * [Tips for Mentors](https://github.com/afeld/hackerhours.org/wiki/DIY-Guide#tips-for-mentors)
+    * [See Also](https://github.com/afeld/hackerhours.org/wiki/DIY-Guide#see-also)
 * [Write-Ups](https://github.com/afeld/hackerhours.org/wiki/Write-Ups)
