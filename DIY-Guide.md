@@ -104,4 +104,4 @@ Depending on the homogeneity of the group, you are may get a lot of repeat quest
 
 ## Conclusion
 
-You are awesome.  If you need anything (e.g help with promotion), please [get in touch](https://github.com/afeld/hackerhours.org/wiki#contact).
+You are awesome.  If you need anything (e.g help with promotion), please [get in touch](https://github.com/afeld/hackerhours.org/wiki/About#contact).

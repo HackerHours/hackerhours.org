@@ -1,5 +1,3 @@
-* [[Home]]
-    * [Contact](https://github.com/afeld/hackerhours.org/wiki#contact)
 * [[Resources]]
 * [[Related Groups]]
 * [[Tutors]]
@@ -12,3 +10,4 @@
 * [[About]]
     * [Write-Ups](https://github.com/afeld/hackerhours.org/wiki/About#write-ups)
     * [Photos](https://github.com/afeld/hackerhours.org/wiki/About#photos)
+    * [Contact](https://github.com/afeld/hackerhours.org/wiki/About#contact)

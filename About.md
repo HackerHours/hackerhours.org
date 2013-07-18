@@ -8,3 +8,8 @@
 
 * http://afeld.me/8301
 * http://afeld.me/113878
+
+## Contact
+
+* hackerhoursnyc@gmail.com
+* [@hackerhours](https://twitter.com/hackerhours) on Twitter
