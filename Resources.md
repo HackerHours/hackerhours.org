@@ -2,11 +2,11 @@
 
 * mailing lists or IRC channels for local user groups or projects
 * [Good APIs for Mashups](https://gist.github.com/afeld/4952991)
+* [Junior Developer Panel video](http://afeld.me/nerdery/522101)
 * [List of freely available programming books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books)
 * [Recommended job boards](https://gist.github.com/afeld/5201086)
 * [Stack Overflow](http://stackoverflow.com/) (Q&A)
 * [Teach Yourself to Code](http://teachyourselftocode.com/) (list of coding resources by topic)
-* [Junior Developer Panel video](http://afeld.me/nerdery/522101)
 
 ## Schools
 
