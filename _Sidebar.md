@@ -9,4 +9,6 @@
     * [Tips for Organizers](https://github.com/afeld/hackerhours.org/wiki/DIY-Guide#tips-for-organizers)
     * [Tips for Mentors](https://github.com/afeld/hackerhours.org/wiki/DIY-Guide#tips-for-mentors)
     * [See Also](https://github.com/afeld/hackerhours.org/wiki/DIY-Guide#see-also)
-* [[Write-Ups]]
+* [[About]]
+    * [Write-Ups](https://github.com/afeld/hackerhours.org/wiki/About#write-ups)
+    * [Photos](https://github.com/afeld/hackerhours.org/wiki/About#photos)
