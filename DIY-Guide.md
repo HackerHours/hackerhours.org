@@ -20,6 +20,8 @@ This guide will address "organizers" and "mentors" in order to clarify responsib
 
 It's important to have a canonical source of information regarding the time and location, which will also be the place you refer potential attendees.  (Hacker Hours NYC was listed across two Meetup groups for a while, and all updates needed to be managed in two places in sync.)  [Meetup](http://www.meetup.com/) serves this purpose well, though a [Public Google Calendar](https://support.google.com/calendar/answer/37083?hl=en) or a [Facebook Group Event](https://www.facebook.com/help/185716894811068/) could also be fine.  It's great to have a mailing list for discussion between events, but it's best to have a designated calendar in addition.
 
+In terms of promotion (from potential mentors and mentees), your best bet is to reach out to companies, colleges, and user groups in the area.  Meetup.com will also announce your group to people with overlapping interests listed, if you choose to use that platform.
+
 ## Logistics
 
 ### Format
