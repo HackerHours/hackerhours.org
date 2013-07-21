@@ -1,3 +1,5 @@
+* [[Hacker Hours NYC]]
+    * [Policies](https://github.com/afeld/hackerhours.org/wiki/Hacker-Hours-NYC#policies)
 * [[Resources]]
 * [[Related Groups]]
 * [[Tutors]]
