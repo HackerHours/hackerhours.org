@@ -10,6 +10,6 @@
     * [Tips for Mentors](https://github.com/afeld/hackerhours.org/wiki/DIY-Guide#tips-for-mentors)
     * [See Also](https://github.com/afeld/hackerhours.org/wiki/DIY-Guide#see-also)
 * [[About]]
-    * [Write-Ups](https://github.com/afeld/hackerhours.org/wiki/About#write-ups)
+    * [What ARE Hacker Hours](https://github.com/afeld/hackerhours.org/wiki/About#what-are-hacker-hours)
     * [Photos](https://github.com/afeld/hackerhours.org/wiki/About#photos)
     * [Contact](https://github.com/afeld/hackerhours.org/wiki/About#contact)
