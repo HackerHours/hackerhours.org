@@ -1,6 +1,10 @@
 * [[Hacker Hours NYC]]
     * [Policies](https://github.com/afeld/hackerhours.org/wiki/Hacker-Hours-NYC#policies)
 * [[Resources]]
+    * [General](https://github.com/afeld/hackerhours.org/wiki/Resources#getting-a-job)
+    * [Getting a Job](https://github.com/afeld/hackerhours.org/wiki/Resources#getting-a-job)
+    * [Schools](https://github.com/afeld/hackerhours.org/wiki/Resources#schools)
+    * [Technology-Specific](https://github.com/afeld/hackerhours.org/wiki/Resources#technology-specific)
 * [[Related Groups]]
 * [[Tutors]]
 * [[DIY Guide]]
