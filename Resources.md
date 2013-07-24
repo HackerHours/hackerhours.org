@@ -33,6 +33,10 @@
 
 *Start with [Teach Yourself to Code](http://teachyourselftocode.com/)*
 
+### Ruby
+
+* Ruby Rogues' [Ruby Nuby episode](http://rubyrogues.com/090-rr-ruby-nuby-episode/)
+
 ### Rails
 
 * [Rails Hotline](http://rails.pockethotline.com/)
