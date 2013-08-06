@@ -14,6 +14,15 @@ Feel free to add your information below the line - please keep in **alphabetical
 
 ----------------
 
+### Keith Bennett
+* **Expertise:** Ruby/JRuby, Linux
+* **Rate:** $75/hr
+* **Location:** Remote (Skype, etc.); Live near Washington, DC, visit NYC from time to time
+* **Twitter:** [@keithrbennett](https://twitter.com/keithrbennett)
+* **Website:** http://www.bbs-software.com/blog
+* **Email:** keithrbennett@gmail.com
+
+
 ### Will Bradley
 * **Expertise:** {Backend: "Ruby/Rails, PHP", Frontend: "HTML, Javascript/JQuery, CSS", Desktop: "C#, .Net, Java", OS: "Ubuntu/Centos, Windows Server"}
 * **Rate:** $75/hr
