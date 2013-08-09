@@ -40,3 +40,4 @@
 ### Rails
 
 * [Rails Hotline](http://rails.pockethotline.com/)
+* [Rails Interview Questions](http://documentup.com/afeld/rails_interview_questions)
