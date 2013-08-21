@@ -21,6 +21,7 @@
 
 * continuing ed programs at most colleges/universities
 * [Code.org](http://www.code.org/)'s [list of schools](http://aws.code.org/search)
+* [CourseHorse](http://coursehorse.com/) (listing - NYC and LA only atm)
 
 ### Online
 
