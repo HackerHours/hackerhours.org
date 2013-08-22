@@ -5,6 +5,7 @@
 * http://blog.flatironschool.com/post/53767514908/dont-miss-out-nyc-ruby-rails-community
 * http://devslovebacon.com/conferences/bacon-2013/talks/hack-together
 * http://desmondrawls.com/2013/08/10/hacker-hours-with-aidan-feldman/
+* http://tech.gilt.com/post/59016326319/the-man-of-the-hacker-hour
 
 ## Photos
 
