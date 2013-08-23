@@ -4,6 +4,7 @@
 * [CodeTriage](http://www.codetriage.com/) (announcements of open issues on popular open source projects)
 * [Good APIs for Mashups](https://gist.github.com/afeld/4952991)
 * [List of freely available programming books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books)
+* [Rubber Duck Problem Solving](http://www.codinghorror.com/blog/2012/03/rubber-duck-problem-solving.html) via [@NotMyself](https://github.com/NotMyself)
 * [Stack Overflow](http://stackoverflow.com/) (Q&A)
 * [Teach Yourself to Code](http://teachyourselftocode.com/) (list of coding resources by topic)
 
