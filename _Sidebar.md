@@ -16,4 +16,5 @@
 * [[About]]
     * [What ARE Hacker Hours](https://github.com/afeld/hackerhours.org/wiki/About#what-are-hacker-hours)
     * [Photos](https://github.com/afeld/hackerhours.org/wiki/About#photos)
+    * [Success Stories](https://github.com/afeld/hackerhours.org/wiki/Success-Stories/)
     * [Contact](https://github.com/afeld/hackerhours.org/wiki/About#contact)
