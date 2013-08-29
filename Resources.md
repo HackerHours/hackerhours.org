@@ -7,12 +7,15 @@
 * [Rubber Duck Problem Solving](http://www.codinghorror.com/blog/2012/03/rubber-duck-problem-solving.html) via [@NotMyself](https://github.com/NotMyself)
 * [Stack Overflow](http://stackoverflow.com/) (Q&A)
 * [Teach Yourself to Code](http://teachyourselftocode.com/) (list of coding resources by topic)
+* [Open Letter to a Prospective Programmer](http://afeld.me/nerdery/500322)
 
 ## Getting a Job
 
 * [Junior Developer Panel video](http://afeld.me/nerdery/522101)
 * [What It Takes to Get an Entry Level Job](http://www.onedayonejob.com/blog/what-it-takes-to-get-an-entry-level-job/)
 * [Recommended job boards](https://gist.github.com/afeld/5201086)
+* [Open Letter: Where to (re)Start](http://afeld.me/nerdery/975651)
+* [Open Letter: Job Hunting](http://afeld.me/nerdery/606069)
 
 ## Schools
 
