@@ -20,6 +20,7 @@
 * [Code Crew](http://www.meetup.com/codecrewny/)
 * [Ember NYC](http://www.meetup.com/EmberJS-NYC/)
 * [Ladies Who Code](http://www.meetup.com/Ladies-Who-Code/)
+* [Learn to Code - NYC](http://www.meetup.com/Learn-to-Code-NYC/)
 * [NYC Codecademy Group](http://www.meetup.com/NYC-Codecademy-Group/)
 * [NYC iOS Office Hours](http://www.meetup.com/NYC-iOS-Office-Hours/)
 * [New York MongoDB User Group](http://www.meetup.com/New-York-MongoDB-User-Group/)
