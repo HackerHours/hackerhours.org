@@ -10,9 +10,9 @@
     * Make sure to omit any passwords, API keys, or other sensitive information.
     * See also: [Rubber Duck Problem Solving](http://www.codinghorror.com/blog/2012/03/rubber-duck-problem-solving.html)
 
-### [Mailing List](http://www.meetup.com/hackerhours/messages/archive/)
+### Mailing List
 
-hackerhours-list@meetup.com
+hackerhours-list@meetup.com ([archive](http://www.meetup.com/hackerhours/messages/archive/))
 
 * Anyone is welcome to use it.
 * Messages can be coding/resource questions, or announcements *relevant to junior developers*.
