@@ -13,8 +13,8 @@
     * [Tips for Organizers](https://github.com/afeld/hackerhours.org/wiki/DIY-Guide#tips-for-organizers)
     * [Tips for Mentors](https://github.com/afeld/hackerhours.org/wiki/DIY-Guide#tips-for-mentors)
     * [See Also](https://github.com/afeld/hackerhours.org/wiki/DIY-Guide#see-also)
+* [Success Stories](https://github.com/afeld/hackerhours.org/wiki/Success-Stories/)
 * [[About]]
     * [What ARE Hacker Hours](https://github.com/afeld/hackerhours.org/wiki/About#what-are-hacker-hours)
     * [Photos](https://github.com/afeld/hackerhours.org/wiki/About#photos)
-    * [Success Stories](https://github.com/afeld/hackerhours.org/wiki/Success-Stories/)
     * [Contact](https://github.com/afeld/hackerhours.org/wiki/About#contact)
