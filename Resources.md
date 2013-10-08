@@ -7,7 +7,7 @@ Make sure to omit any passwords, API keys, or other sensitive information.
 * [OnScreenExpert](https://www.onscreenexpert.com/) (online 1-on-1 programming support)
 * [Rubber Duck Problem Solving](http://www.codinghorror.com/blog/2012/03/rubber-duck-problem-solving.html)
 * [Stack Overflow](http://stackoverflow.com/) (Q&A)
-    * If you get stuck on a problem and don't want to wait until the next meetup, you are strongly encouraged to post the question to [Stack Overflow](http://stackoverflow.com/), then send the link to the mailing list (hackerhours-list@meetup.com) with a brief description.  That way, you can potentially get an answer sooner than contacting a mentor directly, and the discussion/solution benefits others.
+    * After posting a question to S.O., you are welcome to send the link to the mailing list (hackerhours-list@meetup.com) with a brief description.  That way, you can potentially get an answer sooner (and from more people) than contacting a mentor directly, and the discussion/solution benefits others.
 
 ## Independent Learning
 
