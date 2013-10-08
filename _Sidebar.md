@@ -1,10 +1,12 @@
 * [[Hacker Hours NYC]]
     * [Policies](https://github.com/afeld/hackerhours.org/wiki/Hacker-Hours-NYC#policies)
 * [[Resources]]
-    * [General](https://github.com/afeld/hackerhours.org/wiki/Resources#getting-a-job)
+    * [Troubleshooting](https://github.com/afeld/hackerhours.org/wiki/Resources#troubleshooting)
+    * [Independent-Learning](https://github.com/afeld/hackerhours.org/wiki/Resources#independent-learning)
     * [Getting a Job](https://github.com/afeld/hackerhours.org/wiki/Resources#getting-a-job)
     * [Schools](https://github.com/afeld/hackerhours.org/wiki/Resources#schools)
     * [Technology-Specific](https://github.com/afeld/hackerhours.org/wiki/Resources#technology-specific)
+    * [Random](https://github.com/afeld/hackerhours.org/wiki/Resources#random)
 * [[Related Groups]]
 * [[Tutors]]
 * [[DIY Guide]]

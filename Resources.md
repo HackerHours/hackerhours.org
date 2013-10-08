@@ -1,14 +1,19 @@
-## General
+## Troubleshooting
+
+Make sure to omit any passwords, API keys, or other sensitive information.
 
 * mailing lists or IRC channels for local user groups or projects
 * [#hackerhours](https://webchat.freenode.net/?channels=hackerhours) on Freenode (IRC)
-* [CodeTriage](http://www.codetriage.com/) (announcements of open issues on popular open source projects)
-* [Good APIs for Mashups](https://gist.github.com/afeld/4952991)
-* [List of freely available programming books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books)
-* [Open Letter to a Prospective Programmer](http://afeld.me/nerdery/500322)
-* [Project Euler](http://projecteuler.net)
+* [OnScreenExpert](https://www.onscreenexpert.com/) (online 1-on-1 programming support)
 * [Rubber Duck Problem Solving](http://www.codinghorror.com/blog/2012/03/rubber-duck-problem-solving.html) via [@NotMyself](https://github.com/NotMyself)
 * [Stack Overflow](http://stackoverflow.com/) (Q&A)
+    * If you get stuck on a problem and don't want to wait until the next meetup, you are strongly encouraged to post the question to [Stack Overflow](http://stackoverflow.com/), then send the link to the mailing list (hackerhours-list@meetup.com) with a brief description.  That way, you can potentially get an answer sooner than contacting a mentor directly, and the discussion/solution benefits others.
+
+## Independent Learning
+
+* [List of freely available programming books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books)
+* [Open Letter to a Prospective Programmer](http://afeld.me/nerdery/500322)
+* [Project Euler](http://projecteuler.net) (set of puzzles that can be solved with any programming language)
 * [Teach Yourself to Code](http://teachyourselftocode.com/) (list of coding resources by topic)
 
 ## Getting a Job
@@ -49,3 +54,8 @@
 
 * [Rails Hotline](http://rails.pockethotline.com/)
 * [Rails Interview Questions](http://documentup.com/afeld/rails_interview_questions)
+
+## Random
+
+* [CodeTriage](http://www.codetriage.com/) (announcements of open issues on popular open source projects)
+* [Good APIs for Mashups](https://gist.github.com/afeld/4952991)
