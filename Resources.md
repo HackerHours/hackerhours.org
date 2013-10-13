@@ -11,6 +11,7 @@ Make sure to omit any passwords, API keys, or other sensitive information.
 
 ## Independent Learning
 
+* [Code Crew blog](http://blog.codecrew.co/)
 * [List of freely available programming books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books)
 * [Open Letter to a Prospective Programmer](http://afeld.me/nerdery/500322)
 * [Project Euler](http://projecteuler.net) (set of puzzles that can be solved with any programming language)
