@@ -16,6 +16,7 @@ Make sure to omit any passwords, API keys, or other sensitive information.
 * [Open Letter to a Prospective Programmer](http://afeld.me/nerdery/500322)
 * [Project Euler](http://projecteuler.net) (set of puzzles that can be solved with any programming language)
 * [Teach Yourself to Code](http://teachyourselftocode.com/) (list of coding resources by topic)
+* [Wildcard Programming Challenge](http://www.trywildcard.com/challenge)
 
 ## Getting a Job
 
