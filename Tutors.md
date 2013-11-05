@@ -72,6 +72,14 @@ Feel free to add your information below the line - please keep in **alphabetical
 * **Location**: UES, Manhattan
 * [Meetup profile](http://www.meetup.com/hackerhours/members/7191372/)
 
+### [Alex Potérya](http://my-devs.com)
+* **Expertise:** PHP, node.js, MySQL, NoSQL, JavaScript, Linux, DevOps, highload/high-traffic.
+* **Rate:** $50/h
+* **Email:** alex@my-devs.com
+* **GitHub:** [@alex-poterya](https://github.com/alex-poterya)
+* **Location**: New York
+* 
+
 ### Kfir Shay
 * **Expertise:** Ruby, Rails, JavaScript, Python, SQL, Postgres
 * **Rate:** N/A
