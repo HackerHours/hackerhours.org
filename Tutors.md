@@ -78,7 +78,6 @@ Feel free to add your information below the line - please keep in **alphabetical
 * **Email:** alex@my-devs.com
 * **GitHub:** [@alex-poterya](https://github.com/alex-poterya)
 * **Location**: New York
-* 
 
 ### Kfir Shay
 * **Expertise:** Ruby, Rails, JavaScript, Python, SQL, Postgres
