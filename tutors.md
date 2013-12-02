@@ -3,19 +3,7 @@ layout: default
 title: Tutors
 ---
 
-Feel free to add your information below the line - please keep in **alphabetical order by last name**.  **All fields are optional.**  Example:
-
----------------
-
-### Aidan Feldman
-* **Expertise:** Ruby, Rails, JavaScript, Backbone.js, MongoDB
-* **Rate:** $1Gajillion/hr
-* **Location:** Ft Greene (Brooklyn) or Skype
-* **Github:** [@afeld](https://github.com/afeld)
-* **Twitter:** [@aidanfeldman](https://twitter.com/aidanfeldman)
-* **Website:** http://api.afeld.me
-* **Email:** contact@me.com
-* [Meetup profile](http://www.meetup.com/hackerhours/members/8818215/) <-- allows people to contact you without getting your email address
+Feel free to add your information below the line - please keep in **alphabetical order by last name**.  **All fields are optional.**
 
 ----------------
 
@@ -26,7 +14,6 @@ Feel free to add your information below the line - please keep in **alphabetical
 * **Twitter:** [@keithrbennett](https://twitter.com/keithrbennett)
 * **Website:** http://www.bbs-software.com/blog
 * **Email:** keithrbennett@gmail.com
-
 
 ### Will Bradley
 * **Expertise:** {Backend: "Ruby/Rails, PHP", Frontend: "HTML, Javascript/JQuery, CSS", Desktop: "C#, .Net, Java", OS: "Ubuntu/Centos, Windows Server"}
