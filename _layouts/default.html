@@ -37,6 +37,10 @@
     </div>
 
     <div class="content">
+      {% unless page.path == 'index.html' %}
+        <h1>{{ page.title }}</h1>
+      {% endunless %}
+
       {{ content }}
     </div>
 

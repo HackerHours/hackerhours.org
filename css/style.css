@@ -2,7 +2,6 @@ html {
   background: #EDEDED;
 }
 h1 {
-  font-size: 5em;
   font-family: 'Merriweather', serif;
   font-weight: normal; /* reset for mobile - http://css-tricks.com/forums/discussion/comment/44182/#Comment_44182 */
   margin-top: 0;
@@ -33,6 +32,9 @@ p {
 .page-index .content {
   padding-top: 200px;
   text-align: center;
+}
+.page-index h1 {
+  font-size: 5em;
 }
 .page-index .footer {
   position: absolute;
