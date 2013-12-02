@@ -1,17 +1,37 @@
 html {
   background: #EDEDED;
-  text-align: center;
 }
 h1 {
-  margin: 2em 0.4em 0.2em;
   font-size: 5em;
   font-family: 'Merriweather', serif;
   font-weight: normal; /* reset for mobile - http://css-tricks.com/forums/discussion/comment/44182/#Comment_44182 */
+  margin-top: 0;
 }
 p {
-  margin-bottom: 2em;
   font-family: 'Muli', sans-serif;
   font-size: 1.4em;
+}
+.content {
+  max-width: 600px;
+  margin: auto;
+  padding-bottom: 80px;
+  padding-top: 50px;
+}
+.footer {
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+/* homepage */
+.page-index .content {
+  padding-top: 200px;
+  text-align: center;
+}
+.page-index .footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
 }
 .meetupLink {
   display: block;
@@ -42,48 +62,14 @@ p {
 #meetupDate:hover #dateStr {
   opacity: 1;
 }
-#footerWrap {
-  position: absolute;
-  bottom: 0.5em;
-  left: 0;
-  right: 0;
-  font-family: 'Merriweather', serif;
-  font-size: 1.2em;
-}
-#footerWrap,
-#footerWrap a {
-  color: gray;
-}
-#footerInner {
-  padding: 0 1.5em;
-}
-.footer-row {
-  margin-bottom: 1em;
-}
 
 @media all and (max-width: 640px) {
   /* narrow browser */
   html {
     font-size: 0.8em;
   }
-  #footerWrap {
-    font-size: 0.9em;
-  }
-}
-@media all and (max-height: 540px) {
-  /* short browser */
-  h1 {
-    margin-top: 1em;
-  }
-  p {
-    margin-bottom: 1em;
-  }
 }
 @media all and (max-height: 360px) {
-  /* shorter browser (iPhone) */
-  h1 {
-    margin-top: 0.5em;
-  }
   p {
     font-size: 1.2em;
   }
