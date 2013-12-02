@@ -25,6 +25,9 @@ p {
   margin-bottom: 1em;
   text-align: center;
 }
+.footer a {
+  color: gray;
+}
 
 /* homepage */
 .page-index .content {
