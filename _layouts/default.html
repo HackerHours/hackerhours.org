@@ -29,7 +29,11 @@
     <div class="navbar">
       {% for other in site.pages %}
         <a href="{{ other.url }}">{{ other.title }}</a>
+        {% unless forloop.last %}
+          &#126;
+        {% endunless %}
       {% endfor %}
+      &#126;
       <a href="https://github.com/afeld/hackerhours.org">Fork this site</a>
     </div>
 

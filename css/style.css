@@ -11,6 +11,10 @@ p {
   font-family: 'Muli', sans-serif;
   font-size: 1.4em;
 }
+.navbar {
+  font-family: 'Merriweather', serif;
+  color: gray;
+}
 .content {
   max-width: 600px;
   margin: auto;
