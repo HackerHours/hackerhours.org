@@ -14,4 +14,4 @@ hackerhours-list@meetup.com ([archive](http://www.meetup.com/hackerhours/message
 
 * Anyone is welcome to use it.
 * Messages can be coding/resource questions, or announcements *relevant to junior developers*.
-* Any recruiting must include "[JOB]" in the subject line.
+* Any recruiting must include `[JOB]` in the subject line.
