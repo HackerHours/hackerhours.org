@@ -4,3 +4,4 @@ pygments: true
 redcarpet:
   extensions:
   - autolink
+  - with_toc_data
