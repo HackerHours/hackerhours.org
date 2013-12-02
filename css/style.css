@@ -1,14 +1,11 @@
 html {
   background: #EDEDED;
+  font-family: 'Muli', sans-serif;
 }
 h1 {
   font-family: 'Merriweather', serif;
   font-weight: normal; /* reset for mobile - http://css-tricks.com/forums/discussion/comment/44182/#Comment_44182 */
   margin-top: 0;
-}
-p {
-  font-family: 'Muli', sans-serif;
-  font-size: 1.4em;
 }
 .navbar {
   font-family: 'Merriweather', serif;
@@ -35,6 +32,9 @@ p {
 }
 .page-index h1 {
   font-size: 5em;
+}
+.page-index h2 {
+  font-size: 1.4em
 }
 .page-index .footer {
   position: absolute;
