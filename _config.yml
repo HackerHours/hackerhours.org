@@ -1,4 +1,3 @@
 name: Hacker Hours
 markdown: redcarpet
-source: ./site
 pygments: true
