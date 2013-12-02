@@ -8,15 +8,17 @@ h1 {
   font-weight: normal; /* reset for mobile - http://css-tricks.com/forums/discussion/comment/44182/#Comment_44182 */
   margin-top: 0;
 }
+img {
+  max-width: 100%;
+}
 .navbar a {
   font-family: 'Merriweather', serif;
   color: gray;
 }
 .content {
-  max-width: 600px;
+  max-width: 640px;
   margin: auto;
-  padding-bottom: 80px;
-  padding-top: 50px;
+  padding: 50px 20px 80px;
 }
 .footer {
   margin-bottom: 1em;
