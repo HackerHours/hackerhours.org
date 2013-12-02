@@ -17,7 +17,7 @@ In short, Hacker Hours are
 
 Meeting the above requirements are the only things we ask to call your group "Hacker Hours".  We won't sue you or anything, but just ask in good faith.
 
-Read the [What ARE Hacker Hours](https://github.com/afeld/hackerhours.org/wiki/About#what-are-hacker-hours) to get some backstory.
+Read the [What ARE Hacker Hours](/about.html#toc_0) to get some backstory.
 
 This guide will address "organizers" and "mentors" in order to clarify responsibilities, though one person can certainly serve both roles.  "Organizers" are people who schedule the event and are generally in charge of coordination.  "Mentors" are individuals with greater-than-zero programming experience who are willing to answer coding questions.  These titles aren't official or formal - just to help for purposes of this guide.
 
@@ -31,7 +31,7 @@ In terms of promotion (from potential mentors and mentees), your best bet is to 
 
 ### Format
 
-While Hacker Hours NYC is programming-language-agnostic, [other related groups](https://github.com/afeld/hackerhours.org/wiki/DIY-Guide) are language- or framework-specific.  Totally up to you.
+While Hacker Hours NYC is programming-language-agnostic, [other related groups](/diy-guide.html) are language- or framework-specific.  Totally up to you.
 
 When it began, Hacker Hours NYC was almost entirely absolute beginners. Over time, the group has gained more regulars and a wider variety of skill levels, and now many attendees simply come to have a space to work and hang out with other coders. Your community and your outreach will determine the demographic and vibe.
 
@@ -46,7 +46,7 @@ Hacker Hours NYC run twice per week, but don't feel like you need to make a long
 
 ### Location
 
-Hacker Hours NYC began in the eight-seat conference room at [Jux](https://jux.com/gallery/1239211), which had to move to [a coffee shop](http://www.vineapple.com/) after it consistently brought in over twenty people per session.  It then outgrew the coffee shop, and moved to a [coworking space](http://www.alleynyc.com/) (though another session started in a different office).  The breakdown:
+Hacker Hours NYC began in the eight-seat conference room at [Jux](https://jux.com), which had to move to [a coffee shop](http://www.vineapple.com/) after it consistently brought in over twenty people per session.  It then outgrew the coffee shop, and moved to a [coworking space](http://www.alleynyc.com/) (though another session started in a different office).  The breakdown:
 
 * office
     * PROS
@@ -94,7 +94,7 @@ While it's great to have mentors that are experienced coders, these people may n
 
 ### Resources
 
-Depending on the homogeneity of the group, you are may get a lot of repeat questions.  Keep a list of resources that you can refer people to, particularly setup instructions and getting started tutorials/books.  Feel free to add to [the General Resources section of this wiki](https://github.com/afeld/hackerhours.org/wiki/Resources), or create a Page for a list that's more specifically relevant to your group.
+Depending on the homogeneity of the group, you are may get a lot of repeat questions.  Keep a list of resources that you can refer people to, particularly setup instructions and getting started tutorials/books.  Feel free to add to [the Resources page](/resources.html), or create a Page for a list that's more specifically relevant to your group.
 
 ## Tips for Organizers
 
@@ -111,4 +111,4 @@ Depending on the homogeneity of the group, you are may get a lot of repeat quest
 
 ## Conclusion
 
-You are awesome.  If you need anything (e.g help with promotion), please [get in touch](https://github.com/afeld/hackerhours.org/wiki/About#contact).
+You are awesome.  If you need anything (e.g help with promotion), please [get in touch](/about.html#toc_2).

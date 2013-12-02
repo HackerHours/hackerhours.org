@@ -6,7 +6,7 @@ title: Policies
 ## General
 
 * Be respectful of one another.  This is a small community and there is no room for jerks.
-* Recruiting is only allowed if the position is for junior developers, apprenticeships or internships.  We are also open to sponsorships (e.g. food + drink for an event) - [get in touch](https://github.com/afeld/hackerhours.org/wiki/About#contact)!
+* Recruiting is only allowed if the position is for junior developers, apprenticeships or internships.  We are also open to sponsorships (e.g. food + drink for an event) - [get in touch](/about.html#toc_2)!
 
 ## Mailing List
 
