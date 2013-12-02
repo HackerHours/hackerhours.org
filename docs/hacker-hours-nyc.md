@@ -1,4 +1,7 @@
-# Hacker Hours NYC
+---
+layout: default
+title: Hacker Hours NYC
+---
 
 [Meetup group](http://www.meetup.com/hackerhours/)
 

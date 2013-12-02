@@ -1,4 +1,7 @@
-# DIY Guide
+---
+layout: default
+title: DIY Guide
+---
 
 ***So, you want to start your own Hacker Hours!***
 

@@ -1,4 +1,7 @@
-# About
+---
+layout: default
+title: About
+---
 
 ## What ARE Hacker Hours
 

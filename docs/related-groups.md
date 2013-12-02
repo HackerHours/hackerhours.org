@@ -1,4 +1,7 @@
-# Related Groups
+---
+layout: default
+title: Related Groups
+---
 
 *Free, in-person, beginner-oriented groups only, please.*
 

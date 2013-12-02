@@ -1,4 +1,7 @@
-# Resources
+---
+layout: default
+title: Resources
+---
 
 ## Troubleshooting
 
