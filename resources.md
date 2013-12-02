@@ -74,6 +74,7 @@ Make sure to omit any passwords, API keys, or other sensitive information.
 * [CodeTriage](http://www.codetriage.com/)
 * [ContribHub](http://contribhub.com/)
 * [Google Summer of Code](https://developers.google.com/open-source/soc/)
+* [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
 
 ## Random
 
