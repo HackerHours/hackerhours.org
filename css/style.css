@@ -1,6 +1,7 @@
 html {
   background: #EDEDED;
   font-family: 'Muli', sans-serif;
+  line-height: 1.4;
 }
 h1 {
   font-family: 'Merriweather', serif;
@@ -32,6 +33,7 @@ h1 {
 }
 .page-index h1 {
   font-size: 5em;
+  margin-bottom: 0.2em;
 }
 .page-index h2 {
   font-size: 1.4em
