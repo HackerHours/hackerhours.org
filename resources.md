@@ -64,7 +64,17 @@ Make sure to omit any passwords, API keys, or other sensitive information.
 * [Rails Hotline](http://rails.pockethotline.com/)
 * [Rails Interview Questions](http://documentup.com/afeld/rails_interview_questions)
 
+## Getting Involved in Open Source
+
+* [24 Pull Requests](http://24pullrequests.com/)
+    * See their [Contributing](http://24pullrequests.com/contributing) page for guides
+* [BountySource](https://www.bountysource.com/)
+* [Code for America](http://codeforamerica.org/)
+* [CodeMontage](http://codemontage.com/)
+* [CodeTriage](http://www.codetriage.com/)
+* [ContribHub](http://contribhub.com/)
+* [Google Summer of Code](https://developers.google.com/open-source/soc/)
+
 ## Random
 
-* [CodeTriage](http://www.codetriage.com/) (announcements of open issues on popular open source projects)
 * [Good APIs for Mashups](https://gist.github.com/afeld/4952991)
