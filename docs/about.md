@@ -1,3 +1,5 @@
+# About
+
 ## What ARE Hacker Hours
 
 * http://afeld.me/7132 (original blog post)

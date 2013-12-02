@@ -1,3 +1,5 @@
+# Resources
+
 ## Troubleshooting
 
 ![calvin and hobbes](http://picayune.uclick.com/comics/ch/1995/ch950617.gif)

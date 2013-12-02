@@ -1,3 +1,5 @@
+# Hacker Hours NYC
+
 [Meetup group](http://www.meetup.com/hackerhours/)
 
 ## Policies

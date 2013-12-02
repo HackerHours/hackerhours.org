@@ -1,3 +1,5 @@
+# DIY Guide
+
 ***So, you want to start your own Hacker Hours!***
 
 This is very exciting.

@@ -1,3 +1,5 @@
+# Related Groups
+
 *Free, in-person, beginner-oriented groups only, please.*
 
 ## Multiple Locations
