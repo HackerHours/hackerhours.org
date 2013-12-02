@@ -1,18 +1,14 @@
 ---
 layout: default
-title: Hacker Hours NYC
+title: Policies
 ---
 
-[Meetup group](http://www.meetup.com/hackerhours/)
-
-## Policies
-
-### General
+## General
 
 * Be respectful of one another.  This is a small community and there is no room for jerks.
 * Recruiting is only allowed if the position is for junior developers, apprenticeships or internships.  We are also open to sponsorships (e.g. food + drink for an event) - [get in touch](https://github.com/afeld/hackerhours.org/wiki/About#contact)!
 
-### Mailing List
+## Mailing List
 
 hackerhours-list@meetup.com ([archive](http://www.meetup.com/hackerhours/messages/archive/))
 
