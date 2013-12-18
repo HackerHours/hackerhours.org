@@ -73,6 +73,7 @@ Make sure to omit any passwords, API keys, or other sensitive information.
 * [CodeMontage](http://codemontage.com/)
 * [CodeTriage](http://www.codetriage.com/)
 * [ContribHub](http://contribhub.com/)
+* [Search GitHub for `help-wanted`](https://github.com/search?q=state%3Aopen+label%3Ahelp-wanted&type=Issues)
 * [Google Summer of Code](https://developers.google.com/open-source/soc/)
 * [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
 
