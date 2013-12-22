@@ -75,6 +75,7 @@ Make sure to omit any passwords, API keys, or other sensitive information.
 * [ContribHub](http://contribhub.com/)
 * [Search GitHub for `help-wanted`](https://github.com/search?q=state%3Aopen+label%3Ahelp-wanted&type=Issues)
 * [Google Summer of Code](https://developers.google.com/open-source/soc/)
+* [Looking for Pull Requests](http://www.lookingforpullrequests.com/)
 * [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
 
 ## Random
