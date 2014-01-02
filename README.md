@@ -1,4 +1,12 @@
-hackerhours.org
-===============
+# hackerhours.org
 
-landing page for Hacker Hours
+Landing page for Hacker Hours.
+
+## Development
+
+To run the site locally:
+
+```bash
+bundle install
+bundle exec jekyll serve -w
+```
