@@ -11,7 +11,7 @@ Make sure to omit any passwords, API keys, or other sensitive information.
 
 * mailing lists or IRC channels for local user groups or projects
 * [#hackerhours](https://webchat.freenode.net/?channels=hackerhours) on Freenode (IRC)
-* [OnScreenExpert](https://www.onscreenexpert.com/) (online 1-on-1 programming support)
+* [Tutors](tutors.html)
 * [Rubber Duck Problem Solving](http://www.codinghorror.com/blog/2012/03/rubber-duck-problem-solving.html)
 * [Stack Overflow](http://stackoverflow.com/) (Q&A)
     * After posting a question to S.O., you are welcome to send the link to the mailing list (hackerhours-list@meetup.com) with a brief description.  That way, you can potentially get an answer sooner (and from more people) than contacting a mentor directly, and the discussion/solution benefits others.
