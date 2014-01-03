@@ -5,6 +5,7 @@ title: Tutors
 
 ## Services
 
+* [HackHands](http://www.hackhands.com/)
 * [OnScreenExpert](https://www.onscreenexpert.com/)
 
 ## Individuals
