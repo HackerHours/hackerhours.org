@@ -5,6 +5,7 @@ title: Tutors
 
 ## Services
 
+* [Google Helpouts](https://helpouts.google.com)
 * [HackHands](http://www.hackhands.com/)
 * [OnScreenExpert](https://www.onscreenexpert.com/)
 
