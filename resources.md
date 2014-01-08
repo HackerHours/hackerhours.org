@@ -25,6 +25,14 @@ Make sure to omit any passwords, API keys, or other sensitive information.
 * [Teach Yourself to Code](http://teachyourselftocode.com/) (list of coding resources by topic)
 * [Wildcard Programming Challenge](http://www.trywildcard.com/challenge)
 
+## Practice
+
+All are language-agnostic.
+
+* [CodingKata.net](http://codingkata.net/Katas)
+* [KataCatalogue](http://codingdojo.org/cgi-bin/wiki.pl?KataCatalogue)
+* [NimblePros katas](http://nimblepros.com/what-we-do/event-resources.aspx)
+
 ## Getting a Job
 
 * [Junior Developer Panel video](http://afeld.me/nerdery/522101)
