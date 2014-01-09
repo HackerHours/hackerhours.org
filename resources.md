@@ -20,7 +20,7 @@ Make sure to omit any passwords, API keys, or other sensitive information.
 
 * [Code Crew blog](http://blog.codecrew.co/)
 * [Journeyman](https://plus.google.com/communities/113669203485569960566?cfem=1)
-* [List of freely available programming books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books)
+* [List of Free Programming Books](http://resrc.io/list/10/list-of-free-programming-books/)
 * [Open Letter to a Prospective Programmer](http://afeld.me/nerdery/500322)
 * [Teach Yourself to Code](http://teachyourselftocode.com/) (list of coding resources by topic)
 
