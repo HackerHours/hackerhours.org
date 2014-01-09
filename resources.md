@@ -19,19 +19,20 @@ Make sure to omit any passwords, API keys, or other sensitive information.
 ## Independent Learning
 
 * [Code Crew blog](http://blog.codecrew.co/)
+* [Journeyman](https://plus.google.com/communities/113669203485569960566?cfem=1)
 * [List of freely available programming books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books)
 * [Open Letter to a Prospective Programmer](http://afeld.me/nerdery/500322)
-* [Project Euler](http://projecteuler.net) (set of puzzles that can be solved with any programming language)
 * [Teach Yourself to Code](http://teachyourselftocode.com/) (list of coding resources by topic)
-* [Wildcard Programming Challenge](http://www.trywildcard.com/challenge)
 
-## Practice
+## Practice/Puzzles
 
 All are language-agnostic.
 
 * [CodingKata.net](http://codingkata.net/Katas)
 * [KataCatalogue](http://codingdojo.org/cgi-bin/wiki.pl?KataCatalogue)
 * [NimblePros katas](http://nimblepros.com/what-we-do/event-resources.aspx)
+* [Project Euler](http://projecteuler.net)
+* [Wildcard Programming Challenge](http://www.trywildcard.com/challenge)
 
 ## Getting a Job
 
