@@ -3,6 +3,9 @@ layout: default
 title: About
 ---
 
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p>want a stronger economy in your city? get one of these <a href="http://t.co/mR2Qf8wzYP">http://t.co/mR2Qf8wzYP</a> &quot;The format is simple: u come..flag down..if you have a q&quot;</p>&mdash; Scott Heiferman (@heif) <a href="https://twitter.com/heif/statuses/426436663640748032">January 23, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## What ARE Hacker Hours
 
 * [The announcement blog post](http://afeld.me/7132), 9/25/11
