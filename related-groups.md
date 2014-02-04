@@ -39,4 +39,8 @@ title: Related Groups
 
 * [Ember.js Seattle](http://www.meetup.com/Ember-js-Seattle-Meetup/)
 
+## Toronto
+
+* [Ember Hack Night](http://www.meetup.com/Ember-Hack-Night/)
+
 ## Others?
