@@ -11,8 +11,9 @@ This is very exciting.
 
 In short, Hacker Hours are
 
-* "free office hours for programming help"
-* open to anyone, regardless of age or skill level
+* free
+* available to help people improve their coding skills
+* open to anyone
 * not a class, and not a lecture
 
 Meeting the above requirements are the only things we ask to call your group "Hacker Hours".  We won't sue you or anything, but just ask in good faith.
@@ -33,7 +34,7 @@ In terms of promotion (from potential mentors and mentees), your best bet is to 
 
 While Hacker Hours NYC is programming-language-agnostic, [other related groups](/diy-guide.html) are language- or framework-specific.  Totally up to you.
 
-When it began, Hacker Hours NYC was almost entirely absolute beginners. Over time, the group has gained more regulars and a wider variety of skill levels, and now many attendees simply come to have a space to work and hang out with other coders. Your community and your outreach will determine the demographic and vibe.
+When it began, Hacker Hours NYC was almost entirely office hours to answer questions for absolute beginners. Over time, the group has gained more regulars and a wider variety of skill levels, and now many attendees simply come to have a space to work and hang out with other coders. Your community and your outreach will determine the demographic and vibe.
 
 The default format is where mentors make themselves available for however-many hours at a time to bounce around and answer questions - the beauty here is zero planning and zero formality.  Possible alterations include
 
