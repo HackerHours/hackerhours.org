@@ -87,6 +87,15 @@ Feel free to add your information below the line - please keep in **alphabetical
 * **Email:** kfir.shay@gmail.com
 * [Meetup profile](http://www.meetup.com/hackerhours/members/2818945/)
 
+### [Dan Ubilla](http://www.danubilla.com)
+* **Expertise:** JavaScript, CSS, AngularJS, Rails, Ruby
+* **Rate:** ask me
+* **Location:** Park Slope, Brooklyn; Lower Manhattan
+* **Github:** [@dubilla](https://github.com/dubilla)
+* **Twitter:** [@dubilla](https://twitter.com/dubilla)
+* **Email:** dan.ubilla@gmail.com
+* [Meetup profile](http://www.meetup.com/hackerhours/members/9092697/)
+
 ### David Wang
 * **Expertise:** Python, Javascript, Backbone, Rails, HTML, CSS, Reddit, Tennis, Hckrnews, Life, Cats
 * **Rate:** min($1*10^99989999988999 per 1*10^-99999998999999ms, "ask me!")
