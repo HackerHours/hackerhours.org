@@ -45,3 +45,5 @@ title: Related Groups
 * [Ember Hack Night](http://www.meetup.com/Ember-Hack-Night/)
 
 ## Others?
+
+[Let us know](https://github.com/afeld/hackerhours.org/issues/new).
