@@ -41,6 +41,7 @@ All are language-agnostic.
 * [Recommended job boards](https://gist.github.com/afeld/5201086)
 * [Open Letter: Where to (re)Start](http://afeld.me/nerdery/975651)
 * [Open Letter: Job Hunting](http://afeld.me/nerdery/606069)
+* [Open Letter: Indirection](http://afeld.me/nerdery/2920476)
 
 ## Schools
 
