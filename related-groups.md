@@ -36,6 +36,10 @@ title: Related Groups
 * [The New York HTML5 Applications Developers Group](http://www.meetup.com/html5-app-developers/)
 * [The New York Python Meetup Group](http://www.meetup.com/nycpython/)
 
+## Raleigh/Durham
+
+* http://www.meetup.com/trianglehackerhours/
+
 ## Seattle
 
 * [Ember.js Seattle](http://www.meetup.com/Ember-js-Seattle-Meetup/)
