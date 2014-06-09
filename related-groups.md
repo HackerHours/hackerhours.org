@@ -38,7 +38,7 @@ title: Related Groups
 
 ## Raleigh/Durham
 
-* http://www.meetup.com/trianglehackerhours/
+* [Triangle Hacker Hours](http://www.meetup.com/trianglehackerhours/)
 
 ## Seattle
 
