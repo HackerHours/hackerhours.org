@@ -31,14 +31,11 @@ In terms of promotion (from potential mentors and mentees), your best bet is to 
 
 ### Format
 
-While Hacker Hours NYC is programming-language-agnostic, [other related groups](/diy-guide.html) are language- or framework-specific.  Totally up to you.
+While Hacker Hours NYC is programming-language-agnostic, [other related groups](/related-groups.html) are language- or framework-specific.  Totally up to you.
 
 When it began, Hacker Hours NYC was almost entirely absolute beginners. Over time, the group has gained more regulars and a wider variety of skill levels, and now many attendees simply come to have a space to work and hang out with other coders. Your community and your outreach will determine the demographic and vibe.
 
-The default format is where mentors make themselves available for however-many hours at a time to bounce around and answer questions - the beauty here is zero planning and zero formality.  Possible alterations include
-
-* an opening where everyone introduces themselves and what they're working on
-* [lightning talks](http://en.wikipedia.org/wiki/Lightning_talk) to present projects or what people accomplished during the session
+The default format is where mentors make themselves available for however-many hours at a time to bounce around and answer questions - the beauty here is zero planning.  Starting with a [**standup**](https://en.wikipedia.org/wiki/Stand-up_meeting), where everyone introduces themselves and what they're working on for the session, is a great way to get everyone to meet one another.  On occasion, Hacker Hours NYC attendees have also done informal [**lightning talks**](http://en.wikipedia.org/wiki/Lightning_talk), teaching a skill, showing off projects, etc.
 
 ### Frequency
 
