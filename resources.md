@@ -29,8 +29,7 @@ Make sure to omit any passwords, API keys, or other sensitive information.
 All are language-agnostic.
 
 * [CodingKata.net](http://codingkata.net/Katas)
-* [KataCatalogue](http://codingdojo.org/cgi-bin/wiki.pl?KataCatalogue)
-* [NimblePros katas](http://nimblepros.com/what-we-do/event-resources.aspx)
+* [KataCatalogue](http://codingdojo.org/cgi-bin/index.pl?KataCatalogue)
 * [Project Euler](http://projecteuler.net)
 * [Wildcard Programming Challenge](http://www.trywildcard.com/challenge)
 
@@ -51,7 +50,7 @@ All are language-agnostic.
 
 * continuing ed programs at most colleges/universities
 * [Bootcamper](http://bootcamper.io/)
-* [Code.org](http://www.code.org/)'s [list of schools](http://aws.code.org/search)
+* [Code.org](http://www.code.org/)'s [list of schools](http://code.org/learn/local)
 * [CourseHorse](http://coursehorse.com/) (listing - NYC and LA only)
 
 ### Online

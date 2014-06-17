@@ -29,7 +29,6 @@ Feel free to add your information below the line - please keep in **alphabetical
 * **Github:** [@zyphlar](https://github.com/zyphlar)
 * **Twitter:** [@willbradley](https://twitter.com/willbradley)
 * **Email:** will@zyphon.com
-* [Meetup profile](http://www.meetup.com/hackerhours/members/10922264/)
 
 ### Michael Carroll
 * **Expertise:** Ruby, Rails, JavaScript/Coffeescript, Postgres, Foundation
@@ -57,7 +56,7 @@ Feel free to add your information below the line - please keep in **alphabetical
 * **Email:** NewFairyType@Pokemon.com
 * [Meetup profile](http://www.meetup.com/hackerhours/members/53714932/)
 
-### [Blake Johnson](www.consistentactions.com)
+### [Blake Johnson](http://consistentactions.com)
 * **Expertise:** Ruby, Rails, JavaScript (not an expert), SQL, Unix, Deployment
 * **Rate:** $100/hr
 * **Location:** I teach at the Flatiron School or live in Carroll Gardens
