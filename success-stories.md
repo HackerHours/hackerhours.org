@@ -7,7 +7,7 @@ title: Success Stories
 >
 > To beginners I'd say don't be afraid, just go. It's a totally laid back environment where people just want to help each other out and are totally cool talking to beginners and experts alike. Even if you just want to go there and work on your own, it's a lot of fun.
 
-–Mattan Griffel, founder of [One Month](https://onemonth.com)
+–Mattan Griffel, (since) founder of [One Month](https://onemonth.com)
 
 ---
 
