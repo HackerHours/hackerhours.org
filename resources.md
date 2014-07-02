@@ -72,7 +72,7 @@ All are language-agnostic.
 ### Rails
 
 * [Rails Hotline](http://rails.pockethotline.com/)
-* [Rails Interview Questions](http://documentup.com/afeld/rails_interview_questions)
+* [Rails Interview Questions](https://github.com/afeld/rails_interview_questions)
 
 ## Getting Involved in Open Source
 
