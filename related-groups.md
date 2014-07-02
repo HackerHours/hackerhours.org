@@ -21,6 +21,10 @@ title: Related Groups
 
 * [Hacker Hours Boulder](http://www.meetup.com/Hacker-Hours-Boulder)
 
+## London
+
+* [Codebar](http://codebar.io)
+
 ## NYC
 
 * [Code Crew](http://www.meetup.com/codecrewny/)
