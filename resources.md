@@ -41,6 +41,7 @@ All are language-agnostic.
 * [Open Letter: Where to (re)Start](http://afeld.me/nerdery/975651)
 * [Open Letter: Job Hunting](http://afeld.me/nerdery/606069)
 * [Open Letter: Indirection](http://afeld.me/nerdery/2920476)
+* [*Kickstart your developer career* e-book](http://happybearsoftware.com/kickstart-your-developer-career)
 
 ## Schools
 
