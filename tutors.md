@@ -22,14 +22,6 @@ Feel free to add your information below the line - please keep in **alphabetical
 * **Website:** http://www.bbs-software.com/blog
 * **Email:** keithrbennett@gmail.com
 
-### Will Bradley
-* **Expertise:** {Backend: "Ruby/Rails, PHP", Frontend: "HTML, Javascript/JQuery, CSS", Desktop: "C#, .Net, Java", OS: "Ubuntu/Centos, Windows Server"}
-* **Rate:** $75/hr
-* **Location:** Brooklyn
-* **Github:** [@zyphlar](https://github.com/zyphlar)
-* **Twitter:** [@willbradley](https://twitter.com/willbradley)
-* **Email:** will@zyphon.com
-
 ### Michael Carroll
 * **Expertise:** Ruby, Rails, JavaScript/Coffeescript, Postgres, Foundation
 * **Rate:** 1 cup of tea/hour
