@@ -30,6 +30,7 @@ All are language-agnostic.
 
 * [CodingKata.net](http://codingkata.net/Katas)
 * [KataCatalogue](http://codingdojo.org/cgi-bin/index.pl?KataCatalogue)
+* [Exercism](http://exercism.io)
 * [Project Euler](http://projecteuler.net)
 * [Wildcard Programming Challenge](http://www.trywildcard.com/challenge)
 
