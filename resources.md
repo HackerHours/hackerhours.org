@@ -18,6 +18,7 @@ Make sure to omit any passwords, API keys, or other sensitive information.
 
 ## Independent Learning
 
+* [Bento](http://www.bento.io)
 * [Code Buddies](http://codebuddies.org/?rc=hh)
 * [Code Crew blog](http://blog.codecrew.co/)
 * [Journeyman](https://plus.google.com/communities/113669203485569960566?cfem=1)
