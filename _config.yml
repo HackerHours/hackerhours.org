@@ -4,3 +4,5 @@ redcarpet:
   extensions:
   - autolink
   - with_toc_data
+sass:
+  sass_dir: _sass

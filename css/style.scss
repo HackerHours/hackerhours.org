@@ -1,3 +1,6 @@
+---
+---
+
 html {
   background: #ededed;
   font-family: 'Muli', sans-serif;
@@ -5,7 +8,7 @@ html {
 }
 h1 {
   font-family: 'Merriweather', serif;
-  font-weight: normal; /* reset for mobile - http://css-tricks.com/forums/discussion/comment/44182/#Comment_44182 */
+  font-weight: normal; // reset for mobile - http://css-tricks.com/forums/discussion/comment/44182/#Comment_44182
   margin-top: 0;
 }
 img {
@@ -29,28 +32,31 @@ code {
 .footer {
   margin-bottom: 1em;
   text-align: center;
-}
-.footer a {
-  color: gray;
+
+  a {
+    color: gray;
+  }
 }
 
 /* homepage */
-.page-index .content {
-  padding-top: 200px;
-  text-align: center;
-}
-.page-index h1 {
-  font-size: 5em;
-  margin-bottom: 0.2em;
-}
-.page-index h2 {
-  font-size: 1.4em
-}
-.page-index .footer {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
+.page-index {
+  .content {
+    padding-top: 200px;
+    text-align: center;
+  }
+  h1 {
+    font-size: 5em;
+    margin-bottom: 0.2em;
+  }
+  h2 {
+    font-size: 1.4em
+  }
+  .footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
 }
 .meetupLink {
   display: block;
@@ -75,11 +81,13 @@ code {
   text-align: left;
   opacity: 0;
 }
-#meetupDate:hover #dateMs {
-  opacity: 0;
-}
-#meetupDate:hover #dateStr {
-  opacity: 1;
+#meetupDate:hover {
+  #dateMs {
+    opacity: 0;
+  }
+  #dateStr {
+    opacity: 1;
+  }
 }
 
 @media all and (max-width: 640px) {
