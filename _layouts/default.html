@@ -29,10 +29,11 @@
       <a href="/">Home</a>
       {% assign sorted_pages = site.pages | sort: 'title' %}
       {% for other in sorted_pages %}
-        {% unless other.path == 'index.html' %}
+        {% assign extension = other.path | split: '.' | last %}
+        {% if extension == 'md' %}
           <span class="separator">&#126;</span>
           <a href="{{ other.url }}">{{ other.title }}</a>
-        {% endunless %}
+        {% endif %}
       {% endfor %}
     </div>
 
