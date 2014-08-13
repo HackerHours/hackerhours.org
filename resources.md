@@ -18,6 +18,7 @@ Make sure to omit any passwords, API keys, or other sensitive information.
 
 ## Independent Learning
 
+* [Code Buddies](http://codebuddies.org/?rc=hh)
 * [Code Crew blog](http://blog.codecrew.co/)
 * [Journeyman](https://plus.google.com/communities/113669203485569960566?cfem=1)
 * [List of Free Programming Books](http://resrc.io/list/10/list-of-free-programming-books/)
@@ -60,8 +61,10 @@ All are language-agnostic.
 * [Code School](http://www.codeschool.com/)
 * [LearnStreet](http://www.learnstreet.com/)
 * [Skillshare](http://www.skillshare.com/classes/?levels=2&school=technology)
+* [Tealeaf Academy](http://www.gotealeaf.com)
 * [Thinkful](https://www.thinkful.com/)
 * [Treehouse](http://teamtreehouse.com/)
+* [Upcase](https://upcase.com)
 
 ## Technology-Specific
 
