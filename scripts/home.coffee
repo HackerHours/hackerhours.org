@@ -1,6 +1,20 @@
 ---
 ---
 
+showStartTime = (time) ->
+  dateStr = moment(parseInt(time, 10)).format('ddd, MMMM Do YYYY, h:mm a')
+  $meetupDate = $('#meetupDate')
+
+  $meetupDate.find('#dateMs').text(time)
+  $meetupDate.find('#dateStr').text(dateStr)
+
+getRand = ->
+  Math.floor(Math.random() * 10)
+
+generateRandomNumbers = (n) ->
+  getRand() for i in [0..n]
+
+
 start = Date.now()
 shuffler = null
 
@@ -19,25 +33,14 @@ $.when(
     wait = 0
 
   setTimeout ->
-    dateStr = moment(parseInt(result.time, 10)).format('ddd, MMMM Do YYYY, h:mm a')
-    $meetupDate = $('#meetupDate')
-
+    showStartTime(result.time)
     clearInterval(shuffler)
-    $meetupDate.find('#dateMs').text(result.time)
-    $meetupDate.find('#dateStr').text(dateStr)
   , wait
 
 $ ->
   NUM_DIGITS = 13
   $date = $('#dateMs,#dateStr')
-  currentTime = []
-
-  getRand = ->
-    Math.floor(Math.random() * 10)
-
-  for i in [0..NUM_DIGITS]
-    currentTime[i] = getRand()
-
+  currentTime = generateRandomNumbers(NUM_DIGITS)
   $date.text(currentTime.join(''))
 
   shuffler = setInterval ->
