@@ -27,7 +27,8 @@
   <body class="page-{{ slug }}">
     <div class="navbar">
       <a href="/">Home</a>
-      {% for other in site.pages %}
+      {% assign sorted_pages = site.pages | sort: 'title' %}
+      {% for other in sorted_pages %}
         {% unless other.path == 'index.html' %}
           <span class="separator">&#126;</span>
           <a href="{{ other.url }}">{{ other.title }}</a>
