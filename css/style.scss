@@ -63,9 +63,6 @@ code {
   text-decoration: none;
   color: black;
 }
-#meetupDate {
-  position: relative;
-}
 #dateMs,
 #dateStr {
   -webkit-transition: opacity 0.4s linear;
@@ -77,16 +74,21 @@ code {
 #dateStr {
   position: absolute;
   left: 0;
+  top: 0;
   width: 18em;
   text-align: left;
   opacity: 0;
 }
-#meetupDate:hover {
-  #dateMs {
-    opacity: 0;
-  }
-  #dateStr {
-    opacity: 1;
+#meetupDate {
+  position: relative;
+
+  &:hover {
+    #dateMs {
+      opacity: 0;
+    }
+    #dateStr {
+      opacity: 1;
+    }
   }
 }
 
