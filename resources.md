@@ -59,6 +59,7 @@ All are language-agnostic.
 
 ### Online
 
+* [Bloc](https://www.bloc.io)
 * [Code School](http://www.codeschool.com/)
 * [LearnStreet](http://www.learnstreet.com/)
 * [Skillshare](http://www.skillshare.com/classes/?levels=2&school=technology)
