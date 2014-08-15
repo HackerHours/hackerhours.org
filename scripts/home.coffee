@@ -3,9 +3,9 @@
 
 class Shuffler
   NUM_DIGITS: 13
+  SHUFFLE_TIME: 1500 # ms
 
   constructor: ->
-    @start = Date.now()
     @randomNumbers = @generateRandomNumbers(@NUM_DIGITS)
     @meetupDataPromise = @getMeetupData()
 
@@ -22,14 +22,7 @@ class Shuffler
     @shuffleInterval = setInterval(@updateRandomNumbers.bind(@), 5)
 
   showStartTimeAfterDelay: ->
-    # ensure they've seen the animation for a minimum amount of time
-    elapsed = Date.now() - @start
-    wait = 1500 - elapsed
-
-    if wait < 0
-      wait = 0
-
-    setTimeout(@showStartTimeFromMeetup.bind(@), wait)
+    setTimeout(@showStartTimeFromMeetup.bind(@), @SHUFFLE_TIME)
 
   getMeetupData: ->
     $.ajax(
