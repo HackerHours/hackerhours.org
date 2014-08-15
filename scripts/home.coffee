@@ -1,50 +1,76 @@
 ---
 ---
 
-showStartTime = (time) ->
-  dateStr = moment(parseInt(time, 10)).format('ddd, MMMM Do YYYY, h:mm a')
-  $meetupDate = $('#meetupDate')
+class Shuffler
+  NUM_DIGITS: 13
 
-  $meetupDate.find('#dateMs').text(time)
-  $meetupDate.find('#dateStr').text(dateStr)
+  constructor: ->
+    @start = Date.now()
+    @randomNumbers = @generateRandomNumbers(@NUM_DIGITS)
+    @meetupDataPromise = @getMeetupData()
 
-getRand = ->
-  Math.floor(Math.random() * 10)
+  render: (@$el) ->
+    @$dateMs = @$el.find('#dateMs')
+    @$dateStr = @$el.find('#dateStr')
+    @$date = @$dateMs.add(@$dateStr)
 
-generateRandomNumbers = (n) ->
-  getRand() for i in [0..n]
+    @shuffle()
+    @showStartTimeAfterDelay()
+
+  shuffle: ->
+    @updateRandomNumbers()
+    @shuffleInterval = setInterval =>
+      @updateRandomNumbers()
+    , 5
+
+  showStartTimeAfterDelay: ->
+    # ensure they've seen the animation for a minimum amount of time
+    elapsed = Date.now() - @start
+    wait = 1500 - elapsed
+
+    if wait < 0
+      wait = 0
+
+    setTimeout(@showStartTimeFromMeetup.bind(@), wait)
+
+  getMeetupData: ->
+    $.ajax(
+      url: 'http://api.meetup.com/2/events'
+      cache: true
+      dataType: 'jsonp'
+      data:
+        key: '3c2a67534a193f12c46115f7b112e1e'
+        sign: true
+        group_urlname: 'hackerhours'
+        page: 1
+    )
+
+  updateRandomNumbers: ->
+    i = Math.floor(Math.random() * @NUM_DIGITS)
+    @randomNumbers[i] = @getRand()
+    randomStr = @randomNumbers.join('')
+    @$date.text(randomStr)
+
+  showStartTimeFromMeetup: ->
+    @meetupDataPromise.then (data) =>
+      result = data.results[0]
+      @showStartTime(result.time)
+      clearInterval(@shuffleInterval)
+
+  showStartTime: (time) ->
+    dateStr = moment(parseInt(time, 10)).format('ddd, MMMM Do YYYY, h:mm a')
+
+    @$dateMs.text(time)
+    @$dateStr.text(dateStr)
+
+  getRand: ->
+    Math.floor(Math.random() * 10)
+
+  generateRandomNumbers: (n) ->
+    @getRand() for i in [0..n]
 
 
-start = Date.now()
-shuffler = null
-
-$.when(
-  $.getJSON('http://api.meetup.com/2/events?key=3c2a67534a193f12c46115f7b112e1e&sign=true&group_urlname=hackerhours&page=1&callback=?'),
-  # https://github.com/jquery/api.jquery.com/pull/530
-  $.ready
-).then (data) ->
-  result = data[0].results[0]
-
-  # ensure they've seen the animation for a minimum amount of time
-  elapsed = Date.now() - start
-  wait = 1500 - elapsed
-
-  if wait < 0
-    wait = 0
-
-  setTimeout ->
-    showStartTime(result.time)
-    clearInterval(shuffler)
-  , wait
-
+shuffler = new Shuffler
 $ ->
-  NUM_DIGITS = 13
-  $date = $('#dateMs,#dateStr')
-  currentTime = generateRandomNumbers(NUM_DIGITS)
-  $date.text(currentTime.join(''))
-
-  shuffler = setInterval ->
-    i = Math.floor(Math.random() * NUM_DIGITS)
-    currentTime[i] = getRand()
-    $date.text(currentTime.join(''))
-  , 5
+  $el = $('#meetupDate')
+  shuffler.render($el)
