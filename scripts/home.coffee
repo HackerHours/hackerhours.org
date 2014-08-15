@@ -9,9 +9,9 @@ class Shuffler
     @randomNumbers = @generateRandomNumbers(@NUM_DIGITS)
     @meetupDataPromise = @getMeetupData()
 
-  render: (@$el) ->
-    @$dateMs = @$el.find('#dateMs')
-    @$dateStr = @$el.find('#dateStr')
+  render: ($el) ->
+    @$dateMs = $el.find('#dateMs')
+    @$dateStr = $el.find('#dateStr')
     @$date = @$dateMs.add(@$dateStr)
 
     @shuffle()
@@ -19,9 +19,7 @@ class Shuffler
 
   shuffle: ->
     @updateRandomNumbers()
-    @shuffleInterval = setInterval =>
-      @updateRandomNumbers()
-    , 5
+    @shuffleInterval = setInterval(@updateRandomNumbers.bind(@), 5)
 
   showStartTimeAfterDelay: ->
     # ensure they've seen the animation for a minimum amount of time
