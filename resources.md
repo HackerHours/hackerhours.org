@@ -56,6 +56,7 @@ All are language-agnostic.
 * [Bootcamper](http://bootcamper.io/)
 * [Code.org](http://www.code.org/)'s [list of schools](http://code.org/learn/local)
 * [CourseHorse](http://coursehorse.com/) (listing - NYC and LA only)
+* [Thinkful Bootcamp Finder](http://www.thinkful.com/bootcamps/)
 
 ### Online
 
