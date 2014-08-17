@@ -48,12 +48,13 @@ All are language-agnostic.
 
 ## Schools
 
+[Bootcamper](http://bootcamper.io/) has a fairly extensive list of online and offline options.  More below.
+
 ### In-Person
 
 *Not going to make a comprehensive list here.*
 
 * continuing ed programs at most colleges/universities
-* [Bootcamper](http://bootcamper.io/)
 * [Code.org](http://www.code.org/)'s [list of schools](http://code.org/learn/local)
 * [CourseHorse](http://coursehorse.com/) (listing - NYC and LA only)
 * [Thinkful Bootcamp Finder](http://www.thinkful.com/bootcamps/)
@@ -61,6 +62,7 @@ All are language-agnostic.
 ### Online
 
 * [Bloc](https://www.bloc.io)
+* [Code.org](http://code.org/learn/beyond) (kid-friendly)
 * [Code School](http://www.codeschool.com/)
 * [LearnStreet](http://www.learnstreet.com/)
 * [Skillshare](http://www.skillshare.com/classes/?levels=2&school=technology)
