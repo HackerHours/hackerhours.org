@@ -59,5 +59,4 @@ define ['jquery', 'moment'], ($, moment) ->
       Math.floor(Math.random() * 10)
 
     generateRandomNumbers: (n) ->
-      @getRand() for i in [0..n]
       @getRand() for i in [0...n]
