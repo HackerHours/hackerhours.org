@@ -9,4 +9,4 @@ define ['jquery', 'shuffler'], ($, Shuffler) ->
     $date = $dateRow.find('#meetupDate')
     shuffler.render($date)
 
-    $dateRow.fadeIn()
+    $dateRow.fadeIn(300)
