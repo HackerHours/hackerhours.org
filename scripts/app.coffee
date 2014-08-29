@@ -9,7 +9,10 @@ requirejs.config(
 
 requirejs ['jquery', 'shuffler'], ($, Shuffler) ->
   $ ->
-    $el = $('#meetupDate')
-    if $el.length
+    $dateRow = $('.dateRow')
+    if $dateRow.length
       shuffler = new Shuffler
-      shuffler.render($el)
+      $date = $dateRow.find('#meetupDate')
+      shuffler.render($date)
+
+      $dateRow.fadeIn()

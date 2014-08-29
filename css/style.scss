@@ -63,6 +63,10 @@ code {
   text-decoration: none;
   color: black;
 }
+
+.dateRow {
+  display: none;
+}
 #dateMs,
 #dateStr {
   -webkit-transition: opacity 0.4s linear;
