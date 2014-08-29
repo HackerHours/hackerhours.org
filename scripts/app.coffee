@@ -7,12 +7,11 @@ requirejs.config(
       moment: '//cdnjs.cloudflare.com/ajax/libs/moment.js/2.0.0/moment.min'
 )
 
-requirejs ['jquery', 'shuffler'], ($, Shuffler) ->
+requirejs ['jquery'], ($) ->
   $ ->
-    $dateRow = $('.dateRow')
-    if $dateRow.length
-      shuffler = new Shuffler
-      $date = $dateRow.find('#meetupDate')
-      shuffler.render($date)
-
-      $dateRow.fadeIn()
+    # routing
+    $body = $('body')
+    if $body.hasClass('page-index')
+      requirejs ['home']
+    else
+      requirejs ['anchor']
