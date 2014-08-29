@@ -2,9 +2,10 @@
 ---
 
 define ['jquery', 'shuffler'], ($, Shuffler) ->
-  $dateRow = $('.dateRow')
-  if $dateRow.length
-    shuffler = new Shuffler
+  shuffler = new Shuffler
+
+  $ ->
+    $dateRow = $('.dateRow')
     $date = $dateRow.find('#meetupDate')
     shuffler.render($date)
 

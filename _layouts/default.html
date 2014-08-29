@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html>
+{% assign slug = page.path | split: '/' | last | remove: '.md' | remove: '.html' %}
+<html class="page-{{ slug }}">
   <head>
     <meta charset="UTF-8">
     <title>{{ page.title }} – {{ site.name }}</title>
@@ -25,8 +26,7 @@
       ga('send', 'pageview');
     </script>
   </head>
-  {% assign slug = page.path | split: '/' | last | remove: '.md' | remove: '.html' %}
-  <body class="page-{{ slug }}">
+  <body>
     <div class="navbar">
       <a href="/">Home</a>
       {% assign sorted_pages = site.pages | sort: 'title' %}

@@ -8,10 +8,8 @@ requirejs.config(
 )
 
 requirejs ['jquery'], ($) ->
-  $ ->
-    # routing
-    $body = $('body')
-    if $body.hasClass('page-index')
-      requirejs ['home']
-    else
-      requirejs ['anchor']
+  # routing
+  if $('html').hasClass('page-index')
+    requirejs ['home']
+  else
+    requirejs ['anchor']
