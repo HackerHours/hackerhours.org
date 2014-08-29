@@ -60,3 +60,4 @@ define ['jquery', 'moment'], ($, moment) ->
 
     generateRandomNumbers: (n) ->
       @getRand() for i in [0..n]
+      @getRand() for i in [0...n]
