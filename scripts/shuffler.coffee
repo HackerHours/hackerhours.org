@@ -1,7 +1,7 @@
 ---
 ---
 
-define ['meetup', 'moment'], (Meetup, moment) ->
+define ['meetup', 'date_formatter'], (Meetup, formatDate) ->
   class Shuffler
     NUM_DIGITS: 13
     SHUFFLE_TIME: 1500 # ms
@@ -38,7 +38,7 @@ define ['meetup', 'moment'], (Meetup, moment) ->
         clearInterval(@shuffleInterval)
 
     showStartTime: (time) ->
-      dateStr = moment(parseInt(time, 10)).format('ddd, MMMM Do YYYY, h:mm a')
+      dateStr = formatDate(time)
 
       @$dateMs.text(time)
       @$dateStr.text(dateStr)
