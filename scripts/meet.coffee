@@ -2,11 +2,31 @@
 ---
 
 define ['meetup', 'jquery', 'date_formatter'], (Meetup, $, formatDate) ->
-  Meetup.getUpcomingRsvps().then (data) ->
-    $ ->
-      $list = $('.availability')
-      $.each data.results, (i, rsvp) ->
-        # TODO make configurable
-        if rsvp.member.member_id is 8818215
-          dateStr = formatDate(rsvp.event.time)
-          $list.append("<li><a href=\"#{rsvp.event.event_url}\">#{dateStr}</a></li>")
+  getMemberId = ->
+    window.location.hash.slice(1) || undefined
+
+  displayEvent = (rsvp) ->
+    dateStr = formatDate(rsvp.event.time)
+    $('.availability').append("<li><a href=\"#{rsvp.event.event_url}\">#{dateStr}</a></li>")
+
+  displayEvents = (rsvps) ->
+    memberIdStr = getMemberId()
+    $.each rsvps, (i, rsvp) ->
+      if rsvp.member.member_id.toString() is memberIdStr
+        displayEvent(rsvp)
+
+  displayMeetPage = ->
+    if getMemberId()
+      Meetup.getUpcomingRsvps().then (data) ->
+        $ ->
+          if data.results.length
+            displayEvents(data.results)
+          else
+            $('.alert').text("No upcoming availability, sorry!")
+    else
+      $ ->
+        $('.alert').html("Please include a Meetup member ID as the page hash. For example: <a href=\"#8818215\">Aidan Feldman</a>.")
+
+
+  displayMeetPage()
+  $(window).on 'hashchange', displayMeetPage
