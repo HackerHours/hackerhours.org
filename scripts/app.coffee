@@ -6,7 +6,6 @@ requirejs.config(
       jquery: '//code.jquery.com/jquery-2.1.1.min'
       jsonp: '../bower_components/jsonproxy/jsonp'
       moment: '//cdnjs.cloudflare.com/ajax/libs/moment.js/2.0.0/moment.min'
-      underscore: '//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min'
     shim:
       jsonp: ['jquery']
 )
