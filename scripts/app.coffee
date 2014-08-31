@@ -12,7 +12,10 @@ requirejs.config(
 
 requirejs ['jquery'], ($) ->
   # routing
-  if $('html').hasClass('page-index')
+  $html = $('html')
+  if $html.hasClass('page-index')
     requirejs ['home']
+  else if $html.hasClass('page-meet')
+    requirejs ['meet']
   else
     requirejs ['anchor']

@@ -19,4 +19,31 @@ define ['jquery', 'jsonp'], ($) ->
         jsonpSupport: true
         cache: true
       )
+
+    getUpcomingMeetupIds: ->
+      @getUpcomingMeetups(10).then (data) ->
+        results = data.results
+        if results
+          $.map data.results, (result) ->
+            result.id
+        else
+          msg = JSON.stringify(data)
+          throw new Error(data)
+
+    getRsvps: (eventIds) ->
+      $.ajax(
+        url: 'http://api.meetup.com/2/rsvps'
+        cache: true
+        dataType: 'jsonp'
+        data:
+          key: @KEY
+          sign: true
+          rsvp: 'yes'
+          event_id: eventIds.join(',')
+          only: 'member,event'
+      )
+
+    getUpcomingRsvps: ->
+      @getUpcomingMeetupIds().then (ids) =>
+        @getRsvps(ids)
   }
