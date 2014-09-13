@@ -101,4 +101,5 @@ All are language-agnostic.
 
 ## Random
 
+* [Awesome](https://github.com/sindresorhus/awesome): A curated list of awesome lists (of useful tools, frameworks, etc. for various languages)
 * [Good APIs for Mashups](https://gist.github.com/afeld/4952991)
