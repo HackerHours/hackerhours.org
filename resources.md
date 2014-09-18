@@ -77,8 +77,8 @@ All are language-agnostic.
 
 ### GitHub
 
-* Guide: [Contributing to Open Source on GitHub](https://guides.github.com/overviews/os-contributing/)
 * [Mastering GitHub](http://hackerhours.org/resources.html#getting-involved-in-open-source) (levels 1 and 4 in particular)
+* [Resources from GitHub Help](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
 
 ### Ruby
 
@@ -99,6 +99,7 @@ All are language-agnostic.
 * [CodeTriage](http://www.codetriage.com/)
 * [ContribHub](http://contribhub.com/)
 * [Search GitHub for `help-wanted`](https://github.com/search?q=state%3Aopen+label%3Ahelp-wanted&type=Issues)
+* Guide: [Contributing to Open Source on GitHub](https://guides.github.com/overviews/os-contributing/)
 * [Google Summer of Code](https://developers.google.com/open-source/soc/)
 * [Looking for Pull Requests](http://www.lookingforpullrequests.com/)
 * [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
