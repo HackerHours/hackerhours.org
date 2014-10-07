@@ -91,6 +91,7 @@ All are language-agnostic.
 
 ## Getting Involved in Open Source
 
+* [Code Triage] (http://www.codetriage.com/): Pick a language and help push issues to get resolved one comment at a time.
 * [24 Pull Requests](http://24pullrequests.com/)
     * See their [Contributing](http://24pullrequests.com/contributing) page for guides
 * [BountySource](https://www.bountysource.com/)
