@@ -92,7 +92,7 @@ All are language-agnostic.
 ## Getting Involved in Open Source
 
 * [Code Triage] (http://www.codetriage.com/): Pick a language and help push issues to get resolved one comment at a time.
-* [24 Pull Requests](http://24pullrequests.com/)
+* [24 Pull Requests](http://24pullrequests.com/): During December of each year, contribute 24 code fixes.
     * See their [Contributing](http://24pullrequests.com/contributing) page for guides
 * [BountySource](https://www.bountysource.com/)
 * [Code for America](http://codeforamerica.org/)
