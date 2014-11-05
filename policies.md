@@ -11,9 +11,10 @@ title: Policies
 
 ## Mailing List
 
-hackerhours-list@meetup.com ([archive](http://www.meetup.com/hackerhours/messages/archive/))
+[hackerhours-list@meetup.com](mailto:hackerhours-list@meetup.com?subject=[JOB]) ([archive](http://www.meetup.com/hackerhours/messages/archive/))
 
 General policies from above still apply.
 
 * Messages can be coding/resource questions, or announcements *relevant to junior developers*.
+* Meetup requires that you join [the respective meetup](http://www.meetup.com/hackerhours/) in order to send messages to the mailing list.
 * Any recruiting must include `[JOB]` in the subject line.
