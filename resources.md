@@ -78,7 +78,8 @@ All are language-agnostic.
 
 ### GitHub
 
-* [Mastering GitHub](http://hackerhours.org/resources.html#getting-involved-in-open-source) (levels 1 and 4 in particular)
+* [Introducing GitHub: A Non-Technical Guide](http://www.amazon.com/Introducing-GitHub-A-Non-Technical-Guide/dp/1491949740)
+* [Mastering GitHub](https://www.codeschool.com/courses/mastering-github) (levels 1 and 4 in particular)
 * [Resources from GitHub Help](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
 * [Thinkful's GitHub Pull Request Tutorial](http://www.thinkful.com/learn/github-pull-request-tutorial/)
 
