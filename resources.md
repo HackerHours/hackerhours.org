@@ -105,6 +105,7 @@ All are language-agnostic.
 * Guide: [Contributing to Open Source on GitHub](https://guides.github.com/overviews/os-contributing/)
 * [Google Summer of Code](https://developers.google.com/open-source/soc/)
 * [Looking for Pull Requests](http://www.lookingforpullrequests.com/)
+* [OpenDesign](http://opendesign.io/) (for designers)
 * [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
 
 ## Random
