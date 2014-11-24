@@ -49,8 +49,6 @@ All are language-agnostic.
 
 ## Schools
 
-[Bootcamper](http://bootcamper.io/) has a fairly extensive list of online and offline options.  More below.
-
 ### In-Person
 
 *Not going to make a comprehensive list here.*
@@ -71,6 +69,11 @@ All are language-agnostic.
 * [Thinkful](https://www.thinkful.com/)
 * [Treehouse](http://teamtreehouse.com/)
 * [Upcase](https://upcase.com)
+
+### Lists
+
+* [Bootcamper](http://bootcamper.io/)
+* [Switch](https://www.switchup.org/)
 
 ## Technology-Specific
 
