@@ -1,6 +1,6 @@
 # hackerhours.org
 
-Landing page for Hacker Hours.
+Landing page for [Hacker Hours](http://www.meetup.com/hackerhours/).
 
 ## Development
 
