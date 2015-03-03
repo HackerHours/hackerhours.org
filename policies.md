@@ -7,7 +7,7 @@ title: Policies
 
 * Anyone is welcome
 * Be respectful of one another.  This is a small community and there is no room for jerks.
-* Recruiting is only allowed if the position is for junior developers, apprenticeships or internships.  We are also open to sponsorships (e.g. food + drink for an event) - [get in touch](/about.html#toc_2)!
+* Recruiting is only allowed if the position is for junior developers, apprenticeships or internships.  We are also open to sponsorships (e.g. food + drink for an event) - [get in touch](/about.html#contact)!
 
 ## Mailing List
 

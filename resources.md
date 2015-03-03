@@ -39,7 +39,7 @@ All are language-agnostic.
 
 ## Getting a Job
 
-* [Junior Developer Panel video](http://afeld.me/nerdery/522101)
+* [Junior Developer Panel video](https://www.youtube.com/watch?v=xPY1uqq1cgk)
 * [What It Takes to Get an Entry Level Job](http://www.onedayonejob.com/blog/what-it-takes-to-get-an-entry-level-job/)
 * [Recommended job boards](https://gist.github.com/afeld/5201086)
 * [Open Letter: Where to (re)Start](http://afeld.me/nerdery/975651)
@@ -63,7 +63,6 @@ All are language-agnostic.
 * [Bloc](https://www.bloc.io)
 * [Code.org](http://code.org/learn/beyond) (kid-friendly)
 * [Code School](http://www.codeschool.com/)
-* [LearnStreet](http://www.learnstreet.com/)
 * [Skillshare](http://www.skillshare.com/classes/?levels=2&school=technology)
 * [Tealeaf Academy](http://www.gotealeaf.com)
 * [Thinkful](https://www.thinkful.com/)

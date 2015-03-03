@@ -8,7 +8,7 @@ title: Related Groups
 ## Multiple Locations
 
 * [CoderDojo](http://coderdojo.com/) (programming classes for kids)
-* [Coursera Meetups](http://www.meetup.com/Coursera/)
+* [MOOC meetups](http://moocs.meetup.com/)
 * [Meetup](http://www.meetup.com/find/?categories=34)
 * [RailsBridge](http://workshops.railsbridge.org/) (workshops for women)
 * [RailsGirls](http://railsgirls.com/)
