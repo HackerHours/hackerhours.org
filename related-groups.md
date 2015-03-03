@@ -48,6 +48,7 @@ title: Related Groups
 ## Seattle
 
 * [Ember.js Seattle](http://www.meetup.com/Ember-js-Seattle-Meetup/)
+* [Invisible College](http://www.meetup.com/Invisible-College-Meetup/)
 
 ## Toronto
 
