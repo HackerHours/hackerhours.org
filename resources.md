@@ -80,6 +80,7 @@ All are language-agnostic.
 
 ### GitHub
 
+* [Getting started with GitHub and the Terminal](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
 * [Introducing GitHub: A Non-Technical Guide](http://www.amazon.com/Introducing-GitHub-A-Non-Technical-Guide/dp/1491949740)
 * [Mastering GitHub](https://www.codeschool.com/courses/mastering-github) (levels 1 and 4 in particular)
 * [Resources from GitHub Help](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
