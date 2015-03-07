@@ -21,6 +21,7 @@ Make sure to omit any passwords, API keys, or other sensitive information.
 * [Bento](http://www.bento.io)
 * [Code Buddies](http://codebuddies.org/?rc=hh)
 * [Code Crew blog](http://blog.codecrew.co/)
+* [CodeNewbie](http://www.codenewbie.org/)
 * [Journeyman](https://plus.google.com/communities/113669203485569960566?cfem=1)
 * [List of Free Programming Books](http://resrc.io/list/10/list-of-free-programming-books/)
 * [Open Letter: Cheat Sheet](http://afeld.me/nerdery/4010407)
