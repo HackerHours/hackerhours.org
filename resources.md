@@ -105,6 +105,7 @@ All are language-agnostic.
 * [CodeMontage](http://codemontage.com/)
 * [CodeTriage](http://www.codetriage.com/)
 * [ContribHub](http://contribhub.com/)
+* [Free Code Camp](http://www.freecodecamp.com/learn-to-code) – "learn to code by building projects for nonprofits"
 * [Search GitHub for `help-wanted`](https://github.com/search?q=state%3Aopen+label%3Ahelp-wanted&type=Issues)
 * Guide: [Contributing to Open Source on GitHub](https://guides.github.com/overviews/os-contributing/)
 * [Google Summer of Code](https://developers.google.com/open-source/soc/)
