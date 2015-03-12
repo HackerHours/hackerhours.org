@@ -10,6 +10,9 @@ title: Tutors
 * [Google Helpouts](https://helpouts.google.com)
 * [HackHands](http://www.hackhands.com/)
 * [OnScreenExpert](https://www.onscreenexpert.com/)
+* Thoughtbot Coaching
+    * [iOS](http://coaching.thoughtbot.com/)
+    * [Rails](http://coaching.thoughtbot.com/rails/)
 * [Wizpert](https://wizpert.com)
 
 ## Individuals
