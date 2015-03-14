@@ -98,12 +98,12 @@ All are language-agnostic.
 
 ## Getting Involved in Open Source
 
-* [24 Pull Requests](http://24pullrequests.com/)
+* [Code Triage] (http://www.codetriage.com/): Pick a language and help push issues to get resolved one comment at a time.
+* [24 Pull Requests](http://24pullrequests.com/): During December of each year, contribute 24 code fixes.
     * See their [Contributing](http://24pullrequests.com/contributing) page for guides
 * [BountySource](https://www.bountysource.com/)
 * [Code for America](http://codeforamerica.org/)
 * [CodeMontage](http://codemontage.com/)
-* [CodeTriage](http://www.codetriage.com/)
 * [ContribHub](http://contribhub.com/)
 * [Free Code Camp](http://www.freecodecamp.com/learn-to-code) – "learn to code by building projects for nonprofits"
 * [Search GitHub for `help-wanted`](https://github.com/search?q=state%3Aopen+label%3Ahelp-wanted&type=Issues)
