@@ -5,7 +5,7 @@ title: Resources
 
 ## Troubleshooting
 
-![calvin and hobbes](http://picayune.uclick.com/comics/ch/1995/ch950617.gif)
+![Calvin and Hobbes](http://picayune.uclick.com/comics/ch/1995/ch950617.gif)
 
 Make sure to omit any passwords, API keys, or other sensitive information.
 
@@ -98,20 +98,22 @@ All are language-agnostic.
 
 ## Getting Involved in Open Source
 
-* [24 Pull Requests](http://24pullrequests.com/)
-    * See their [Contributing](http://24pullrequests.com/contributing) page for guides
-* [BountySource](https://www.bountysource.com/)
-* [Code for America](http://codeforamerica.org/)
-* [CodeMontage](http://codemontage.com/)
-* [CodeTriage](http://www.codetriage.com/)
-* [ContribHub](http://contribhub.com/)
-* [Free Code Camp](http://www.freecodecamp.com/learn-to-code) – "learn to code by building projects for nonprofits"
-* [Search GitHub for `help-wanted`](https://github.com/search?q=state%3Aopen+label%3Ahelp-wanted&type=Issues)
-* Guide: [Contributing to Open Source on GitHub](https://guides.github.com/overviews/os-contributing/)
-* [Google Summer of Code](https://developers.google.com/open-source/soc/)
-* [Looking for Pull Requests](http://www.lookingforpullrequests.com/)
-* [OpenDesign](http://opendesign.io/) (for designers)
-* [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
+* Guides
+    * [24 Pull Requests](http://24pullrequests.com/contributing)
+    * [GitHub Guide: Contributing to Open Source](https://guides.github.com/overviews/os-contributing/)
+* Finding projects
+    * [24 Pull Requests](http://24pullrequests.com/)
+    * [BountySource](https://www.bountysource.com/)
+    * [Code for America](http://codeforamerica.org/)
+    * [CodeMontage](http://codemontage.com/)
+    * [CodeTriage](http://www.codetriage.com/)
+    * [ContribHub](http://contribhub.com/)
+    * [Free Code Camp](http://www.freecodecamp.com/learn-to-code) – "learn to code by building projects for nonprofits"
+    * [Search GitHub for `help-wanted`](https://github.com/search?q=state%3Aopen+label%3Ahelp-wanted&type=Issues)
+    * [Google Summer of Code](https://developers.google.com/open-source/soc/)
+    * [Looking for Pull Requests](http://www.lookingforpullrequests.com/)
+    * [OpenDesign](http://opendesign.io/) (for designers)
+    * [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
 
 ## Random
 
