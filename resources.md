@@ -109,6 +109,7 @@ All are language-agnostic.
     * [CodeTriage](http://www.codetriage.com/)
     * [ContribHub](http://contribhub.com/)
     * [Free Code Camp](http://www.freecodecamp.com/learn-to-code) – "learn to code by building projects for nonprofits"
+    * [GovCode](https://www.govcode.org/)
     * [Search GitHub for `help-wanted`](https://github.com/search?q=state%3Aopen+label%3Ahelp-wanted&type=Issues)
     * [Google Summer of Code](https://developers.google.com/open-source/soc/)
     * [Looking for Pull Requests](http://www.lookingforpullrequests.com/)
