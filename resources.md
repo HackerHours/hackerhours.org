@@ -109,7 +109,7 @@ All are language-agnostic.
     * [CodeTriage](http://www.codetriage.com/)
     * [ContribHub](http://contribhub.com/)
     * [GovCode](https://www.govcode.org/) – list of government open source projects
-    * [Search GitHub for `help-wanted`](https://github.com/search?q=state%3Aopen+label%3Ahelp-wanted&type=Issues)
+    * [Search GitHub for `help-wanted`](https://github.com/search?o=desc&q=state%3Aopen+label%3A%22help+wanted%22&s=created&type=Issues&utf8=%E2%9C%93)
     * [Looking for Pull Requests](http://www.lookingforpullrequests.com/)
     * [OpenDesign](http://opendesign.io/) (for designers)
 * Programs
