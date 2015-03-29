@@ -103,17 +103,19 @@ All are language-agnostic.
     * [GitHub Guide: Contributing to Open Source](https://guides.github.com/overviews/os-contributing/)
 * Finding projects
     * [24 Pull Requests](http://24pullrequests.com/)
+    * [BetaNYC](https://talk.beta.nyc/c/devs-corner)
     * [BountySource](https://www.bountysource.com/)
-    * [Code for America](http://codeforamerica.org/)
-    * [CodeMontage](http://codemontage.com/)
+    * [CodeMontage](http://codemontage.com/) – "find open source, social impact projects that improve the world"
     * [CodeTriage](http://www.codetriage.com/)
     * [ContribHub](http://contribhub.com/)
-    * [Free Code Camp](http://www.freecodecamp.com/learn-to-code) – "learn to code by building projects for nonprofits"
-    * [GovCode](https://www.govcode.org/)
+    * [GovCode](https://www.govcode.org/) – list of government open source projects
     * [Search GitHub for `help-wanted`](https://github.com/search?q=state%3Aopen+label%3Ahelp-wanted&type=Issues)
-    * [Google Summer of Code](https://developers.google.com/open-source/soc/)
     * [Looking for Pull Requests](http://www.lookingforpullrequests.com/)
     * [OpenDesign](http://opendesign.io/) (for designers)
+* Programs
+    * [Code for America Fellowship](http://www.codeforamerica.org/about/fellowship/)
+    * [Free Code Camp](http://www.freecodecamp.com/learn-to-code) – "learn to code by building projects for nonprofits"
+    * [Google Summer of Code](https://developers.google.com/open-source/soc/)
     * [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
 
 ## Random
