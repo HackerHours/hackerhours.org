@@ -121,6 +121,25 @@ h4 {
   }
 }
 
+/* open source workshop */
+.oss-workshop-participants {
+  .name {
+    font-size: 1.1em;
+  }
+
+  .github-username {
+    color: black;
+    // copy from GitHub
+    font-family: Helvetica, 'Segoe UI', Arial, freesans, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
 
 @media all and (max-width: 640px) {
   /* narrow browser */
