@@ -21,20 +21,22 @@ In order to have everyone with a baseline level of setup/knowledge, we ask that 
 
 <!-- ripping off of http://18f.github.io/hourofcode/ -->
 
+Should take less than ten minutes.
+
 1. If you don't have one already, start by [creating a Github account](https://github.com).
 1. Visit the participant source files [here](https://github.com/afeld/hackerhours.org/tree/gh-pages/_data/oss_workshop/participants).
 1. Click on the blue `+` sign next to the header `hackerhours.org/_data/oss_workshop/participants/+`.
 1. In the "Name your file..." box, type in your GitHub username (which is displayed in the top right of your screen) followed by `.yml`. For example: `janesmith1.yml`
-1. Copy this text and then fill in your own info. For the emoji, pick your favorite icon [from this list](http://www.emoji-cheat-sheet.com/) – have fun with it!
+1. Copy the text below into the editor, and replace  your own info. For the emoji, pick your favorite icon [from this list](http://www.emoji-cheat-sheet.com/). Have some fun with it!
 
         name: Cookie Monster
         title: Cookie is for me
         emoji: 'cookie'
 
-1. Click on the green button "Propose new file"
-1. Click on the green button "Create pull request"
+1. Click the green "Propose new file" button.
+1. Click the green "Create pull request" button.
 
-Now go and **RSVP through [the meetup](TODO)**, and you're in! If you want to get a head start with building up your open source skills, check out [our resources](/resources.html#getting-involved-in-open-source).
+Note that we have a limited number of spots – **you will get an email when we've confirmed your RSVP**. If you want to get a head start with building up your open source skills, check out [the Resources page](/resources.html#getting-involved-in-open-source).
 
 ## Awesome Open Source Contributors
 
