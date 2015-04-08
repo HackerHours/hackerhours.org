@@ -2,7 +2,7 @@
 title: Open Source Workshop
 ---
 
-4/26/15 12-5pm, [Projective Space LES](http://www.projective.co/)
+4/26/15 12-5pm, [Projective Space LES](http://www.projective.co/), 72 Allen St. 3rd Floor, NYC
 {: .event-details}
 
 This is a workshop for people new to open source – we will try to have activities for every skill level / skillset. We’re still working out details around what project(s) we’ll be contributing to, but it will be some combination of:
