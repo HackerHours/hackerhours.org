@@ -14,11 +14,15 @@ h1 {
 img {
   max-width: 100%;
 }
+pre,
 code {
   background-color: #fcfcfc;
   border-radius: 4px;
   border: 1px solid #c5c5c5;
   padding: 2px;
+}
+pre code {
+  border: none;
 }
 .navbar a {
   font-family: 'Merriweather', serif;
