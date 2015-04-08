@@ -122,7 +122,12 @@ h4 {
 }
 
 /* open source workshop */
-.oss-workshop-participants {
+.page-oss-workshop {
+  .event-details {
+    font-size: 1.2em;
+    font-style: italic;
+  }
+
   .name {
     font-size: 1.1em;
   }
