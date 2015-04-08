@@ -1,0 +1,21 @@
+<link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+<ul>
+  {% for user_hash in site.data.oss_workshop.participants %}
+  {% assign username = user_hash[0] %}
+  {% assign user = user_hash[1] %}
+
+  <li>
+    {% assign emoji = user.emoji | replace:'+','--' %}
+    <div>
+      <strong>{{ user.name }}</strong>
+      <i class="em em-{{ emoji }}"></i>
+    </div>
+    <div>
+      {{ user.title }}
+    </div>
+    <div>
+      <a href="https://github.com/{{ username }}">github.com/{{ username }}</a>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
