@@ -40,7 +40,7 @@ Should take less than ten minutes.
 1. Click the green "Propose new file" button.
 1. Click the green "Create pull request" button.
 
-Note that we have a limited number of spots – **you will get an email when we've confirmed your RSVP**. If you want to get a head start with building up your open source skills, check out [the Resources page](/resources.html#getting-involved-in-open-source).
+Note that we have a limited number of spots – **you will get an email when we've confirmed your RSVP**. We will send any announcements to the Hacker Hours mailing list, so make sure you are part of [the meetup group](http://www.meetup.com/hackerhours/). If you want to get a head start with building up your open source skills, check out [the Resources page](/resources.html#getting-involved-in-open-source).
 
 ## Awesome Open Source Contributors
 
