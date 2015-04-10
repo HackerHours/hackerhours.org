@@ -3,7 +3,7 @@
 
 html {
   background: #ededed;
-  font-family: 'Muli', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   line-height: 1.4;
 }
 h1 {
@@ -53,7 +53,8 @@ pre code {
     margin-bottom: 0.2em;
   }
   h2 {
-    font-size: 1.4em
+    font-size: 1.4em;
+    font-weight: normal;
   }
   .footer {
     position: absolute;
