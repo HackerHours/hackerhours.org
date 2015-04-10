@@ -14,11 +14,15 @@ h1 {
 img {
   max-width: 100%;
 }
+pre,
 code {
   background-color: #fcfcfc;
   border-radius: 4px;
   border: 1px solid #c5c5c5;
   padding: 2px;
+}
+pre code {
+  border: none;
 }
 .navbar a {
   font-family: 'Merriweather', serif;
@@ -114,6 +118,30 @@ h4 {
   position: relative;
   &:hover .header-link {
     opacity: 1;
+  }
+}
+
+/* open source workshop */
+.page-oss-workshop {
+  .event-details {
+    font-size: 1.2em;
+    font-style: italic;
+  }
+
+  .name {
+    font-size: 1.1em;
+  }
+
+  .github-username {
+    color: black;
+    // copy from GitHub
+    font-family: Helvetica, 'Segoe UI', Arial, freesans, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }
 
