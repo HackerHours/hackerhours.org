@@ -5,6 +5,8 @@ title: Open Source Workshop
 4/26/15 12-5pm, [Projective Space LES](http://www.projective.co/), 72 Allen St. 3rd Floor, NYC
 {: .event-details}
 
+Did you know you can make meaningful contributions to the code powering thousands of websites, and running on millions of browsers? Absolutely! You can improve your coding, technical writing and collaboration skills, expand your professional network, and help advance the art of software engineering all in one fun way—contribute to open source! It looks good on your resume, teaches you how to be thorough and work within teams, and gives you inside access to some of the coolest projects being built.
+
 This is a workshop for people new to open source – we will try to have activities for every skill level / skillset. We’re still working out details around what project(s) we’ll be contributing to, but it will be some combination of:
 
 * Improving documentation
