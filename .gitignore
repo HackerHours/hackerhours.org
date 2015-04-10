@@ -1,5 +1,4 @@
 /_site
 Gemfile.lock
 
-bower_components
-!bower_components/jsonproxy/
+bower_components/jquery/
