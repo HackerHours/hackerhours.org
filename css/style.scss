@@ -20,6 +20,13 @@ code {
   border-radius: 4px;
   border: 1px solid #c5c5c5;
   padding: 2px;
+
+  // https://css-tricks.com/snippets/css/make-pre-text-wrap/
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
 }
 pre code {
   border: none;
@@ -31,6 +38,7 @@ pre code {
 .content {
   max-width: 640px;
   margin: auto;
+  min-height: 80%;
   padding: 50px 20px 80px;
 }
 .footer {
@@ -45,7 +53,7 @@ pre code {
 /* homepage */
 .page-index {
   .content {
-    padding-top: 200px;
+    padding: 200px 20px 125px;
     text-align: center;
   }
   h1 {
@@ -55,12 +63,6 @@ pre code {
   h2 {
     font-size: 1.4em;
     font-weight: normal;
-  }
-  .footer {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
   }
 }
 .meetupLink {
@@ -146,14 +148,18 @@ h4 {
 }
 
 
-@media all and (max-width: 640px) {
-  /* narrow browser */
-  html {
-    font-size: 0.8em;
-  }
-}
 @media all and (max-height: 360px) {
   p {
     font-size: 1.2em;
+  }
+}
+@media all and (max-height: 650px) {
+  p {
+    font-size: 1.1em;
+  }
+  .page-index {
+    .content {
+      padding: 20px 5px;
+    }
   }
 }
