@@ -2,7 +2,7 @@
 title: Open Source Workshop
 ---
 
-April 26th, 2015, 12-5pm<br/>
+Sunday, April 26th, 2015, 12-5pm<br/>
 [Projective Space LES](http://www.projective.co/)<br/>
 72 Allen St. 3rd Floor, NYC
 {: .event-details}
