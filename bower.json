@@ -1,0 +1,7 @@
+{
+  "name": "hackerhours.org",
+  "private": true,
+  "dependencies": {
+    "jsonproxy": "~0.2.2"
+  }
+}
