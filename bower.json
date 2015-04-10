@@ -2,6 +2,6 @@
   "name": "hackerhours.org",
   "private": true,
   "dependencies": {
-    "jsonproxy": "https://github.com/afeld/jsonp.git#cfcb65f6c4c6195e9d5bbf014426ab99d66bd6ca"
+    "jsonproxy": "~0.3.1"
   }
 }

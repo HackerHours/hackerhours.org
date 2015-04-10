@@ -22,7 +22,7 @@
     "LICENSE.txt"
   ],
   "dependencies": {
-    "jquery": ">=1.9 <3.0",
+    "jquery": ">=1.5 <3.0",
     "URIjs": ">=1.13 <2"
   },
   "license": "MIT",
@@ -30,12 +30,14 @@
     "requirejs": "~2.1.17"
   },
   "homepage": "https://github.com/afeld/jsonp",
-  "_release": "cfcb65f6c4",
+  "version": "0.3.1",
+  "_release": "0.3.1",
   "_resolution": {
-    "type": "commit",
-    "commit": "cfcb65f6c4c6195e9d5bbf014426ab99d66bd6ca"
+    "type": "version",
+    "tag": "v0.3.1",
+    "commit": "88024793b5de86fbd4be5cf19cd868a5c9cdc943"
   },
-  "_source": "https://github.com/afeld/jsonp.git",
-  "_target": "cfcb65f6c4c6195e9d5bbf014426ab99d66bd6ca",
-  "_originalSource": "https://github.com/afeld/jsonp.git"
+  "_source": "git://github.com/afeld/jsonp.git",
+  "_target": "~0.3.1",
+  "_originalSource": "jsonproxy"
 }
