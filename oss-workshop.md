@@ -2,10 +2,14 @@
 title: Open Source Workshop
 ---
 
-4/26/15 12-5pm, [Projective Space LES](http://www.projective.co/), 72 Allen St. 3rd Floor, NYC
+April 26th, 2015, 12-5pm<br/>
+[Projective Space LES](http://www.projective.co/)<br/>
+72 Allen St. 3rd Floor, NYC
 {: .event-details}
 
 Did you know you can make meaningful contributions to the code powering thousands of websites, and running in millions of browsers? You can improve your coding, technical writing and collaboration skills, expand your professional network, and help advance the art of software engineering all in one fun way: contribute to open source! It looks good on your resume, teaches you how to be thorough and work within teams, and gives you inside access to some of the coolest projects being built.
+
+## Format
 
 This is a workshop for people new to open source – we will try to have activities for every skill level / skillset. We’re still working out details around what project(s) we’ll be contributing to, but it will be some combination of:
 
@@ -25,11 +29,11 @@ Interested in having people contribute to your open source project? Would you li
 
 <!-- ripping off of http://18f.github.io/hourofcode/ -->
 
-Should take less than ten minutes.
+Note that we have a limited number of spots, so do this sooner than later! Should take less than ten minutes.
 
 1. If you don't have one already, start by [creating a Github account](https://github.com).
-1. Visit the participant source files [here](https://github.com/afeld/hackerhours.org/tree/gh-pages/_data/oss_workshop/participants).
-1. Click on the blue `+` sign next to the header `hackerhours.org/_data/oss_workshop/participants/+`.
+1. Open up [the participant data files](https://github.com/afeld/hackerhours.org/tree/gh-pages/_data/oss_workshop/participants) in a new tab.
+1. Click on the blue `+` sign next to the header `hackerhours.org/_data/oss_workshop/participants/`.
 1. In the "Name your file..." box, type in your GitHub username (which is displayed in the top right of your screen) followed by `.yml`. For example: `janesmith1.yml`
 1. Copy the text below into the editor, and replace  your own info. For the emoji, pick your favorite icon [from this list](http://www.emoji-cheat-sheet.com/). Have some fun with it!
 
@@ -40,7 +44,7 @@ Should take less than ten minutes.
 1. Click the green "Propose new file" button.
 1. Click the green "Create pull request" button.
 
-Note that we have a limited number of spots – **you will get an email when we've confirmed your RSVP. We will send any announcements to the Hacker Hours mailing list, so make sure you are part of [the meetup group](http://www.meetup.com/hackerhours/)**. If you want to get a head start with building up your open source skills, check out [the Resources page](/resources.html#getting-involved-in-open-source).
+**You will get an email when we've confirmed your RSVP. We will send any announcements to the Hacker Hours mailing list, so make sure you are part of [the meetup group](http://www.meetup.com/hackerhours/)**. If you want to get a head start with building up your open source skills, check out [the Resources page](/resources.html#getting-involved-in-open-source).
 
 ## Awesome Open Source Contributors
 
