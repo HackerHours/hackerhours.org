@@ -17,7 +17,9 @@ This is a workshop for people new to open source – we will try to have activit
 * Fixing bugs
 * Helping other people do all of these things
 
-In order to have everyone with a baseline level of setup/knowledge, we ask that you get set up with GitHub and learn how to submit a pull request in order to RSVP. Please follow the steps below to do so. If you're interested in helping out as a project maintainer or a mentor, [get in touch](mailto:hackerhoursnyc@gmail.com)!
+In order to have everyone with a baseline level of setup/knowledge, we ask that you get set up with GitHub and learn how to submit a pull request in order to RSVP. Please follow the steps below to do so.
+
+Interested in having people contribute to your open source project? Would you like to mentor? Want to ask a question? Have a suggestion for how we could make this workshop better? [Drop us a line!](https://github.com/afeld/hackerhours.org/issues/new)
 
 ## How to RSVP
 
