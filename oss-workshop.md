@@ -35,16 +35,19 @@ Note that we have a limited number of spots, so do this sooner than later! Shoul
 1. Open up [the participant data files](https://github.com/afeld/hackerhours.org/tree/gh-pages/_data/oss_workshop/participants) in a new tab.
 1. Click on the blue `+` sign next to the header `hackerhours.org/_data/oss_workshop/participants/`.
 1. In the "Name your file..." box, type in your GitHub username (which is displayed in the top right of your screen) followed by `.yml`. For example: `janesmith1.yml`
-1. Copy the text below into the editor, and replace  your own info. For the emoji, pick your favorite icon [from this list](http://www.emoji-cheat-sheet.com/). Have some fun with it!
+1. Copy the text below into the editor (it's [YAML](https://en.wikipedia.org/wiki/YAML#Examples) format, if you were wondering), and replace  your own info.
+    * Example:
 
-        name: Cookie Monster
-        title: Cookie is for me
-        emoji: 'cookie'
+          name: Cookie Monster
+          emoji: 'cookie'
+          description: I bring a hunger for open source...cookies. Also learning Angular.
 
+    * `emoji`: Pick your favorite icon [from this list](http://www.emoji-cheat-sheet.com/).
+    * `description`: Tell us what you bring to this event. Skills, interest, willingness to mentor, etc.
 1. Click the green "Propose new file" button.
 1. Click the green "Create pull request" button.
 
-**You will get an email when we've confirmed your RSVP. We will send any announcements to the Hacker Hours mailing list, so make sure you are part of [the meetup group](http://www.meetup.com/hackerhours/)**. If you want to get a head start with building up your open source skills, check out [the Resources page](/resources.html#getting-involved-in-open-source).
+**You will get an email when we've confirmed your RSVP. We will send any announcements to the Hacker Hours mailing list**, so make sure you are part of [the meetup group](http://www.meetup.com/hackerhours/). If you want to get a head start with building up your open source skills, check out [the Resources page](/resources.html#getting-involved-in-open-source).
 
 ## Awesome Open Source Contributors
 
