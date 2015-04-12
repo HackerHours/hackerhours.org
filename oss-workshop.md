@@ -7,6 +7,8 @@ Sunday, April 26th, 2015, 12-5pm<br/>
 [72 Allen St. 3rd Floor, NYC](https://goo.gl/maps/5PR3A)
 {: .event-details}
 
+{% include oss_workshop/event.html %}
+
 Did you know you can make meaningful contributions to the code powering thousands of websites, and running in millions of browsers? You can improve your coding, technical writing and collaboration skills, expand your professional network, and help advance the art of software engineering all in one fun way: contribute to open source! It looks good on your resume, teaches you how to be thorough and work within teams, and gives you inside access to some of the coolest projects being built.
 
 ## Format
