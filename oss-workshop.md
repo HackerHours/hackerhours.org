@@ -20,7 +20,7 @@ This is a workshop for people who have never contributed to open source – we w
 
 In order to have everyone with a baseline level of setup/knowledge, we ask that you get set up with GitHub and learn how to submit a pull request in order to RSVP. Please follow the steps below to do so.
 
-**Interested in having people contribute to your open source project? Would you like to mentor? Want to ask a question? Have a suggestion for how we could make this workshop better? [Drop us a line!](https://github.com/afeld/hackerhours.org/issues/new)**
+**Interested in having people contribute to your open source project? Would you like to mentor? Want to ask a question? Have a suggestion for how we could make this workshop better? [Drop us a line](https://github.com/afeld/hackerhours.org/issues/new), and/or check out [our planning document](https://docs.google.com/document/d/1xyYIkeZ_htZ76tmrA06UakSvkOX7ghWL4RG7Gr6oIbE/edit).**
 
 ## Schedule
 
