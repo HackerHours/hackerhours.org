@@ -24,9 +24,11 @@ In order to have everyone with a baseline level of setup/knowledge, we ask that 
 
 ## Schedule
 
+Please arrive on time!
+
 * **12:15-12:30** – welcome
 * **12:30-12:45** – dividing into teams
-* **12:45-4:30** – hacking
+* **12:45-4:30** – learning & hacking
 * **4:30-5** – show 'n tell
 
 ## How to RSVP
