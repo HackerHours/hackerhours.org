@@ -1,0 +1,20 @@
+/* AddThisEvent theme CSS
+---------------------------------------------------------------------- */
+
+/* General */
+.addthisevent 							{visibility:hidden;}
+.addthisevent span 						{display:none!important;}
+.addthisevent .data 					{display:none!important;}
+
+/* The button */
+.addthisevent-drop 						{display:inline-block;position:relative;z-index:999998;font-weight:300;color:#333;text-decoration:none;font-size:16px;cursor:pointer;}
+.addthisevent-drop:hover 				{color:#555;font-size:16px;text-decoration:underline;}
+
+/* The drop down */
+.addthisevent_dropdown 					{width:200px;position:absolute;z-index:99999;padding:6px 0px 0px 0px;background:#fff;text-align:left;display:none;margin-top:4px;margin-left:-1px;border-top:1px solid #c8c8c8;border-right:1px solid #bebebe;border-bottom:1px solid #a8a8a8;border-left:1px solid #bebebe;-moz-border-radius:2px;-webkit-border-radius:2px;-webkit-box-shadow:1px 3px 6px rgba(0,0,0,0.15);-moz-box-shadow:1px 3px 6px rgba(0,0,0,0.15);box-shadow:1px 3px 6px rgba(0,0,0,0.15);}
+.addthisevent_dropdown span 			{display:block;line-height:110%;background:#fff;text-decoration:none;font-size:14px;color:#333;padding:8px 10px 9px 15px;}
+.addthisevent_dropdown span:hover 		{background:#f4f4f4;color:#000;text-decoration:none;font-size:14px;}
+.addthisevent_dropdown .copyx 			{height:21px;display:block;position:relative;cursor:default;}
+.addthisevent_dropdown .brx 			{height:1px;overflow:hidden;background:#e0e0e0;position:absolute;z-index:100;left:10px;right:10px;top:9px;}
+.addthisevent_dropdown .frs 			{position:absolute;top:5px;cursor:pointer;right:10px;padding-left:10px;font-style:normal;font-weight:normal;text-align:right;z-index:101;line-height:110%;background:#fff;text-decoration:none;font-size:9px;color:#cacaca;}
+.addthisevent_dropdown .frs:hover 		{color:#6d84b4;}

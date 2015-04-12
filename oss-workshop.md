@@ -2,18 +2,13 @@
 title: Open Source Workshop
 ---
 
-Sunday, April 26th, 2015, 12-5pm<br/>
-[Projective Space LES](http://www.projective.co/)<br/>
-[72 Allen St. 3rd Floor, NYC](https://goo.gl/maps/5PR3A)
-{: .event-details}
-
 {% include oss_workshop/event.html %}
 
 Did you know you can make meaningful contributions to the code powering thousands of websites, and running in millions of browsers? You can improve your coding, technical writing and collaboration skills, expand your professional network, and help advance the art of software engineering all in one fun way: contribute to open source! It looks good on your resume, teaches you how to be thorough and work within teams, and gives you inside access to some of the coolest projects being built.
 
 ## Format
 
-This is a workshop for people new to open source – we will try to have activities for every skill level / skillset. We’re still working out details around what project(s) we’ll be contributing to, but it will be some combination of:
+This is a workshop for people who have never contributed to open source – we will try to have activities for every skill level / skillset. We’re still working out details around what project(s) we’ll be working on (and would love suggestions!), but it will be some combination of:
 
 * Improving documentation
 * Writing tutorials/guides
@@ -25,7 +20,7 @@ This is a workshop for people new to open source – we will try to have activit
 
 In order to have everyone with a baseline level of setup/knowledge, we ask that you get set up with GitHub and learn how to submit a pull request in order to RSVP. Please follow the steps below to do so.
 
-Interested in having people contribute to your open source project? Would you like to mentor? Want to ask a question? Have a suggestion for how we could make this workshop better? [Drop us a line!](https://github.com/afeld/hackerhours.org/issues/new)
+**Interested in having people contribute to your open source project? Would you like to mentor? Want to ask a question? Have a suggestion for how we could make this workshop better? [Drop us a line!](https://github.com/afeld/hackerhours.org/issues/new)**
 
 ## How to RSVP
 
