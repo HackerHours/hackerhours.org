@@ -22,6 +22,13 @@ In order to have everyone with a baseline level of setup/knowledge, we ask that 
 
 **Interested in having people contribute to your open source project? Would you like to mentor? Want to ask a question? Have a suggestion for how we could make this workshop better? [Drop us a line!](https://github.com/afeld/hackerhours.org/issues/new)**
 
+## Schedule
+
+* **12:15-12:30** – welcome
+* **12:30-12:45** – dividing into teams
+* **12:45-4:30** – hacking
+* **4:30-5** – show 'n tell
+
 ## How to RSVP
 
 <!-- ripping off of http://18f.github.io/hourofcode/ -->
