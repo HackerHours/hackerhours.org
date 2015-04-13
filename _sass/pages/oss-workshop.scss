@@ -1,0 +1,26 @@
+.page-oss-workshop {
+  .event-details {
+    font-size: 1.2em;
+  }
+  .addthisevent-drop img {
+    background-color: white;
+    margin-left: 6px;
+    width: 17px;
+  }
+
+  .name {
+    font-size: 1.1em;
+  }
+
+  .github-username {
+    color: black;
+    // copy from GitHub
+    font-family: Helvetica, 'Segoe UI', Arial, freesans, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
