@@ -10,13 +10,13 @@
 
   .name {
     font-size: 1.1em;
+    font-weight: bold;
   }
 
   .github-username {
     color: black;
     // copy from GitHub
     font-family: Helvetica, 'Segoe UI', Arial, freesans, sans-serif;
-    font-weight: bold;
     text-decoration: none;
 
     &:hover {
