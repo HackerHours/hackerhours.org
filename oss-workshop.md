@@ -48,7 +48,7 @@ Note that we have a limited number of spots, so do this sooner than later! Shoul
           emoji: 'cookie'
           description: I bring a hunger for open source...cookies. Also learning Angular.
 
-    * `emoji`: Pick your favorite icon [from this list](http://www.emoji-cheat-sheet.com/).
+    * `emoji`: Pick your favorite icon [from this list](http://www.emoji-cheat-sheet.com/), but surround with quotes rather than colons.
     * `description`: Tell us what you bring to this event. Skills, interest, willingness to mentor, etc.
 1. Click the green "Propose new file" button.
 1. Click the green "Create pull request" button.
