@@ -1,5 +1,7 @@
 name: Hacker Hours
 markdown: kramdown
+exclude:
+  - vendor
 defaults:
   -
     scope:
