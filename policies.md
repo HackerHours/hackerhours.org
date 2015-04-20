@@ -15,5 +15,5 @@ title: Policies
 General policies from above still apply.
 
 * Messages can be coding/resource questions, or announcements *relevant to junior developers*.
-* Meetup requires that you join [the respective meetup](http://www.meetup.com/hackerhours/) in order to send messages to the mailing list.
+* Meetup requires that you join [the respective meetup](http://www.meetup.com/hackerhours/) in order to send messages to the mailing list. Note that you need to send from the same email registered with that account.
 * Any recruiting must include `[JOB]` in the subject line.
