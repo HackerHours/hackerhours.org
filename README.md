@@ -1,4 +1,4 @@
-# hackerhours.org [![Build Status](https://travis-ci.org/afeld/hackerhours.org.svg?branch=master)](https://travis-ci.org/afeld/hackerhours.org)
+# hackerhours.org [![Build Status](https://travis-ci.org/afeld/hackerhours.org.svg?branch=gh-pages)](https://travis-ci.org/afeld/hackerhours.org)
 
 Landing page for the [Hacker Hours](http://www.meetup.com/hackerhours/) meetup.
 
