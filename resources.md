@@ -97,28 +97,35 @@ All are language-agnostic.
 
 ## Getting Involved in Open Source
 
-* Guides
-    * [24 Pull Requests](http://24pullrequests.com/contributing)
-    * [GitHub Guide: Contributing to Open Source](https://guides.github.com/overviews/os-contributing/)
-* Finding projects
-    * [24 Pull Requests](http://24pullrequests.com/)
-    * [BountySource](https://www.bountysource.com/)
-    * [CodeMontage](http://codemontage.com/) – "find open source, social impact projects that improve the world"
-    * [CodeTriage](http://www.codetriage.com/)
-    * [ContribHub](http://contribhub.com/)
-    * [Search GitHub for `help-wanted`](https://github.com/search?o=desc&q=state%3Aopen+label%3A%22help+wanted%22&s=created&type=Issues&utf8=%E2%9C%93)
-    * [Looking for Pull Requests](http://www.lookingforpullrequests.com/)
-    * [OpenDesign](http://opendesign.io/) (for designers)
-    * Civic tech
-        * [BetaNYC](https://talk.beta.nyc/c/devs-corner)
-        * [Code for America Civic Tech Issue Finder](https://www.codeforamerica.org/geeks/civicissues)
-        * [GovCode](https://www.govcode.org/)
-        * [more](https://github.com/osscommunity/starters/issues/2)
-* Programs
-    * [Code for America Fellowship](http://www.codeforamerica.org/about/fellowship/)
-    * [Free Code Camp](http://www.freecodecamp.com/learn-to-code) – "learn to code by building projects for nonprofits"
-    * [Google Summer of Code](https://developers.google.com/open-source/soc/)
-    * [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
+### Guides
+
+* [24 Pull Requests](http://24pullrequests.com/contributing)
+* [GitHub Guide: Contributing to Open Source](https://guides.github.com/overviews/os-contributing/)
+
+### Finding projects
+
+* [24 Pull Requests](http://24pullrequests.com/)
+* [BountySource](https://www.bountysource.com/)
+* [CodeMontage](http://codemontage.com/) – "find open source, social impact projects that improve the world"
+* [CodeTriage](http://www.codetriage.com/)
+* [ContribHub](http://contribhub.com/)
+* [Search GitHub for `help-wanted`](https://github.com/search?o=desc&q=state%3Aopen+label%3A%22help+wanted%22&s=created&type=Issues&utf8=%E2%9C%93)
+* [Looking for Pull Requests](http://www.lookingforpullrequests.com/)
+* [OpenDesign](http://opendesign.io/) (for designers)
+
+#### Civic tech
+
+* [BetaNYC](https://talk.beta.nyc/c/devs-corner)
+* [Code for America Civic Tech Issue Finder](https://www.codeforamerica.org/geeks/civicissues)
+* [GovCode](https://www.govcode.org/)
+* [more](https://github.com/osscommunity/starters/issues/2)
+
+### Programs
+
+* [Code for America Fellowship](http://www.codeforamerica.org/about/fellowship/)
+* [Free Code Camp](http://www.freecodecamp.com/learn-to-code) – "learn to code by building projects for nonprofits"
+* [Google Summer of Code](https://developers.google.com/open-source/soc/)
+* [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
 
 ## Random
 
