@@ -1,0 +1,73 @@
+$faceColor: gold;
+$logoWidth: 70px;
+$logoHeight: $logoWidth * (4/3);
+
+.logo, .logo * {
+  box-sizing: border-box
+}
+.logo {
+  -webkit-flex-basis: $logoWidth;
+  flex-basis: $logoWidth;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+  position: relative;
+  height: $logoHeight;
+  width: $logoWidth;
+}
+$bandWidth: $logoWidth*.33;
+.band {
+  position: absolute;
+  background-color: black;
+  height: $logoHeight;
+  width: $bandWidth;
+}
+.band:nth-child(2) {
+  right:0;
+}
+$clockDiameter: $logoWidth *.90;
+$clockBorderWidth: $bandWidth/2;
+.clock {
+  position: absolute;
+  border: $clockBorderWidth solid black;
+  height: $clockDiameter;
+  width: $clockDiameter;
+  border-radius: $clockDiameter;
+  background-color: $faceColor;
+  left: ($logoWidth - $clockDiameter)/2;
+  top: ($logoHeight - $clockDiameter)/2;
+}
+$handHeight: $clockDiameter*.25;
+$handWidth: $clockDiameter*.08;
+$handAnimationString: rotateHand 2s 0s infinite linear both;
+.hand {
+  border-radius: 12px;
+  position: absolute;
+  height: $handHeight;
+  width:  $handWidth;
+  background-color: black;
+  left: (($clockDiameter - $clockBorderWidth*2) - $handWidth)/2;
+  top: ($clockDiameter - $handHeight)/2;
+  -webkit-transform-origin: 50% 0%;
+  transform-origin: 50% 0%;
+  -webkit-animation: $handAnimationString;
+  -moz-animation: $handAnimationString;
+  animation: $handAnimationString;
+}
+
+@-webkit-keyframes rotateHand {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes rotateHand {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
