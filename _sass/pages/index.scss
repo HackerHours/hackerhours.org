@@ -17,7 +17,10 @@
     text-decoration: none;
     color: black;
   }
-
+  .welcome {
+    display: -webkit-flex;
+    display: flex;
+  }
   .dateRow {
     opacity: 0;
   }
@@ -51,10 +54,13 @@
   }
 }
 
-@media all and (max-height: 650px) {
+@media all and (max-width: 650px) {
   .page-index {
+    h1 {
+      font-size: 2.5em;
+    }
     .content {
-      padding: 20px 5px;
+      padding-top: 20px;
     }
   }
 }
