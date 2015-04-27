@@ -27,7 +27,7 @@
     </script>
   </head>
   <body>
-    <div class="navbar">
+    <nav class="navbar">
       <a href="/">Home</a>
       {% assign sorted_pages = site.pages | sort: 'title' %}
       {% for other in sorted_pages %}
@@ -37,17 +37,17 @@
           <a href="{{ other.url }}">{{ other.title }}</a>
         {% endif %}
       {% endfor %}
-    </div>
+    </nav>
 
-    <div class="content">
+    <section class="content">
       {% unless page.path == 'index.html' %}
         <h1>{{ page.title }}</h1>
       {% endunless %}
 
       {{ content }}
-    </div>
+    </section>
 
-    <div class="footer">
+    <footer class="footer">
       <div>
         <a href="https://twitter.com/hackerhours" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @hackerhours</a>
         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
@@ -55,7 +55,7 @@
       <div>
         <a href="https://github.com/afeld/hackerhours.org">Improve this site</a>
       </div>
-    </div>
+    </footer>
 
   </body>
 </html>
