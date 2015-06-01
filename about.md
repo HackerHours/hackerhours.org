@@ -13,6 +13,7 @@ title: About
 * [*Don't Miss Out: NYC Ruby/Rails Community*](http://blog.flatironschool.com/post/53767514908/dont-miss-out-nyc-ruby-rails-community), blog post by David Rodriguez, Flatiron School, 6/24/13
 * [*Hacker Hours with Aidan Feldman*](http://desmondrawls.com/2013/08/10/hacker-hours-with-aidan-feldman/), interview by Demond Rawls, 8/10/13
 * [*The Man of the (Hacker) Hour*](http://tech.gilt.com/post/59016326319/the-man-of-the-hacker-hour), article by Lauri Apple, Gilt Tech Blog, 8/22/13
+* [CodeNewbie Podcast interview](http://www.codenewbie.org/podcast/hacker-hours)
 
 ## Photos
 
