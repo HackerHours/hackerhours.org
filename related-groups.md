@@ -12,6 +12,10 @@ title: Related Groups
 * [RailsBridge](http://workshops.railsbridge.org/) (workshops for women)
 * [RailsGirls](http://railsgirls.com/)
 
+## Boston
+
+* [The Boston Python User Group](http://www.meetup.com/bostonpython/)
+
 ## Chicago
 
 * [Chicago Ember.js](http://www.meetup.com/Chicago-Ember-js/)
