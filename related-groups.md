@@ -34,6 +34,7 @@ title: Related Groups
 * [Dancing with Marionette.js](http://www.meetup.com/Dancing-with-Marionette-js/)
 * [Ember NYC](http://www.meetup.com/EmberJS-NYC/)
 * [Ladies Who Code](http://www.meetup.com/Ladies-Who-Code/)
+* [Learn Python NYC](http://www.meetup.com/learn-python-nyc/)
 * [Learn to Code - NYC](http://www.meetup.com/Learn-to-Code-NYC/)
 * [NYC Codecademy Group](http://www.meetup.com/NYC-Codecademy-Group/)
 * [NYC iOS Office Hours](http://www.meetup.com/NYC-iOS-Office-Hours/)
