@@ -4,11 +4,7 @@ title: DIY Guide
 
 ***So, you want to start your own Hacker Hours!***
 
-This is very exciting.
-
-![happy dog](http://photovide.com/wp-content/uploads/2012/08/Happy-Animals-06.jpg)
-
-In short, Hacker Hours are
+This is very exciting. In short, Hacker Hours are
 
 * "free office hours for programming help"
 * open to anyone, regardless of age or skill level
@@ -110,4 +106,4 @@ Depending on the homogeneity of the group, you are may get a lot of repeat quest
 
 ## Conclusion
 
-You are awesome.  If you need anything (e.g help with promotion), please [get in touch](/about.html#contact).
+You are awesome.  You should join the [Hacker Hours core](https://groups.google.com/forum/#!forum/hacker-hours-core) mailing list, and [get in touch](/about.html#contact) if you need anything (e.g help with promotion).
