@@ -20,13 +20,17 @@ title: Related Groups
 
 * [Chicago Ember.js](http://www.meetup.com/Chicago-Ember-js/)
 
-## Denver area
+## Kansas City
 
-* [Hacker Hours Boulder](http://www.meetup.com/Hacker-Hours-Boulder)
+* [Hacker Hours KC](http://www.meetup.com/Hacker-Hours-KC/)
 
 ## London
 
 * [Codebar](http://codebar.io)
+
+## Minneapolis
+
+* [University of Minnesota Hacker Hours](http://umn.campuscodefest.org/projects/50-learn-to-code-hacker-hours)
 
 ## NYC
 
