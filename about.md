@@ -22,4 +22,4 @@ title: About
 
 ## Contact
 
-hackerhoursnyc@gmail.com
+hackerhoursnyc@gmail.com, or [the mailing list for organizers/mentors](https://groups.google.com/forum/#!forum/hacker-hours-core)
