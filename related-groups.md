@@ -30,7 +30,7 @@ title: Related Groups
 
 ## Minneapolis
 
-* [University of Minnesota Hacker Hours](http://umn.campuscodefest.org/projects/50-learn-to-code-hacker-hours)
+* [University of Minnesota Hacker Hours](http://umnhackerhours.github.io/)
 
 ## NYC
 
