@@ -6,7 +6,6 @@ title: Tutors
 
 * [AirPair](https://www.airpair.com)
 * [Codementor](https://www.codementor.io)
-* [Google Helpouts](https://helpouts.google.com)
 * [HackHands](http://www.hackhands.com/)
 * [OnScreenExpert](https://www.onscreenexpert.com/)
 * Thoughtbot Coaching
