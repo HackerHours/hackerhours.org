@@ -44,6 +44,7 @@ title: Related Groups
 * [NYC iOS Office Hours](http://www.meetup.com/NYC-iOS-Office-Hours/)
 * [NYC Learn Java Programming Meetup](http://www.meetup.com/Learn-Java-Programming/)
 * [New York MongoDB User Group](http://www.meetup.com/New-York-MongoDB-User-Group/)
+* [Queens Software Development and Design](http://www.meetup.com/Queens-Bayside-Sofware-Development-and-Design/)
 * [Ruby Nuby](http://www.meetup.com/ruby-nuby-info/)
 * [Scala Hacker Hours](http://www.meetup.com/Scala-Hacker-Hours/) ([blog post](http://tech.gilt.com/post/55705285678/attend-our-first-ever-scala-hacker-hours-meetup-on-aug))
 * [The New York HTML5 Applications Developers Group](http://www.meetup.com/html5-app-developers/)
