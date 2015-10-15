@@ -112,6 +112,7 @@ All are language-agnostic.
 * [Search GitHub for `help-wanted`](https://github.com/search?o=desc&q=state%3Aopen+label%3A%22help+wanted%22&s=created&type=Issues&utf8=%E2%9C%93)
 * [Looking for Pull Requests](http://www.lookingforpullrequests.com/)
 * [OpenDesign](http://opendesign.io/) (for designers)
+* [RubyIssue(s)](https://rubyissues.ongoodbits.com/)
 
 #### Civic tech
 
