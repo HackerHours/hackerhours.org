@@ -46,6 +46,7 @@ title: Related Groups
 * [New York MongoDB User Group](http://www.meetup.com/New-York-MongoDB-User-Group/)
 * [Queens Software Development and Design](http://www.meetup.com/Queens-Bayside-Sofware-Development-and-Design/)
 * [Ruby Nuby](http://www.meetup.com/ruby-nuby-info/)
+* [Ruby Project Night](http://www.meetup.com/Ruby-Project-Night-NYC/)
 * [Scala Hacker Hours](http://www.meetup.com/Scala-Hacker-Hours/) ([blog post](http://tech.gilt.com/2013/07/17/attend-our-first-ever-scala-hacker-hours-meetup-on/))
 * [The New York HTML5 Applications Developers Group](http://www.meetup.com/html5-app-developers/)
 * [The New York Python Meetup Group](http://www.meetup.com/nycpython/)
