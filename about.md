@@ -20,7 +20,3 @@ title: About
 
 * http://afeld.me/8301
 * http://afeld.me/113878
-
-## Contact
-
-hackerhoursnyc@gmail.com, or [the mailing list for organizers/mentors](https://groups.google.com/forum/#!forum/hacker-hours-core)
