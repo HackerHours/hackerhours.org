@@ -99,7 +99,7 @@ Depending on the homogeneity of the group, you are may get a lot of repeat quest
 
 ## See Also
 
-* Mozilla Webmaker [Event Guides](https://webmaker.org/event-guides)
+* <s>Mozilla Webmaker [Event Guides]</s>
 * [OpenHack](http://openhack.github.io/)
 * Wikipedia's [How to run an edit-a-thon](http://en.wikipedia.org/wiki/Wikipedia:How_to_run_an_edit-a-thon)
 * [Franklin Square Hacker Hours guide](http://hackerhours.strikingly.com/)
