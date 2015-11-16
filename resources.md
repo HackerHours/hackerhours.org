@@ -23,8 +23,8 @@ Make sure to omit any passwords, API keys, or other sensitive information.
 * [CodeNewbie](http://www.codenewbie.org/)
 * [Journeyman](https://plus.google.com/communities/113669203485569960566?cfem=1)
 * [List of Free Programming Books](http://resrc.io/list/10/list-of-free-programming-books/)
-* [Open Letter: Cheat Sheet](http://afeld.me/nerdery/4010407)
-* [Open Letter to a Prospective Programmer](http://afeld.me/nerdery/500322)
+* <s>[Open Letter: Cheat Sheet]</s>
+* <s>[Open Letter to a Prospective Programmer]</s>
 * [Teach Yourself to Code](http://teachyourselftocode.com/) (list of coding resources by topic)
 
 ## Practice/Puzzles
@@ -42,9 +42,9 @@ All are language-agnostic.
 * [Junior Developer Panel video](https://www.youtube.com/watch?v=xPY1uqq1cgk)
 * [What It Takes to Get an Entry Level Job](http://www.onedayonejob.com/blog/what-it-takes-to-get-an-entry-level-job/)
 * [Recommended job boards](https://gist.github.com/afeld/5201086)
-* [Open Letter: Where to (re)Start](http://afeld.me/nerdery/975651)
-* [Open Letter: Job Hunting](http://afeld.me/nerdery/606069)
-* [Open Letter: Indirection](http://afeld.me/nerdery/2920476)
+* <s>[Open Letter: Where to (re)Start]</s>
+* <s>[Open Letter: Job Hunting]</s>
+* <s>[Open Letter: Indirection]</s>
 * [*Kickstart your developer career* e-book](http://happybearsoftware.com/kickstart-your-developer-career)
 
 ## Schools
@@ -92,7 +92,7 @@ All are language-agnostic.
 
 ### Rails
 
-* [Rails Hotline](http://rails.pockethotline.com/)
+* <s>[Rails Hotline]</s>
 * [Rails Interview Questions](https://github.com/afeld/rails_interview_questions)
 
 ## Getting Involved in Open Source
