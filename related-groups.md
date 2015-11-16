@@ -9,7 +9,7 @@ title: Related Groups
 * [CoderDojo](http://coderdojo.com/) (programming classes for kids)
 * [MOOC meetups](http://moocs.meetup.com/)
 * [Meetup](http://www.meetup.com/find/?categories=34)
-* <s>[RailsBridge](workshops for women)</s>
+* [RailsBridge](workshops for women)(http://www.railsbridge.org/)
 * [RailsGirls](http://railsgirls.com/)
 
 ## Boston
