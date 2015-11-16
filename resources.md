@@ -92,7 +92,6 @@ All are language-agnostic.
 
 ### Rails
 
-* <s>[Rails Hotline]</s>
 * [Rails Interview Questions](https://github.com/afeld/rails_interview_questions)
 
 ## Getting Involved in Open Source
