@@ -78,6 +78,10 @@ All are language-agnostic.
 
 *Start with [Teach Yourself to Code](http://teachyourselftocode.com/)*
 
+### Git
+
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+
 ### GitHub
 
 * [Getting started with GitHub and the Terminal](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
