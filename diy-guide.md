@@ -4,11 +4,20 @@ title: DIY Guide
 
 ***So, you want to start your own Hacker Hours!***
 
-This is very exciting. In short, Hacker Hours are
+This is very exciting. In short, Hacker Hours are:
 
 * "free office hours for programming help"
 * open to anyone, regardless of age or skill level
 * not a class, and not a lecture
+
+Here are a few things to take into account when considering hosting:
+
+* Why would you like to host Hacker Hours?
+* Do you haven any specific goals/objectives for hosting? (recruiting, brand recognition, giving back, etc.) <br />
+* What are you thinking in terms of frequency? <br />
+* What is the space like? <br />
+* How many attendees can your space hold comfortably? <br />
+* How many folks from your organization do you expect to stay for each event, on average? How many of them our technical? <br />
 
 Meeting the above requirements are the only things we ask to call your group "Hacker Hours".  We won't sue you or anything, but just ask in good faith.
 
