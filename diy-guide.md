@@ -10,6 +10,17 @@ This is very exciting. In short, Hacker Hours are
 * open to anyone, regardless of age or skill level
 * not a class, and not a lecture
 
+Here are a few things to take into account when considering hosting:
+
+* Why would you like to host Hacker Hours?
+* Do you haven any specific goals/objectives for hosting? (recruiting, brand recognition, giving back, etc.)
+* What are you thinking in terms of frequency?
+* What is the space like?
+* How many attendees can your space hold comfortably?
+* How many folks from your organization do you expect to stay for each event, on average? How many of them our technical?
+
+Meeting the above requirements, and reflecting on the aforementioned considerations, are the only things we ask to call your group "Hacker Hours".  We won't sue you or anything, but just ask in good faith.
+
 Meeting the above requirements are the only things we ask to call your group "Hacker Hours".  We won't sue you or anything, but just ask in good faith.
 
 Read the [What ARE Hacker Hours](/about.html#what-are-hacker-hours) to get some backstory.
