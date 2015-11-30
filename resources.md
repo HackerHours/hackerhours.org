@@ -23,7 +23,6 @@ Make sure to omit any passwords, API keys, or other sensitive information.
 * [CodeNewbie](http://www.codenewbie.org/)
 * [Journeyman](https://plus.google.com/communities/113669203485569960566?cfem=1)
 * [List of Free Programming Books](http://resrc.io/list/10/list-of-free-programming-books/)
-
 * [Teach Yourself to Code](http://teachyourselftocode.com/) (list of coding resources by topic)
 
 ## Practice/Puzzles
