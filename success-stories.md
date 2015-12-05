@@ -2,6 +2,14 @@
 title: Success Stories
 ---
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/HackerHours">@HackerHours</a> is such an amazing initiative. It&#39;s getting more people involved in open source in such a welcoming environment 💕</p>&mdash; Julia Nguyen (@fleurchild) <a href="https://twitter.com/fleurchild/status/673222603457204224">December 5, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p>want a stronger economy in your city? get one of these <a href="http://t.co/mR2Qf8wzYP">http://t.co/mR2Qf8wzYP</a> &quot;The format is simple: u come..flag down..if you have a q&quot;</p>&mdash; Scott Heiferman (@heif) <a href="https://twitter.com/heif/statuses/426436663640748032">January 23, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 > The people at Hacker Hours helped me so much when I ran into a problem. I remember Aidan showed me about a really cool gem that I had never heard of that solved a big problem I was having.
 >
 > To beginners I'd say don't be afraid, just go. It's a totally laid back environment where people just want to help each other out and are totally cool talking to beginners and experts alike. Even if you just want to go there and work on your own, it's a lot of fun.
