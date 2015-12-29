@@ -127,6 +127,21 @@ All are language-agnostic.
 * [Google Summer of Code](https://developers.google.com/open-source/soc/)
 * [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
 
+### Resources for kids
+
+* [Code.org](https://code.org/)
+* [CoderDojo](https://coderdojo.com/)
+* [Hopscotch](https://www.gethopscotch.com/)
+* [Kano](http://us.kano.me/)
+* [Khan Academy](https://www.khanacademy.org/computing/)
+* [Lego Mindstorms](http://mindstorms.lego.com)
+* [Tynker](https://www.tynker.com/)
+
+#### For girls
+
+* [Girls Who Code](http://girlswhocode.com/)
+* [JewelBots](http://jewelbots.com/)
+
 ## Random
 
 * [Awesome](https://github.com/sindresorhus/awesome): A curated list of awesome lists (of useful tools, frameworks, etc. for various languages)
