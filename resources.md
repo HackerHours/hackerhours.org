@@ -127,7 +127,7 @@ All are language-agnostic.
 * [Google Summer of Code](https://developers.google.com/open-source/soc/)
 * [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
 
-### For kids
+## For kids
 
 * [Code.org](https://code.org/)
 * [CoderDojo](https://coderdojo.com/)
@@ -137,7 +137,7 @@ All are language-agnostic.
 * [Lego Mindstorms](http://mindstorms.lego.com)
 * [Tynker](https://www.tynker.com/)
 
-#### For girls
+### For girls
 
 * [Girls Who Code](http://girlswhocode.com/)
 * [JewelBots](http://jewelbots.com/)
