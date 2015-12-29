@@ -135,7 +135,16 @@ All are language-agnostic.
 * [Kano](http://us.kano.me/)
 * [Khan Academy](https://www.khanacademy.org/computing/)
 * [Lego Mindstorms](http://mindstorms.lego.com)
+* [Scratch](https://scratch.mit.edu/)
+* [Sonic Pi](http://sonic-pi.net/)
 * [Tynker](https://www.tynker.com/)
+* [_more_](https://www.edsurge.com/research/guides/teaching-kids-to-code)
+
+### Minecraft
+
+* [LearnToMod](http://www.learntomod.com/)
+* [Minecraft Mod Design course](http://www.youthdigital.com/minecraft-mod-design.html)
+* [The Young Person's Guide to Programming in Minecraft](https://github.com/walterhiggins/ScriptCraft/blob/master/docs/YoungPersonsGuideToProgrammingMinecraft.md#the-young-persons-guide-to-programming-in-minecraft)
 
 ### For girls
 
