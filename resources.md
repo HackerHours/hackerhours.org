@@ -127,7 +127,7 @@ All are language-agnostic.
 * [Google Summer of Code](https://developers.google.com/open-source/soc/)
 * [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
 
-### Resources for kids
+### For kids
 
 * [Code.org](https://code.org/)
 * [CoderDojo](https://coderdojo.com/)
