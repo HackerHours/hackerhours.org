@@ -111,6 +111,7 @@ All are language-agnostic.
 * [Looking for Pull Requests](http://www.lookingforpullrequests.com/)
 * [OpenDesign](http://opendesign.io/) (for designers)
 * [RubyIssue(s)](https://rubyissues.ongoodbits.com/)
+* [Up for Grabs](http://up-for-grabs.net)
 * [Your First PR](https://twitter.com/yourfirstpr)
 
 #### Civic tech
