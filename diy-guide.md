@@ -7,6 +7,7 @@ title: DIY Guide
 This is very exciting. In short, Hacker Hours are
 
 * "free office hours for programming help"
+    * more specifically, not for-profit...having people chip in for snacks or something is fine
 * open to anyone, regardless of age or skill level
 * not a class, and not a lecture
 
