@@ -15,7 +15,9 @@ title: Tutors
 
 ## Individuals
 
-Feel free to add your information below the line - please keep in **alphabetical order by last name**.  **All fields are optional.**
+Try reaching out to one or more of the people below. If that doesn't work out, you may also try sending a message to the mailing list for a meetup group that corresponds to whatever technology you are looking for help with.
+
+Potential tutors, feel free to add your information below the line - please keep in **alphabetical order by last name**.  **All fields are optional.**
 
 ### Keith Bennett
 * **Expertise:** Ruby/JRuby, Linux
