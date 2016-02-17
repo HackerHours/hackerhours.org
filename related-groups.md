@@ -12,6 +12,10 @@ title: Related Groups
 * [RailsBridge](http://www.railsbridge.org/) (workshops for women)
 * [RailsGirls](http://railsgirls.com/)
 
+## Boise
+
+* [Hacker Hours Boise](http://hackerhoursboise.github.io/)
+
 ## Boston
 
 * [The Boston Python User Group](http://www.meetup.com/bostonpython/)
