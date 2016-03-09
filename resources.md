@@ -77,6 +77,7 @@ All are language-agnostic.
 
 * [Codecademy's Learn Git](https://www.codecademy.com/learn/learn-git)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+* [Git Resources for Visual Learners](https://changelog.com/git-resources-for-visual-learners/)
 
 ### GitHub
 
