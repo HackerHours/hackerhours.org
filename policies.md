@@ -10,4 +10,4 @@ title: Policies
 * Messages to the mailing list and chat room can be coding/resource questions or announcements, but *must be relevant to junior developers*.
 * Any recruiting emails to the mailing list must include `[JOB]` in the subject line.
 
-If someone is violating any of these policies or you feel uncomfortable in the group in any way, please [let one of the organizers know](/contact.html).
+Note this code of conduct applies to Hacker Hours events, the mailing list, the chat room, and all other forms of communication related to the group. If someone is violating any of these policies or you feel uncomfortable in the group in any way, please [let one of the organizers know](/contact.html).
