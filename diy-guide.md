@@ -18,7 +18,7 @@ Here are a few things to take into account when considering hosting:
 * What are you thinking in terms of frequency?
 * What is the space like?
 * How many attendees can your space hold comfortably?
-* How many folks from your organization do you expect to stay for each event, on average? How many of them our technical?
+* How many folks from your organization do you expect to stay for each event, on average? How many of them are technical?
 
 Meeting the above requirements, and reflecting on the aforementioned considerations, are the only things we ask to call your group "Hacker Hours".  We won't sue you or anything, but just ask in good faith.
 
