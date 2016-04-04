@@ -18,11 +18,9 @@ Here are a few things to take into account when considering hosting:
 * What are you thinking in terms of frequency?
 * What is the space like?
 * How many attendees can your space hold comfortably?
-* How many folks from your organization do you expect to stay for each event, on average? How many of them our technical?
+* How many folks from your organization do you expect to stay for each event, on average? How many of them are technical?
 
 Meeting the above requirements, and reflecting on the aforementioned considerations, are the only things we ask to call your group "Hacker Hours".  We won't sue you or anything, but just ask in good faith.
-
-Meeting the above requirements are the only things we ask to call your group "Hacker Hours".  We won't sue you or anything, but just ask in good faith.
 
 Read the [What ARE Hacker Hours](/about.html#what-are-hacker-hours) to get some backstory.
 
@@ -98,11 +96,11 @@ While it's great to have mentors that are experienced coders, these people may n
 
 ### Resources
 
-Depending on the homogeneity of the group, you are may get a lot of repeat questions.  Keep a list of resources that you can refer people to, particularly setup instructions and getting started tutorials/books.  Feel free to add to [the Resources page](/resources.html), or create a Page for a list that's more specifically relevant to your group.
+Depending on the homogeneity of the group, you may get a lot of repeat questions.  Keep a list of resources that you can refer people to, particularly setup instructions and getting started tutorials/books.  Feel free to add to [the Resources page](/resources.html), or create a Page for a list that's more specifically relevant to your group.
 
 ## Tips for Organizers
 
-* Inevitably, people will approach your group (in-person or through email) trying to recruit.  Decide on a policy for how to handle these (TODO link to [existing ones](https://github.com/afeld/hackerhours.org/issues/7)).
+* Inevitably, people will approach your group (in-person or through email) trying to recruit.  Decide on a policy for how to handle these ([Example: Current Policies for Hacker Hours NYC](http://hackerhours.org/policies.html)).
 
 ## Tips for Mentors
 
