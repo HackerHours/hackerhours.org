@@ -140,6 +140,7 @@ All are language-agnostic.
 * [Kano](http://us.kano.me/)
 * [Khan Academy](https://www.khanacademy.org/computing/)
 * [Lego Mindstorms](http://mindstorms.lego.com)
+* [littleBits](http://littlebits.cc/)
 * [Scratch](https://scratch.mit.edu/)
 * [Sonic Pi](http://sonic-pi.net/)
 * [Tynker](https://www.tynker.com/)
