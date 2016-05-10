@@ -133,7 +133,10 @@ All are language-agnostic.
 
 * [Code.org](https://code.org/)
 * [CoderDojo](https://coderdojo.com/)
+* [Hello Ruby](http://www.helloruby.com/)
 * [Hopscotch](https://www.gethopscotch.com/)
+* [How to Train Your Robot](https://drtechniko.com/2012/04/09/how-to-train-your-robot/)
+* [Jewelbots](http://www.jewelbots.com/)
 * [Kano](http://us.kano.me/)
 * [Khan Academy](https://www.khanacademy.org/computing/)
 * [Lego Mindstorms](http://mindstorms.lego.com)
