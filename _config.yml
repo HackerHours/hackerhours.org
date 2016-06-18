@@ -8,3 +8,5 @@ defaults:
       path: ""
     values:
       layout: default
+# https://github.com/jekyll/github-metadata/issues/62
+repository: afeld/hackerhours.org
