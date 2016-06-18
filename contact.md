@@ -9,4 +9,3 @@ Please make sure to read our [policies](/policies.html).
     * Any recruiting must include `[JOB]` in the subject line.
 * [Chat](http://chat.hackerhours.org)
 * [Contact the NYC organizer (Aidan Feldman)](mailto:hackerhoursnyc@gmail.com)
-* [Mailing list for organizers/mentors](https://groups.google.com/forum/#!forum/hacker-hours-core)
