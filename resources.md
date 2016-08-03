@@ -50,8 +50,6 @@ All are language-agnostic.
 
 * continuing ed programs at most colleges/universities
 * [Code.org](http://www.code.org/)'s [list of schools](http://code.org/learn/local)
-* [CourseHorse](http://coursehorse.com/) (listing - NYC and LA only)
-* [Thinkful Bootcamp Finder](http://www.thinkful.com/bootcamps/)
 
 ### Online
 
@@ -66,8 +64,12 @@ All are language-agnostic.
 
 ### Lists
 
+For finding in-person and/or online options.
+
 * [Bootcamper](http://bootcamper.io/)
+* [CourseHorse](http://coursehorse.com/)
 * [Switch](https://www.switchup.org/)
+* [Thinkful Bootcamp Finder](http://www.thinkful.com/bootcamps/)
 
 ## Technology-Specific
 
