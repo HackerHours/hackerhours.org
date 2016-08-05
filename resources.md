@@ -66,8 +66,8 @@ All are language-agnostic.
 
 For finding in-person and/or online options.
 
-* [Bootcamper](http://bootcamper.io/)
 * [CourseHorse](http://coursehorse.com/)
+* [Course Report](https://www.coursereport.com/)
 * [Switch](https://www.switchup.org/)
 * [Thinkful Bootcamp Finder](http://www.thinkful.com/bootcamps/)
 
