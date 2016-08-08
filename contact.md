@@ -11,9 +11,15 @@ You can read past messages to the mailing list [here](http://www.meetup.com/hack
     * Any recruiting must include `[JOB]` in the subject line.
 1. Join [the Meetup](http://www.meetup.com/hackerhours/).
     * This is required by the platform we use for our mailing list (meetup.com).
-1. Send your message to [hackerhours-list@meetup.com](mailto:hackerhours-list@meetup.com) from the same email address you use on your meetup.com profile.
+1. Send your message to [hackerhours-list@meetup.com](mailto:hackerhours-list@meetup.com).
+    * You need to use the same email address as your meetup.com profile, or the message will silently bounce.
 
-Note that the mailing list is moderated, so any messages that don't respect these rules will be rejected.
+Note that we do it this way, rather than one of the organizers forwarding a promotional email, so that
+
+* It's clear who recipients should follow up with.
+* There is no appearance of endorsement.
+
+Also note that the mailing list is moderated.
 
 ## Other
 
