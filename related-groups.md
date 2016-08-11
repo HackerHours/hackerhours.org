@@ -56,6 +56,10 @@ title: Related Groups
 * [The New York HTML5 Applications Developers Group](http://www.meetup.com/html5-app-developers/)
 * [The New York Python Meetup Group](http://www.meetup.com/nycpython/)
 
+## Palm Beach
+
+* [Palm Beach Tech Space](https://www.meetup.com/Palm-Beach-Tech-Space/)
+
 ## Raleigh/Durham
 
 * [Triangle Hacker Hours](http://www.meetup.com/trianglehackerhours/)
