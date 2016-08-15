@@ -12,6 +12,10 @@ title: Related Groups
 * [RailsBridge](http://www.railsbridge.org/) (workshops for women)
 * [RailsGirls](http://railsgirls.com/)
 
+## Atlanta
+
+* [The Atlanta JavaScript Meetup](http://www.meetup.com/AtlantaJavaScript/)
+
 ## Boise
 
 * [Hacker Hours Boise](http://hackerhoursboise.github.io/)
