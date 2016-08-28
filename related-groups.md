@@ -53,6 +53,7 @@ title: Related Groups
 * [NYC iOS Office Hours](http://www.meetup.com/NYC-iOS-Office-Hours/)
 * [NYC Learn Java Programming Meetup](http://www.meetup.com/Learn-Java-Programming/)
 * [New York MongoDB User Group](http://www.meetup.com/New-York-MongoDB-User-Group/)
+* [Problem Solving Practice for Coders](http://www.meetup.com/problemsolving/)
 * [Queens Software Development and Design](http://www.meetup.com/Queens-Bayside-Sofware-Development-and-Design/)
 * [Ruby Nuby](http://www.meetup.com/ruby-nuby-info/)
 * [Ruby Project Night](http://www.meetup.com/Ruby-Project-Night-NYC/)
