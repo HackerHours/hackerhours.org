@@ -9,7 +9,7 @@ title: Resources
 Make sure to omit any passwords, API keys, or other sensitive information.
 
 * mailing lists or IRC channels for local user groups or projects
-* [#hackerhours](https://webchat.freenode.net/?channels=hackerhours) on Freenode (IRC)
+* Hacker Hours [Slack](http://chat.hackerhours.org/) / [mailing list](contact.html#mailing-list)
 * [Tutors](tutors.html)
 * [Rubber Duck Problem Solving](http://www.codinghorror.com/blog/2012/03/rubber-duck-problem-solving.html)
 * [Stack Overflow](http://stackoverflow.com/) (Q&A)
