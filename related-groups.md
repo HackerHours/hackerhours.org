@@ -40,14 +40,16 @@ title: Related Groups
 
 * [University of Minnesota Hacker Hours](http://umnhackerhours.github.io/)
 
+## New Jersey
+
+* [Asbury Park Hacker Hours](https://www.meetup.com/Asbury-Park-Hacker-Hours/)
+
 ## NYC
 
 * [Code Crew](http://www.meetup.com/codecrewny/)
-* [Dancing with Marionette.js](http://www.meetup.com/Dancing-with-Marionette-js/)
-* [Ember NYC](http://www.meetup.com/EmberJS-NYC/)
 * [Hacker Hours at DevPost New York](http://www.meetup.com/Hacker-Hours-at-Devpost-New-York/)
+* [Invisible College NYC](http://www.meetup.com/Invisible-College-NYC/)
 * [Ladies Who Code](http://www.meetup.com/Ladies-Who-Code/)
-* [Learn Python NYC](http://www.meetup.com/learn-python-nyc/)
 * [Learn to Code - NYC](http://www.meetup.com/Learn-to-Code-NYC/)
 * [NYC Codecademy Group](http://www.meetup.com/NYC-Codecademy-Group/)
 * [NYC iOS Office Hours](http://www.meetup.com/NYC-iOS-Office-Hours/)
@@ -55,11 +57,25 @@ title: Related Groups
 * [New York MongoDB User Group](http://www.meetup.com/New-York-MongoDB-User-Group/)
 * [Problem Solving Practice for Coders](http://www.meetup.com/problemsolving/)
 * [Queens Software Development and Design](http://www.meetup.com/Queens-Bayside-Sofware-Development-and-Design/)
-* [Ruby Nuby](http://www.meetup.com/ruby-nuby-info/)
-* [Ruby Project Night](http://www.meetup.com/Ruby-Project-Night-NYC/)
 * [Scala Hacker Hours](http://www.meetup.com/Scala-Hacker-Hours/) ([blog post](http://tech.gilt.com/2013/07/17/attend-our-first-ever-scala-hacker-hours-meetup-on/))
 * [The New York HTML5 Applications Developers Group](http://www.meetup.com/html5-app-developers/)
+
+### JavaScript
+
+* [Dancing with Marionette.js](http://www.meetup.com/Dancing-with-Marionette-js/)
+* [Ember NYC](http://www.meetup.com/EmberJS-NYC/)
+* [NY JavaScript](http://www.meetup.com/NY-JavaScript/)
+* [New York JavaScript Study Group](http://www.meetup.com/New-York-JavaScript-Study-Group/)
+
+### Python
+
+* [Learn Python NYC](http://www.meetup.com/learn-python-nyc/)
 * [The New York Python Meetup Group](http://www.meetup.com/nycpython/)
+
+### Ruby
+
+* [Ruby Nuby](http://www.meetup.com/ruby-nuby-info/)
+* [Ruby Project Night](http://www.meetup.com/Ruby-Project-Night-NYC/)
 
 ## Palm Beach
 
