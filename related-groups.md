@@ -62,6 +62,7 @@ title: Related Groups
 
 ### JavaScript
 
+* [Basic JavaScript Games](https://www.meetup.com/Basic-Javascript-Games/)
 * [Dancing with Marionette.js](http://www.meetup.com/Dancing-with-Marionette-js/)
 * [Ember NYC](http://www.meetup.com/EmberJS-NYC/)
 * [NY JavaScript](http://www.meetup.com/NY-JavaScript/)
