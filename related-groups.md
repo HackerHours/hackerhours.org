@@ -44,6 +44,11 @@ title: Related Groups
 
 * [Asbury Park Hacker Hours](https://www.meetup.com/Asbury-Park-Hacker-Hours/)
 
+## North Carolina
+
+* [Charlotte Python Meetup](http://www.meetup.com/python-charlotte/)
+* [Triangle Hacker Hours](http://www.meetup.com/trianglehackerhours/) (Raleigh/Durham)
+
 ## NYC
 
 * [Code Crew](http://www.meetup.com/codecrewny/)
@@ -81,10 +86,6 @@ title: Related Groups
 ## Palm Beach
 
 * [Palm Beach Tech Space](https://www.meetup.com/Palm-Beach-Tech-Space/)
-
-## Raleigh/Durham
-
-* [Triangle Hacker Hours](http://www.meetup.com/trianglehackerhours/)
 
 ## Seattle
 
