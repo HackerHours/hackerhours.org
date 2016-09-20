@@ -160,6 +160,16 @@ For finding in-person and/or online options.
 * [Girls Who Code](http://girlswhocode.com/)
 * [JewelBots](http://jewelbots.com/)
 
+## Giving talks
+
+...for beginners!
+
+* [_How to become a public speaker in 1 year_ series](https://medium.com/@cattsmall/how-to-become-a-public-speaker-in-1-year-step-1-build-confidence-253aa61b4d52#.t1zm2n1bm)
+* [PyCon: Proposing a Talk](https://us.pycon.org/2016/speaking/talks/) (not actually that Python-specific)
+* [Speaking resources from PyLadies](http://www.pyladies.com/blog/speaking-pycon/) (not actually that Python-specific)
+* [What Your Conference Proposal Is Missing](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
+* [What I learned from reading 429 conference proposals](http://www.noelrappin.com/railsrx/2014/3/17/what-i-learned-from-reading-429-conference-proposals)
+
 ## Random
 
 * [Awesome](https://github.com/sindresorhus/awesome): A curated list of awesome lists (of useful tools, frameworks, etc. for various languages)
