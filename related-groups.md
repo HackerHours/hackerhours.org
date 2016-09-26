@@ -6,6 +6,7 @@ title: Related Groups
 
 ## Multiple Locations
 
+* [CodeNewbie](http://www.codenewbie.org/meetup-events)
 * [CoderDojo](http://coderdojo.com/) (programming classes for kids)
 * [MOOC meetups](http://moocs.meetup.com/)
 * [Meetup](http://www.meetup.com/find/?categories=34)
@@ -52,6 +53,7 @@ title: Related Groups
 ## NYC
 
 * [Code Crew](http://www.meetup.com/codecrewny/)
+* [Dev Bootcamp NYC](http://www.meetup.com/DBC-NYC/)
 * [Hacker Hours at DevPost New York](http://www.meetup.com/Hacker-Hours-at-Devpost-New-York/)
 * [Invisible College NYC](http://www.meetup.com/Invisible-College-NYC/)
 * [Ladies Who Code](http://www.meetup.com/Ladies-Who-Code/)
