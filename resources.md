@@ -102,6 +102,7 @@ For finding in-person and/or online options.
 ### Guides
 
 * [24 Pull Requests](http://24pullrequests.com/contributing)
+* [Free Code Camp: How to contribute to open source](https://github.com/FreeCodeCamp/how-to-contribute-to-open-source)
 * [GitHub Guide: Contributing to Open Source](https://guides.github.com/overviews/os-contributing/)
 
 ### Finding projects
