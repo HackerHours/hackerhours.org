@@ -83,8 +83,14 @@ For finding in-person and/or online options.
 
 ### GitHub
 
-* [Getting started with GitHub and the Terminal](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
+#### Non-technical
+
+* [Introduction to GitHub for Newcomers](https://www.youtube.com/watch?v=uNa9GOtM6NE&feature=youtu.be)
 * [Introducing GitHub: A Non-Technical Guide](http://www.amazon.com/Introducing-GitHub-A-Non-Technical-Guide/dp/1491949740)
+
+#### Technical
+
+* [Getting started with GitHub and the Terminal](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
 * [Mastering GitHub](https://www.codeschool.com/courses/mastering-github) (levels 1 and 4 in particular)
 * [Resources from GitHub Help](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
 * [Thinkful's GitHub Pull Request Tutorial](http://www.thinkful.com/learn/github-pull-request-tutorial/)
