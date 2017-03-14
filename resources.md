@@ -75,6 +75,11 @@ For finding in-person and/or online options.
 
 *Start with [Teach Yourself to Code](http://teachyourselftocode.com/)*
 
+### Command line
+
+* [Learn Unix the Hard Way](https://learncodethehardway.org/unix/)
+* [Terminal Training: Command line for non-techies](https://terminal.training/)
+
 ### Git
 
 * [Codecademy's Learn Git](https://www.codecademy.com/learn/learn-git)
