@@ -171,6 +171,7 @@ For finding in-person and/or online options.
 
 * [Girls Who Code](http://girlswhocode.com/)
 * [JewelBots](http://jewelbots.com/)
+* [Tips for Getting Girls Involved in STEM](http://ithare.com/tips-for-getting-girls-involved-in-stem/)
 
 ## Giving talks
 
