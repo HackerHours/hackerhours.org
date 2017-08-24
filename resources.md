@@ -183,6 +183,23 @@ For finding in-person and/or online options.
 * [What Your Conference Proposal Is Missing](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
 * [What I learned from reading 429 conference proposals](http://www.noelrappin.com/railsrx/2014/3/17/what-i-learned-from-reading-429-conference-proposals)
 
+## Volunteer opportunities
+
+### Anywhere
+
+* [code.org](https://code.org/help)
+* [CoderDojo](https://coderdojo.com/volunteer/)
+* [contribute to open source](#getting-involved-in-open-source)
+* [NodeSchool](https://nodeschool.io/host.html)
+* [Organizing or mentoring at Hacker Hours](diy-guide.html) or any of the other [related groups](related-groups.html)
+* [TEALS](https://www.tealsk12.org/volunteers/)
+
+### NYC
+
+* [Nano Hacker Academy](https://www.nanohackers.org/)
+* [NYC Service](https://www.nycservice.org/)
+* [ScriptEd](https://scripted.org/volunteer/)
+
 ## Random
 
 * [Awesome](https://github.com/sindresorhus/awesome): A curated list of awesome lists (of useful tools, frameworks, etc. for various languages)
