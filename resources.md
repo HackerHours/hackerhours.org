@@ -196,6 +196,7 @@ For finding in-person and/or online options.
 
 ### NYC
 
+* [DataKind](http://www.datakind.org/do-good-with-data)
 * [Nano Hacker Academy](https://www.nanohackers.org/)
 * [NYC Service](https://www.nycservice.org/)
 * [ScriptEd](https://scripted.org/volunteer/)
