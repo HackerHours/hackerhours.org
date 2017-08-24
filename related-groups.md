@@ -55,12 +55,10 @@ title: Related Groups
 * [Code Crew](http://www.meetup.com/codecrewny/)
 * [Dev Bootcamp NYC](http://www.meetup.com/DBC-NYC/)
 * [Hacker Hours at DevPost New York](http://www.meetup.com/Hacker-Hours-at-Devpost-New-York/)
-* [Invisible College NYC](http://www.meetup.com/Invisible-College-NYC/)
+* [Hacking Queens](https://www.meetup.com/hackingqueens/)
 * [Ladies Who Code](http://www.meetup.com/Ladies-Who-Code/)
-* [Learn to Code - NYC](http://www.meetup.com/Learn-to-Code-NYC/)
 * [NYC Codecademy Group](http://www.meetup.com/NYC-Codecademy-Group/)
 * [NYC iOS Office Hours](http://www.meetup.com/NYC-iOS-Office-Hours/)
-* [NYC Learn Java Programming Meetup](http://www.meetup.com/Learn-Java-Programming/)
 * [New York MongoDB User Group](http://www.meetup.com/New-York-MongoDB-User-Group/)
 * [Problem Solving Practice for Coders](http://www.meetup.com/problemsolving/)
 * [Queens Software Development and Design](http://www.meetup.com/Queens-Bayside-Sofware-Development-and-Design/)
@@ -70,7 +68,6 @@ title: Related Groups
 ### JavaScript
 
 * [Basic JavaScript Games](https://www.meetup.com/Basic-Javascript-Games/)
-* [Dancing with Marionette.js](http://www.meetup.com/Dancing-with-Marionette-js/)
 * [Ember NYC](http://www.meetup.com/EmberJS-NYC/)
 * [NY JavaScript](http://www.meetup.com/NY-JavaScript/)
 * [New York JavaScript Study Group](http://www.meetup.com/New-York-JavaScript-Study-Group/)
@@ -92,11 +89,6 @@ title: Related Groups
 ## Seattle
 
 * [Ember.js Seattle](http://www.meetup.com/Ember-js-Seattle-Meetup/)
-* [Invisible College](http://www.meetup.com/Invisible-College-Meetup/)
-
-## Toronto
-
-* [Ember Hack Night](http://www.meetup.com/Ember-Hack-Night/)
 
 ## Others?
 

@@ -22,7 +22,7 @@ Make sure to omit any passwords, API keys, or other sensitive information.
 * [Code Crew blog](http://blog.codecrew.co/)
 * [CodeNewbie](http://www.codenewbie.org/)
 * [Journeyman](https://plus.google.com/communities/113669203485569960566?cfem=1)
-* [List of Free Programming Books](http://resrc.io/list/10/list-of-free-programming-books/)
+* [List of Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/README.md)
 * [Teach Yourself to Code](http://teachyourselftocode.com/) (list of coding resources by topic)
 
 ## Practice/Puzzles
@@ -33,7 +33,6 @@ All are language-agnostic.
 * [KataCatalogue](http://codingdojo.org/cgi-bin/index.pl?KataCatalogue)
 * [Exercism](http://exercism.io)
 * [Project Euler](http://projecteuler.net)
-* [Wildcard Programming Challenge](http://www.trywildcard.com/challenge)
 
 ## Getting a Job
 
@@ -60,7 +59,7 @@ All are language-agnostic.
 * [Tealeaf Academy](http://www.gotealeaf.com)
 * [Thinkful](https://www.thinkful.com/)
 * [Treehouse](http://teamtreehouse.com/)
-* [Upcase](https://upcase.com)
+* [Upcase](https://thoughtbot.com/upcase/)
 
 ### Lists
 
@@ -114,7 +113,8 @@ For finding in-person and/or online options.
 
 * [24 Pull Requests](http://24pullrequests.com/contributing)
 * [Free Code Camp: How to contribute to open source](https://github.com/FreeCodeCamp/how-to-contribute-to-open-source)
-* [GitHub Guide: Contributing to Open Source](https://guides.github.com/overviews/os-contributing/)
+* [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+* [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
 ### Finding projects
 
@@ -124,6 +124,7 @@ For finding in-person and/or online options.
 * [CodeTriage](http://www.codetriage.com/)
 * [First-Timers Only](https://twitter.com/first_tmrs_only)
 * [Search GitHub for `help-wanted`](https://github.com/search?o=desc&q=state%3Aopen+label%3A%22help+wanted%22&s=created&type=Issues&utf8=%E2%9C%93)
+* [Libraries.io](https://libraries.io/explore/first-pull-request)
 * [Looking for Pull Requests](http://www.lookingforpullrequests.com/)
 * [OpenDesign](http://opendesign.io/) (for designers)
 * [RubyIssue(s)](https://rubyissues.ongoodbits.com/)

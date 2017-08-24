@@ -20,7 +20,7 @@ title: Success Stories
 
 > I emailed you about a junior role we had available at Yodle, and after you sent the note out to Hacker Hours, we were inundated with resumes. Which was awesome. It was kindof a tricky position because of the skill sets involved, and I was so amazed that we got such great response. We ended up hiring two people who came from your group.
 
-–[Rebecca Sulock](http://www.linkedin.com/in/rebeccasulock), [Yodle](http://www.yodle.com)
+–[Rebecca Sulock](https://www.linkedin.com/in/rebeccasulock), [Yodle](http://www.yodle.com)
 
 ---
 

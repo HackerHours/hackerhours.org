@@ -6,11 +6,9 @@ title: Tutors
 
 * [AirPair](https://www.airpair.com)
 * [Codementor](https://www.codementor.io)
+* [Glitch](https://glitch.com/)
 * [HackHands](http://www.hackhands.com/)
 * [OnScreenExpert](https://www.onscreenexpert.com/)
-* Thoughtbot Coaching
-    * [iOS](http://coaching.thoughtbot.com/)
-    * [Rails](http://coaching.thoughtbot.com/rails/)
 * [Wizpert](https://wizpert.com)
 
 ## Individuals
@@ -66,13 +64,6 @@ Potential tutors, feel free to add your information below the line - please keep
 * **Rate:** 10/10
 * **Location**: UES, Manhattan
 * [Meetup profile](http://www.meetup.com/hackerhours/members/7191372/)
-
-### [Alex Potérya](http://my-devs.com)
-* **Expertise:** PHP, node.js, MySQL, NoSQL, JavaScript, Linux, DevOps, highload/high-traffic.
-* **Rate:** $50/h
-* **Email:** alex@my-devs.com
-* **GitHub:** [@alex-poterya](https://github.com/alex-poterya)
-* **Location**: New York
 
 ### Kfir Shay
 * **Expertise:** Ruby, Rails, JavaScript, Python, SQL, Postgres

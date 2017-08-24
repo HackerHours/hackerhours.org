@@ -22,7 +22,7 @@ Here are a few things to take into account when considering hosting:
 
 Meeting the above requirements, and reflecting on the aforementioned considerations, are the only things we ask to call your group "Hacker Hours".  We won't sue you or anything, but just ask in good faith.
 
-Read the [What ARE Hacker Hours](/about.html#what-are-hacker-hours) to get some backstory.
+Read the [What ARE Hacker Hours](about.html) to get some backstory.
 
 This guide will address "organizers" and "mentors" in order to clarify responsibilities, though one person can certainly serve both roles.  "Organizers" are people who schedule the event and are generally in charge of coordination.  "Mentors" are individuals with greater-than-zero programming experience who are willing to answer coding questions.  These titles aren't official or formal - just to help for purposes of this guide.
 
@@ -48,7 +48,7 @@ Hacker Hours NYC run twice per week, but don't feel like you need to make a long
 
 ### Location
 
-Hacker Hours NYC began in the eight-seat conference room at [Jux](http://jux.com), which had to move to [a coffee shop](http://www.vineapple.com/) after it consistently brought in over twenty people per session.  It then outgrew the coffee shop, and moved to a [coworking space](http://www.alleynyc.com/) (though another session started in a different office).  The breakdown:
+Hacker Hours NYC began in the eight-seat conference room at [Jux](http://www.archiveteam.org/index.php?title=Jux), which had to move to [a coffee shop](http://www.vineapple.com/) after it consistently brought in over twenty people per session.  It then outgrew the coffee shop, and moved to a [coworking space](https://youralley.com/) (though another session started in a different office).  The breakdown:
 
 * office
     * PROS
@@ -116,4 +116,4 @@ Depending on the homogeneity of the group, you may get a lot of repeat questions
 
 ## Conclusion
 
-You are awesome.  You should join the [Hacker Hours core](https://groups.google.com/forum/#!forum/hacker-hours-core) mailing list, and [get in touch](/about.html#contact) if you need anything (e.g help with promotion).
+You are awesome.  You should join the [Hacker Hours core](https://groups.google.com/forum/#!forum/hacker-hours-core) mailing list, and [get in touch](contact.html) if you need anything (e.g help with promotion).
