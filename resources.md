@@ -124,6 +124,7 @@ For finding in-person and/or online options.
 * [CodeTriage](http://www.codetriage.com/)
 * [First-Timers Only](https://twitter.com/first_tmrs_only)
 * [Search GitHub for `help-wanted`](https://github.com/search?o=desc&q=state%3Aopen+label%3A%22help+wanted%22&s=created&type=Issues&utf8=%E2%9C%93)
+* [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 * [Libraries.io](https://libraries.io/explore/first-pull-request)
 * [Looking for Pull Requests](http://www.lookingforpullrequests.com/)
 * [OpenDesign](http://opendesign.io/) (for designers)
