@@ -120,6 +120,7 @@ For finding in-person and/or online options.
 
 * [24 Pull Requests](http://24pullrequests.com/)
 * [BountySource](https://www.bountysource.com/)
+* [Code Corps](https://www.codecorps.org/)
 * [CodeMontage](http://codemontage.com/) – "find open source, social impact projects that improve the world"
 * [CodeTriage](http://www.codetriage.com/)
 * [First-Timers Only](https://twitter.com/first_tmrs_only)
