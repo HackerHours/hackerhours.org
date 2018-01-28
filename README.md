@@ -7,6 +7,6 @@ Landing page for the [Hacker Hours](http://www.meetup.com/hackerhours/) meetup.
 To run the site locally:
 
 ```bash
-bundle install
-bundle exec jekyll serve -w
+bundle
+bundle exec jekyll serve
 ```
