@@ -1,5 +1,3 @@
 /_site
 .sass-cache/
 Gemfile.lock
-
-bower_components/jquery/
