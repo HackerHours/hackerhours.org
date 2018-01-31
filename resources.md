@@ -161,6 +161,7 @@ For finding in-person and/or online options.
 * [littleBits](http://littlebits.cc/)
 * [Scratch](https://scratch.mit.edu/)
 * [Sonic Pi](http://sonic-pi.net/)
+* [Title Pro's Tinkering Guide](https://www.titlemax.com/articles/title-pros-tinkering-guide/)
 * [Tynker](https://www.tynker.com/)
 * [_more_](https://www.edsurge.com/research/guides/teaching-kids-to-code)
 
