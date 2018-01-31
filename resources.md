@@ -4,7 +4,7 @@ title: Resources
 
 ## Troubleshooting
 
-![Calvin and Hobbes](http://picayune.uclick.com/comics/ch/1995/ch950617.gif)
+![Calvin and Hobbes](https://picayune.uclick.com/comics/ch/1995/ch950617.gif)
 
 Make sure to omit any passwords, API keys, or other sensitive information.
 
