@@ -10,6 +10,12 @@ title: Success Stories
 
 ---
 
+> My daughter Ava and I just wanted to reach out and thank you. Ava is in girl scouts, and is working to earn her "Programming Robots" badge. The troop is learning all about simple machines, coding, and programming first - and were told to do some of their own research at home before their next meeting. Ava found [your Resources page](resources.html) and it has been so helpful to her I wanted to reach out and thank you. I haven't seen her this invested in something in a long time.
+
+-Jackie
+
+---
+
 > The people at Hacker Hours helped me so much when I ran into a problem. I remember Aidan showed me about a really cool gem that I had never heard of that solved a big problem I was having.
 >
 > To beginners I'd say don't be afraid, just go. It's a totally laid back environment where people just want to help each other out and are totally cool talking to beginners and experts alike. Even if you just want to go there and work on your own, it's a lot of fun.
