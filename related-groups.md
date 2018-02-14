@@ -29,6 +29,11 @@ title: Related Groups
 
 * [Chicago Ember.js](http://www.meetup.com/Chicago-Ember-js/)
 
+## Colorado
+
+* [Boulder Hacker Hours](https://www.meetup.com/Boulder-Hacker-Hours)
+* [Open Code Denver](https://www.meetup.com/Open-Code-Denver/)
+
 ## Kansas City
 
 * [Hacker Hours KC](http://www.meetup.com/Hacker-Hours-KC/)
@@ -36,6 +41,10 @@ title: Related Groups
 ## London
 
 * [Codebar](http://codebar.io)
+
+## Milwaukee
+
+* [Milwaukee Hacker Hours](https://www.meetup.com/Milwaukee-Hacker-Hours)
 
 ## Minneapolis
 
@@ -57,6 +66,7 @@ title: Related Groups
 * [Hacker Hours at DevPost New York](http://www.meetup.com/Hacker-Hours-at-Devpost-New-York/)
 * [Hacking Queens](https://www.meetup.com/hackingqueens/)
 * [Ladies Who Code](http://www.meetup.com/Ladies-Who-Code/)
+* [New York Linux Users Group (NYLUG)](https://www.meetup.com/nylug-meetings)
 * [NYC Codecademy Group](http://www.meetup.com/NYC-Codecademy-Group/)
 * [NYC iOS Office Hours](http://www.meetup.com/NYC-iOS-Office-Hours/)
 * [New York MongoDB User Group](http://www.meetup.com/New-York-MongoDB-User-Group/)
@@ -86,9 +96,14 @@ title: Related Groups
 
 * [Palm Beach Tech Space](https://www.meetup.com/Palm-Beach-Tech-Space/)
 
+## San Antonio
+
+* [San Antonio HackerHours](https://www.meetup.com/San-Antonio-HackerHours)
+
 ## Seattle
 
 * [Ember.js Seattle](http://www.meetup.com/Ember-js-Seattle-Meetup/)
+* [SeattleJS Hackers](https://www.meetup.com/seattlejshackers/)
 
 ## Others?
 
