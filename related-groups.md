@@ -79,6 +79,7 @@ title: Related Groups
 
 * [Basic JavaScript Games](https://www.meetup.com/Basic-Javascript-Games/)
 * [Ember NYC](http://www.meetup.com/EmberJS-NYC/)
+* [Javascript Hacker Hours NYC](https://www.meetup.com/Javascript-Hacker-Hours-NYC/)
 * [NY JavaScript](http://www.meetup.com/NY-JavaScript/)
 * [New York JavaScript Study Group](http://www.meetup.com/New-York-JavaScript-Study-Group/)
 
