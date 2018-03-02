@@ -7,7 +7,7 @@ title: Contact
 You can read past messages to the mailing list [here](http://www.meetup.com/hackerhours/messages/archive/).
 
 1. Make sure that the message fits into our [policies](/policies.html), specifically:
-    * All messages must be relevant to junior developers (job postings, events, etc.).
+    * All messages (job postings, events, etc.) must be relevant to junior developers in NYC.
     * Any recruiting must include `[JOB]` in the subject line.
 1. Join [the Meetup](http://www.meetup.com/hackerhours/).
     * This is required by the platform we use for our mailing list (meetup.com).
