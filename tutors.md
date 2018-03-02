@@ -43,6 +43,14 @@ Potential tutors, feel free to add your information below the line - please keep
 * **Website:** http://kjcurtin.com
 * **Email:** kevincurtin88@gmail.com
 
+### Michael de Senna
+* **Expertise:** Python, Django, Java
+* **Rate:** $50/hr
+* **Location:** Ridgewood, NJ or Skype
+* **Github:** [@desenna](https://github.com/desenna)
+* **Email:** desenna@gmail.com
+* [Meetup profile](http://www.meetup.com/hackerhours/members/6568087/)
+
 ### Eli Moreta-Feliz
 * **Expertise:** JavaScript, PHP, WordPress, MySQL, SASS
 * **Rate:** $1Bajillion/hr
