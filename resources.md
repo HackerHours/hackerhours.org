@@ -33,6 +33,7 @@ All are language-agnostic.
 * [KataCatalogue](http://codingdojo.org/cgi-bin/index.pl?KataCatalogue)
 * [Exercism](http://exercism.io)
 * [Project Euler](http://projecteuler.net)
+* [Edabit](https://edabit.com)
 
 ## Getting a Job
 
