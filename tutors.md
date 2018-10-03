@@ -8,8 +8,6 @@ title: Tutors
 * [Codementor](https://www.codementor.io)
 * [Glitch](https://glitch.com/)
 * [HackHands](http://www.hackhands.com/)
-* [OnScreenExpert](https://www.onscreenexpert.com/)
-* [Wizpert](https://wizpert.com)
 
 ## Individuals
 
