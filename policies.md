@@ -8,6 +8,7 @@ These policies apply to all Hacker Hours "spaces", which include: events, the Me
 
 * Anyone is welcome, and everyone should _feel_ welcome.
 * Be respectful of one another.  This is a small community and there is no room for jerks.
+* While mentors will make every effort to help, Hacker Hours does not guarantee that mentors with particular experience will be present at any given event or in the group, nor that any particular problem will be solved.
 * Recruiting is only allowed if the position is for junior developers, apprenticeships or internships.  We are also open to sponsorships (e.g. food + drink for an event) - [get in touch](/contact.html)!
 
 ## Communications
