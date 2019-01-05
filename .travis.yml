@@ -2,7 +2,7 @@ sudo: false
 language: ruby
 rvm:
 # https://pages.github.com/versions/
-- 2.1.1
+- 2.5.3
 cache: bundler
 script: bundle exec jekyll build
 branches:
