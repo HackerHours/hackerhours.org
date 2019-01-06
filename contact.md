@@ -2,6 +2,16 @@
 title: Contact
 ---
 
+## Organizers
+
+See the list of organizers [here](https://www.meetup.com/hackerhours/members/?op=leaders). The organizers can be reached:
+
+* [Meetup messages](https://www.meetup.com/hackerhours/members/?op=leaders)
+* [Slack](http://chat.hackerhours.org)
+    * [The #organizers channel](https://hackerhours.slack.com/messages/organizers/)
+    * Direct message to any of us
+* Email [hackerhoursnyc@gmail.com](mailto:hackerhoursnyc@gmail.com)
+
 ## Mailing list
 
 You can read past messages to the mailing list [here](http://www.meetup.com/hackerhours/messages/archive/).
@@ -14,14 +24,9 @@ You can read past messages to the mailing list [here](http://www.meetup.com/hack
 1. Send your message to [hackerhours-list@meetup.com](mailto:hackerhours-list@meetup.com).
     * You need to use the same email address as your meetup.com profile, or the message will silently bounce.
 
-Note that we do it this way, rather than one of the organizers forwarding a promotional email, so that
+We do it this way, rather than one of the organizers forwarding a promotional email, so that
 
 * It's clear who recipients should follow up with.
 * There is no appearance of endorsement.
 
-Also note that the mailing list is moderated.
-
-## Other
-
-* [Chat](http://chat.hackerhours.org)
-* [Contact the NYC organizer (Aidan Feldman)](mailto:hackerhoursnyc@gmail.com)
+The mailing list is moderated.

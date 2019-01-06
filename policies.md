@@ -2,7 +2,7 @@
 title: Policies
 ---
 
-These policies apply to all Hacker Hours "spaces", which include: events, the Meetup group, the mailing list, the chat room, and all other forms of communication related to the group. **If someone is violating any of these policies or you feel uncomfortable in the group in any way, please [let one of the organizers know](/contact.html).**
+These policies apply to all Hacker Hours "spaces", which include: events, the Meetup group, the mailing list, the chat room, and all other forms of communication related to the group. **If someone is violating any of these policies or you feel uncomfortable in the group in any way, please [let one of the organizers know](/contact.html#organizers).**
 
 ## General
 
