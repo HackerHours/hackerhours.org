@@ -11,3 +11,4 @@ Hacker Hours are **free office hours for programming help - any programming lang
 * [*The Man of the (Hacker) Hour*](http://tech.gilt.com/post/59016326319/the-man-of-the-hacker-hour), article by Lauri Apple, Gilt Tech Blog, 8/22/13
 * [CodeNewbie Podcast interview](http://www.codenewbie.org/podcast/hacker-hours)
 * [Startup Resources to Breakthrough in Silicon Alley](https://medium.com/@Usspire/startup-resources-to-breakthrough-in-silicon-alley-part-1-events-meetups-864d408d987e)
+* [Running first-time contributor workshops - Thoughtbot](https://robots.thoughtbot.com/running-firsttime-contributor-workshops)
