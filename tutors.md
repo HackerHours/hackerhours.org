@@ -7,7 +7,6 @@ title: Tutors
 * [AirPair](https://www.airpair.com)
 * [Codementor](https://www.codementor.io)
 * [Glitch](https://glitch.com/)
-* [HackHands](http://www.hackhands.com/)
 
 ## Individuals
 
@@ -64,6 +63,14 @@ Potential tutors, feel free to add your information below the line - please keep
 * **Github:** [Blake Johnson](https://github.com/blake41)
 * **Twitter:** [@blake41](https://twitter.com/blake41)
 * **Email:** blake41@gmail.com
+
+### [Caleb Lewis](mailto:caleb.dre@gmail.com?subject=[language/framework]%20tutoring)
+* **Expertise:** Javascript, PHP, Python, Java, Android, Machine Learning
+* **Rate:** $100/hr (negotiable)
+* **Location:** Upper West Side, Manhattan
+* **Website:** http://www.caleblewis.me
+* **Github:** [@calebdre](https://github.com/calebdre)
+* **Email:** [caleb.dre@gmail.com](mailto:caleb.dre@gmail.com?subject=[language/framework]%20tutoring)
 
 ### [Christopher Liu](https://github.com/christopherliu)
 * **Expertise:** Python, JavaScript, SQL
