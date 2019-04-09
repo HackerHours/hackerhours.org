@@ -1,8 +1,13 @@
 @import "trig";
 
 .logo {
+  $front-width: 400px;
+
   .background {
     background: linear-gradient(90deg, #9000eb, #00cacf);
+    display: inline-block;
+    padding: 35px 0;
+    width: $front-width;
   }
 
   $left-skew: -35deg;
@@ -10,14 +15,11 @@
 
   .foreground {
     display: grid;
-    grid-template-columns: $left-width 400px;
+    grid-template-columns: $left-width $front-width;
     $left-face-width: tan(abs($left-skew)) * $left-width;
     grid-template-rows: 300px $left-face-width;
-  }
-
-  .face {
-    border: 1px solid black;
-    box-sizing: border-box;
+    left: -15px;
+    position: relative;
   }
 
   .front-face {
