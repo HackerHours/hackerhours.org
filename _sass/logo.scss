@@ -5,13 +5,14 @@
     background: linear-gradient(90deg, #9000eb, #00cacf);
   }
 
-  $left-skew: -30deg;
-  $left-width: 100px;
+  $left-skew: -35deg;
+  $left-width: 50px;
 
   .foreground {
     display: grid;
-    grid-template-columns: $left-width 300px;
-    grid-template-rows: 400px (tan(abs($left-skew)) * $left-width);
+    grid-template-columns: $left-width 400px;
+    $left-face-width: tan(abs($left-skew)) * $left-width;
+    grid-template-rows: 300px $left-face-width;
   }
 
   .face {
