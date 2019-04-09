@@ -1,14 +1,17 @@
+@import "trig";
+
 .logo {
   .background {
     background: linear-gradient(90deg, #9000eb, #00cacf);
   }
 
   $left-skew: -30deg;
+  $left-width: 100px;
 
   .foreground {
     display: grid;
-    grid-template-columns: 100px 300px;
-    grid-template-rows: 400px 100px;
+    grid-template-columns: $left-width 300px;
+    grid-template-rows: 400px (tan(abs($left-skew)) * $left-width);
   }
 
   .face {
