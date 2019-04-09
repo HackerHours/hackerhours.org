@@ -13,11 +13,15 @@
   src: url("../assets/fonts/kollektif/Kollektif.ttf") format("truetype");
 }
 
+html {
+  background-color: black;
+}
+
 .logo {
   $front-height: 300px;
   $front-width: 405px;
 
-  line-height: 1;
+  line-height: 0.9;
 
   .background {
     background: linear-gradient(90deg, #7c2ae8, #00c4cc);
@@ -44,7 +48,7 @@
     font-size: $front-height / 2;
     grid-column: 2;
     grid-row: 1;
-    padding: 8px 23px;
+    padding: 19px 23px;
     text-transform: uppercase;
   }
 
@@ -57,7 +61,7 @@
   }
 
   .location {
-    bottom: 80px;
+    bottom: 71px;
     display: inline-block;
     font-family: Kollektif, sans-serif;
     font-size: 0.35em;
