@@ -1,3 +1,4 @@
+@import "constants";
 @import "trig";
 
 // https://www.fontsquirrel.com/fonts/league-gothic
@@ -20,7 +21,7 @@
   line-height: 0.9;
 
   .background {
-    background: linear-gradient(90deg, #7c2ae8, #00c4cc);
+    background: linear-gradient(90deg, $hh-purple, $hh-teal);
     display: inline-block;
     padding: 35px 0;
     width: $front-width;
@@ -42,7 +43,7 @@
   $face-border: 1px solid black;
 
   .front-face {
-    background-color: #eff0f2;
+    background-color: $hh-grey;
     border: $face-border;
     font-family: "League Gothic", sans-serif;
     font-size: $front-height / 2;
@@ -72,7 +73,7 @@
   }
 
   .left-face {
-    background-color: #ff5757;
+    background-color: $hh-red;
     border-bottom: $face-border;
     border-left: $face-border;
     border-top: $face-border;
@@ -83,7 +84,7 @@
   }
 
   .bottom-face {
-    background-color: #ff66c4;
+    background-color: $hh-pink;
     border-bottom: $face-border;
     border-right: $face-border;
     grid-column: 2;
