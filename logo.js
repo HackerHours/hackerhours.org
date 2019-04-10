@@ -9,21 +9,24 @@ const sharp = require("sharp");
 
   console.log("Taking screenshot...");
   const browser = await puppeteer.launch();
-  const page = await browser.newPage();
-  await page.goto(`file://${__dirname}/_site/logo.html`);
-  const img = await page.screenshot({
-    omitBackground: true
-  });
-
-  console.log("Trimming screenshot...");
-  sharp(img)
-    .trim()
-    .toFile("logo.png", err => {
-      if (err) {
-        console.error(err);
-      }
+  try {
+    const page = await browser.newPage();
+    await page.goto(`file://${__dirname}/_site/logo.html`);
+    const img = await page.screenshot({
+      omitBackground: true
     });
 
-  await browser.close();
-  console.log("Done!");
+    console.log("Trimming screenshot...");
+    sharp(img)
+      .trim()
+      .toFile("logo.png", err => {
+        if (err) {
+          console.error(err);
+        }
+      });
+
+    console.log("Done!");
+  } finally {
+    await browser.close();
+  }
 })();
