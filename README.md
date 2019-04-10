@@ -11,7 +11,9 @@ bundle
 bundle exec jekyll serve
 ```
 
-To compile the logo, install Node.js, then run:
+## Logo
+
+The logo was designed by @kristinbarr. To create a PNG of the logo, install Node.js, then run:
 
 ```sh
 npm install
