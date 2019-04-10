@@ -17,15 +17,16 @@ const sharp = require("sharp");
     });
 
     console.log("Trimming screenshot...");
+    const output = "logo.png";
     sharp(img)
       .trim()
-      .toFile("logo.png", err => {
+      .toFile(output, err => {
         if (err) {
           console.error(err);
         }
       });
 
-    console.log("Done!");
+    console.log(`Done! Written to ${output}.`);
   } finally {
     await browser.close();
   }

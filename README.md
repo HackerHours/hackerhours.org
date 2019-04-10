@@ -6,7 +6,14 @@ Landing page for the [Hacker Hours](http://www.meetup.com/hackerhours/) meetup.
 
 To run the site locally:
 
-```bash
+```sh
 bundle
 bundle exec jekyll serve
+```
+
+To compile the logo, install Node.js, then run:
+
+```sh
+npm install
+node logo.js
 ```
