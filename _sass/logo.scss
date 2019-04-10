@@ -1,4 +1,3 @@
-@import "constants";
 @import "trig";
 
 // https://www.fontsquirrel.com/fonts/league-gothic
@@ -43,7 +42,7 @@
   $face-border: 1px solid black;
 
   .front-face {
-    background-color: $hh-grey;
+    background-color: white;
     border: $face-border;
     font-family: "League Gothic", sans-serif;
     font-size: $front-height / 2;
