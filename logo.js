@@ -17,7 +17,7 @@ const puppeteer = require("puppeteer");
     });
 
     console.log("Trimming screenshot...");
-    const output = "logo.png";
+    const output = "assets/logo.png";
     const imageMagick = gm.subClass({ imageMagick: true });
     imageMagick(img)
       .trim()

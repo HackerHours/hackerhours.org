@@ -34,8 +34,7 @@
     grid-template-columns: $left-width $front-width;
     $left-face-height: tan(abs($left-skew)) * $left-width;
     grid-template-rows: $front-height $left-face-height;
-    left: -15px;
-    position: relative;
+    transform: translateX(-15px);
   }
 
   // add only one border at each edge (explicitly) below, since it's not easy to get neighboring borders to collapse otherwise
