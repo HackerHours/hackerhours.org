@@ -13,7 +13,9 @@ bundle exec jekyll serve
 
 ## Logo
 
-The logo was designed by @kristinbarr. To create a PNG of the logo, install Node.js, then run:
+The logo was designed by @kristinbarr. With the server running, view it at http://localhost:4000/logo.html.
+
+To create a PNG of the logo, install Node.js, then run:
 
 ```sh
 npm install
