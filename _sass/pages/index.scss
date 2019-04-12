@@ -1,11 +1,11 @@
 .page-index {
   .content {
-    padding: 200px 20px 125px;
+    padding: 20px 5px;
     text-align: center;
   }
-  h1 {
-    font-size: 5em;
-    margin-bottom: 0.2em;
+  .logo {
+    margin: 2rem 0;
+    max-width: 300px;
   }
   h2 {
     font-size: 1.4em;
@@ -47,14 +47,6 @@
       #dateStr {
         opacity: 1;
       }
-    }
-  }
-}
-
-@media all and (max-height: 650px) {
-  .page-index {
-    .content {
-      padding: 20px 5px;
     }
   }
 }

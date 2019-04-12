@@ -1,6 +1,6 @@
 const { execSync } = require("child_process");
+const gm = require("gm");
 const puppeteer = require("puppeteer");
-const sharp = require("sharp");
 
 (async () => {
   console.log("Building Jekyll site...");
@@ -17,12 +17,13 @@ const sharp = require("sharp");
     });
 
     console.log("Trimming screenshot...");
-    const output = "logo.png";
-    sharp(img)
+    const output = "assets/logo.png";
+    const imageMagick = gm.subClass({ imageMagick: true });
+    imageMagick(img)
       .trim()
-      .toFile(output, err => {
+      .write(output, err => {
         if (err) {
-          console.error(err);
+          throw err;
         }
       });
 

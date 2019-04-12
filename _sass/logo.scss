@@ -14,37 +14,40 @@
 }
 
 .logo {
-  $front-height: 300px;
-  $front-width: 405px;
+  $front-height: 19rem;
+  $front-width: 25.5rem;
 
   line-height: 0.9;
 
   .background {
-    background: linear-gradient(90deg, #7c2ae8, #00c4cc);
+    background: linear-gradient(90deg, $hh-purple, $hh-teal);
     display: inline-block;
-    padding: 35px 0;
+    padding: 2rem 0;
     width: $front-width;
   }
 
   $left-skew: -37deg;
-  $left-width: 50px;
+  $left-width: 3rem;
 
   .foreground {
     display: grid;
     grid-template-columns: $left-width $front-width;
     $left-face-height: tan(abs($left-skew)) * $left-width;
     grid-template-rows: $front-height $left-face-height;
-    left: -15px;
-    position: relative;
+    transform: translateX(-1rem);
   }
 
+  // add only one border at each edge (explicitly) below, since it's not easy to get neighboring borders to collapse otherwise
+  $face-border: 1px solid black;
+
   .front-face {
-    background-color: #eff0f2;
+    background-color: white;
+    border: $face-border;
     font-family: "League Gothic", sans-serif;
     font-size: $front-height / 2;
     grid-column: 2;
     grid-row: 1;
-    padding: 19px 23px;
+    padding: 1.4rem;
     text-transform: uppercase;
   }
 
@@ -53,11 +56,11 @@
   }
 
   .hh {
-    letter-spacing: 7px;
+    letter-spacing: 0.4rem;
   }
 
   .location {
-    bottom: 71px;
+    bottom: 4.5rem;
     display: inline-block;
     font-family: Kollektif, sans-serif;
     font-size: 0.35em;
@@ -68,7 +71,10 @@
   }
 
   .left-face {
-    background-color: #ff5757;
+    background-color: $hh-red;
+    border-bottom: $face-border;
+    border-left: $face-border;
+    border-top: $face-border;
     grid-column: 1;
     grid-row: 1;
     transform: skewY($left-skew);
@@ -76,7 +82,9 @@
   }
 
   .bottom-face {
-    background-color: #ff66c4;
+    background-color: $hh-pink;
+    border-bottom: $face-border;
+    border-right: $face-border;
     grid-column: 2;
     grid-row: 2;
     transform: skewX(-90deg - $left-skew);
