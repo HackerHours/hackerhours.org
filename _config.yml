@@ -1,10 +1,10 @@
 name: Hacker Hours
 markdown: kramdown
 exclude:
+  - node_modules
   - vendor
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: default

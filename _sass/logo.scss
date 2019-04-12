@@ -1,0 +1,85 @@
+@import "trig";
+
+// https://www.fontsquirrel.com/fonts/league-gothic
+@font-face {
+  font-family: League Gothic;
+  src: url("../assets/fonts/League-Gothic/LeagueGothic-Regular.otf")
+    format("opentype");
+}
+
+// https://befonts.com/kollektif-typeface.html
+@font-face {
+  font-family: Kollektif;
+  src: url("../assets/fonts/kollektif/Kollektif.ttf") format("truetype");
+}
+
+.logo {
+  $front-height: 300px;
+  $front-width: 405px;
+
+  line-height: 0.9;
+
+  .background {
+    background: linear-gradient(90deg, #7c2ae8, #00c4cc);
+    display: inline-block;
+    padding: 35px 0;
+    width: $front-width;
+  }
+
+  $left-skew: -37deg;
+  $left-width: 50px;
+
+  .foreground {
+    display: grid;
+    grid-template-columns: $left-width $front-width;
+    $left-face-height: tan(abs($left-skew)) * $left-width;
+    grid-template-rows: $front-height $left-face-height;
+    left: -15px;
+    position: relative;
+  }
+
+  .front-face {
+    background-color: #eff0f2;
+    font-family: "League Gothic", sans-serif;
+    font-size: $front-height / 2;
+    grid-column: 2;
+    grid-row: 1;
+    padding: 19px 23px;
+    text-transform: uppercase;
+  }
+
+  .front-face-inner {
+    position: relative;
+  }
+
+  .hh {
+    letter-spacing: 7px;
+  }
+
+  .location {
+    bottom: 71px;
+    display: inline-block;
+    font-family: Kollektif, sans-serif;
+    font-size: 0.35em;
+    position: absolute;
+    right: 0;
+    transform: rotate(90deg);
+    transform-origin: bottom center;
+  }
+
+  .left-face {
+    background-color: #ff5757;
+    grid-column: 1;
+    grid-row: 1;
+    transform: skewY($left-skew);
+    transform-origin: top right;
+  }
+
+  .bottom-face {
+    background-color: #ff66c4;
+    grid-column: 2;
+    grid-row: 2;
+    transform: skewX(-90deg - $left-skew);
+    transform-origin: top left;
+  }
+}

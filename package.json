@@ -1,0 +1,8 @@
+{
+  "name": "hackerhours.org",
+  "private": true,
+  "dependencies": {
+    "puppeteer": "^1.14.0",
+    "sharp": "^0.22.0"
+  }
+}
