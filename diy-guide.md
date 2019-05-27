@@ -78,7 +78,7 @@ Hacker Hours NYC began in the eight-seat conference room at [Jux](http://www.arc
 
 ### Cost
 
-One of the beauties of Hacker Hours is that the cost (can be) next to nothing.  [Twilio](http://www.twilio.com/) sponsors Hacker Hours in paying for the domain and the Meetup fee, but that's really it.  Providing food, drinks or snacks is an option, but not necessary.
+One of the beauties of Hacker Hours is that the cost (can be) next to nothing. Some years we get sponsors to cover the domain registration and the Meetup fee, but that's really it.  Providing food, drinks or snacks is an option, but not necessary. See [our open finance tracker](https://docs.google.com/spreadsheets/d/1yhz84pGZF_NQ8SNoaJVlzt2iACgPXyTt4dN2GbJeDpI/edit#gid=0) to see specifics.
 
 ## Scaling
 
