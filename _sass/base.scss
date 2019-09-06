@@ -1,15 +1,12 @@
 html {
   background: #ededed;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   line-height: 1.4;
 }
 h1 {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   font-weight: normal; // reset for mobile - http://css-tricks.com/forums/discussion/comment/44182/#Comment_44182
   margin-top: 0;
-}
-img {
-  max-width: 100%;
 }
 pre,
 code {
@@ -34,7 +31,7 @@ blockquote {
 }
 
 .navbar a {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   color: gray;
 }
 .content {
@@ -71,7 +68,6 @@ h4 {
     opacity: 1;
   }
 }
-
 
 @media all and (max-height: 360px) {
   p {
