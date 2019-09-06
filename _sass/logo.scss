@@ -1,11 +1,5 @@
 @import "trig";
-
-// https://www.fontsquirrel.com/fonts/league-gothic
-@font-face {
-  font-family: League Gothic;
-  src: url("../assets/fonts/League-Gothic/LeagueGothic-Regular.otf")
-    format("opentype");
-}
+@import "league_gothic";
 
 // https://befonts.com/kollektif-typeface.html
 @font-face {

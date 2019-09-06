@@ -1,4 +1,5 @@
 @import "constants";
+@import "../league_gothic";
 
 .page-index {
   .content {
@@ -58,9 +59,10 @@
     border: 1px solid black;
     color: white;
     display: inline-block;
-    font-size: 1.5rem;
-    font-weight: bold;
+    font-family: "League Gothic", sans-serif;
+    font-size: 2.5rem;
+    letter-spacing: 0.08rem;
     margin-bottom: 2rem;
-    padding: 0.5rem 1rem;
+    padding: 0.1rem 1rem;
   }
 }
