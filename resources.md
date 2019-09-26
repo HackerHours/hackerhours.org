@@ -21,7 +21,6 @@ Make sure to omit any passwords, API keys, or other sensitive information.
 * [Code Buddies](http://codebuddies.org/?rc=hh)
 * [Code Crew blog](http://blog.codecrew.co/)
 * [CodeNewbie](http://www.codenewbie.org/)
-* [Journeyman](https://plus.google.com/communities/113669203485569960566?cfem=1)
 * [List of Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/README.md)
 * [Roadmaps for Developers](https://roadmap.sh/)
 * [Teach Yourself to Code](http://teachyourselftocode.com/) (list of coding resources by topic)
