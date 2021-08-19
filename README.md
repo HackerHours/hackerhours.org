@@ -11,6 +11,12 @@ bundle
 bundle exec jekyll serve
 ```
 
+To regenerate the static site:
+
+```sh
+bundle exec jekyll build
+```
+
 ## Logo
 
 The logo was designed by @kristinbarr. With the server running, view it at http://localhost:4000/logo.html.
